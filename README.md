@@ -65,3 +65,7 @@ Los controles cubren identificadores, enlaces, fechas, relaciones entre materias
 ## Visor
 
 La vista previa usa un iframe de Google Drive bajo demanda. No requiere proxy ni backend. PDF.js podría utilizarse si se alojaran los PDF en un origen compatible; los enlaces compartidos de Drive no garantizan las condiciones necesarias. Por ahora se mantiene el enlace original de cada archivo.
+
+### Resultado de la comprobación publicada
+
+Portada, calendario, cambio de semana, búsqueda, ficha de una clase recuperada, cierre con Escape y modo oscuro comprobados en el navegador de escritorio. La prueba visual específica a 320 píxeles no pudo ejecutarse por una restricción del navegador de esta sesión; queda pendiente, al igual que una auditoría con lector de pantalla. El diseño adaptable y los controles de teclado están implementados, pero no se declara una certificación de accesibilidad.
