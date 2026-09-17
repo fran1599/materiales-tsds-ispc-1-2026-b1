@@ -2,6 +2,16 @@
 
 Biblioteca estudiantil para primer año de Desarrollo de Software, cohorte 2026, comisión B1. Conserva las comisiones y autorías que documenta cada fuente, incluso cuando el material es general o de otra comisión. No es un sitio oficial del ISPC.
 
+## Tecnologías, aportes y licencias
+
+- [Documentación técnica](docs/TECNICA.md): arquitectura, tecnologías, archivos, desarrollo y publicación.
+- [Cómo aportar](CONTRIBUTING.md): sugerencias sin programar, revisión de materiales y flujo de pull requests.
+- [Licencias y atribución](docs/LICENCIAS.md): estado actual, derechos de terceros y propuesta para el código.
+
+**Licencia del proyecto pendiente de elección.** El repositorio todavía no tiene una licencia de reutilización declarada. MIT está documentada como propuesta, no como licencia vigente. Los documentos educativos enlazados conservan las condiciones de sus titulares.
+
+El sitio usa HTML, CSS, JavaScript nativo y JSON; GitHub Pages lo publica y GitHub Actions valida los cambios. Python 3 y Node.js se utilizan para desarrollo y comprobaciones. No hay framework ni paquetes de aplicación que instalar.
+
 ## Sitio y publicación
 
 Sitio estático en `dist/`: HTML, CSS y JavaScript sin dependencias, base de datos ni servicios pagos. Los documentos permanecen en Drive. Funciona en subdirectorios de GitHub Pages.
