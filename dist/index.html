@@ -6,18 +6,20 @@
   <meta name="description" content="Materiales de Desarrollo de Software del ISPC, organizados por materia: apuntes, programas, prácticas y cronogramas con enlaces a cada archivo.">
   <title>Entre apuntes · Desarrollo de Software</title>
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23183f36'/%3E%3Cpath d='M7 8h7l2 2 2-2h7v16h-7l-2 2-2-2H7z' fill='none' stroke='%23faf6ed' stroke-width='2'/%3E%3Cpath d='M16 10v16' stroke='%23faf6ed' stroke-width='2'/%3E%3C/svg%3E">
+  <script src="./theme.js"></script>
   <link rel="stylesheet" href="./styles.css">
   <script src="./app.js" defer></script>
 </head>
 <body>
 <a class="skip" href="#main">Saltar al contenido</a>
 <aside class="sidebar" id="sidebar">
+ <button id="close-menu" class="close-menu" aria-label="Cerrar navegación">Cerrar ×</button>
  <a class="brand" href="#inicio" aria-label="Entre apuntes, inicio"><span class="brand-mark" aria-hidden="true">ea<span>↗</span></span><span>entre<br>apuntes<span class="brand-dot">.</span></span></a>
  <div class="sidebar-caption">BIBLIOTECA ENTRE ESTUDIANTES</div>
  <nav aria-label="Navegación principal">
   <a href="#inicio" data-nav="inicio"><span aria-hidden="true">⌂</span> Explorar materias</a>
   <a href="#materiales" data-nav="materiales"><span aria-hidden="true">▤</span> Todos los materiales</a>
-  <a href="#agenda" data-nav="agenda"><span aria-hidden="true">▦</span> Agenda de cursada</a>
+  <a href="#agenda" data-nav="agenda"><span aria-hidden="true">▦</span> Horarios y agenda</a>
   <div class="nav-label">MATERIAS</div>
   <div id="subject-nav"></div>
   <div class="nav-divider"></div>
@@ -26,11 +28,12 @@
  </nav>
  <div class="sidebar-foot"><span class="small-dot"></span> Una iniciativa estudiantil<p>Instituto Superior Politécnico Córdoba<br>Desarrollo de Software</p></div>
 </aside>
+<div id="menu-backdrop" class="menu-backdrop" hidden></div>
 <div class="shell">
  <header class="topbar">
   <button class="menu-button" id="menu" aria-controls="sidebar" aria-expanded="false" aria-label="Abrir navegación">☰</button>
   <div class="breadcrumb">Desarrollo de Software <span>/</span> <strong id="breadcrumb-current">Biblioteca</strong></div>
-  <span class="edition-tag">COLECCIÓN 2026</span>
+  <label class="theme-control">Tema<select id="theme"><option value="system">Automático</option><option value="light">Claro</option><option value="dark">Oscuro</option></select></label>
  </header>
  <main id="main" tabindex="-1"><div class="loading" role="status">Cargando materiales…</div></main>
  <footer class="footer"><span>Entre apuntes · Hecho para acompañar la cursada.</span><a href="#acerca">Fuentes y actualización ↗</a></footer>

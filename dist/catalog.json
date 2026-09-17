@@ -51,7 +51,7 @@
       "commission": "B en la hoja de ruta; no especifica B1",
       "teachers": "Verónica Karina Pagnoni y Daniel Alejandro Meloni.",
       "source": "1wy17P8nySyXe4AHagl7TpY5o-6OP4DK_",
-      "notes": "Se organizan los apuntes por unidad y se conservan las etiquetas de clase. Cinco archivos de clases asincrónicas no ofrecieron texto legible y están pendientes de revisión. La hoja de ruta repite fechas en sus últimas dos semanas: no se asigna una fecha de defensa.",
+      "notes": "Se organizan los apuntes por unidad y se conservan las etiquetas de clase. Se incorporaron seis guías asincrónicas tras revisar visualmente sus páginas. La hoja de ruta repite fechas en sus últimas dos semanas: no se asigna una fecha de defensa.",
       "edition": "2026"
     },
     {
@@ -87,7 +87,7 @@
       "code": "MT",
       "color": "rose",
       "period": "2026 · Segundo cuatrimestre",
-      "commission": "No especificada en el programa",
+      "commission": "Comisión B, según la captura del horario compartida el 17/09/2026.",
       "teachers": "Laura Zavia y Lucía Brochero.",
       "source": "1lzAAYVba9e24DVTZ-WWbSjZLy_jlYjZG",
       "notes": "Incluye las tres unidades y documentación de evaluación. El acceso directo a la hoja de ruta no pudo resolverse. La agenda sólo recoge la fecha expresada en la consigna disponible.",
@@ -120,6 +120,19 @@
       "edition": "2026"
     },
     {
+      "id": "etica",
+      "title": "Ética y Deontología Profesional",
+      "short": "Ética y Deontología",
+      "code": "EP",
+      "color": "olive",
+      "period": "Cursada por confirmar",
+      "commission": "Comisión por confirmar",
+      "teachers": "Docentes por confirmar",
+      "source": null,
+      "notes": "La carpeta compartida está vacía. Se incorporarán materiales generales cuando estén disponibles.",
+      "edition": "2026"
+    },
+    {
       "id": "institucional",
       "title": "Documentos institucionales",
       "short": "Institucional",
@@ -129,7 +142,7 @@
       "commission": "Todas las comisiones",
       "teachers": "Instituto Superior Politécnico Córdoba",
       "source": null,
-      "notes": "Incluye el Régimen Académico Institucional y el Régimen Académico Marco de 2025. La vigencia normativa posterior no fue verificada. El acta de representación queda pendiente de revisión visual de posibles firmas o datos personales.",
+      "notes": "Incluye el Régimen Académico Institucional y el Régimen Académico Marco de 2025, presentes en la carpeta institucional compartida. La vigencia normativa posterior no fue verificada.",
       "edition": "2026"
     }
   ],
@@ -152,9 +165,9 @@
       "originalName": "Proyecto ABP Arquitectura de las Computadoras_2026.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las computadoras"
+      "sourcePath": "Arquitectura de las Computadoras"
     },
     {
       "id": "1XGmtELKNKb0RohTQWroKCLhEWGnfSB9d",
@@ -174,9 +187,9 @@
       "originalName": "HOJA DE RUTA (3).pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las computadoras"
+      "sourcePath": "Arquitectura de las Computadoras"
     },
     {
       "id": "1B4h5H9bxAJvUBsyfTZzBH_ABH0MQDhi8",
@@ -196,9 +209,9 @@
       "originalName": "CRITERIOS DE EVALUACIÓN.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las computadoras"
+      "sourcePath": "Arquitectura de las Computadoras"
     },
     {
       "id": "1wy17P8nySyXe4AHagl7TpY5o-6OP4DK_",
@@ -218,9 +231,9 @@
       "originalName": "Programa Arquitectura de las Computadoras_2026.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las computadoras"
+      "sourcePath": "Arquitectura de las Computadoras"
     },
     {
       "id": "1_Ic_AI7YmKc8l-6mEP4IVMwufDZrilOx",
@@ -240,7 +253,7 @@
       "originalName": "Proyecto ABP - Elementos de Matemática y Lógica.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Elementos de Matemática y Lógica"
     },
@@ -262,7 +275,7 @@
       "originalName": "MODELO ABP.docx",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Elementos de Matemática y Lógica"
     },
@@ -284,7 +297,7 @@
       "originalName": "HOJA DE RUTA - TSDS - COM B1 - 2026 (7-sep-2026).pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Elementos de Matemática y Lógica"
     },
@@ -306,7 +319,7 @@
       "originalName": "Programa Elementos de Matemática y Lógica .docx.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Elementos de Matemática y Lógica"
     },
@@ -328,9 +341,9 @@
       "originalName": "RÉGIMEN ACADÉMICO INSTITUCIONAL (1).pdf",
       "edition": "Institucional",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Representación estudiantil (compartida)"
+      "sourcePath": "Documentación institucional"
     },
     {
       "id": "12U5FZFlpT2_9pjUScHQL2OwDo3Et7Wyt",
@@ -350,9 +363,9 @@
       "originalName": "RM_298-2025_RAM.pdf",
       "edition": "Institucional",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Representación estudiantil (compartida)"
+      "sourcePath": "Documentación institucional"
     },
     {
       "id": "1IQQAqUOad07KJZE_ksjRyTCYPU1FyrAa",
@@ -372,7 +385,7 @@
       "originalName": "Lineamientos Evidencias_De_Aprendizajes.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Aproximación al Mundo del Trabajo"
     },
@@ -394,7 +407,7 @@
       "originalName": "AMT_CriteriosEvaluación.docx.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Aproximación al Mundo del Trabajo"
     },
@@ -416,7 +429,7 @@
       "originalName": "AMT_Programa.docx.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Aproximación al Mundo del Trabajo"
     },
@@ -438,9 +451,9 @@
       "originalName": "Clase 2 - sincrónico.pptx.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las computadoras / Clase 2"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 2"
     },
     {
       "id": "1dGFSzMF7q9m56TPlJM9AY9qgeaD9ewrr",
@@ -460,9 +473,9 @@
       "originalName": "02_Sistemas de Representación de Datos.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las computadoras / Clase 2"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 2"
     },
     {
       "id": "1fFNJfwbf4DIamnYgA_szKr63Gppvn0Ca",
@@ -482,9 +495,9 @@
       "originalName": "04_Componentes de la Computadora Moderna.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las computadoras / Clase 4"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 4"
     },
     {
       "id": "1E8l542r7oZKQYLcZZJFJVGp0B8fEjadB",
@@ -504,9 +517,9 @@
       "originalName": "Clase 3 - sincrónico.pptx.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las computadoras / Clase 3"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 3"
     },
     {
       "id": "1L6dp7ybBohl_ZUb5hJBzscZEaU0f9mRX",
@@ -526,9 +539,9 @@
       "originalName": "03_Lógica Digital y Diseño de Circuitos.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las computadoras / Clase 3"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 3"
     },
     {
       "id": "1pV0YqI-T612baa_4grasrm2CVTkqF9ID",
@@ -548,9 +561,9 @@
       "originalName": "Clase 1 - sincrónico.pptx.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las computadoras / Clase 1"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 1"
     },
     {
       "id": "1l3kM4n7Mn7gdP71RvDBr6GokTfJ3rG-0",
@@ -570,9 +583,9 @@
       "originalName": "01_Introducción a la Arquitectura de Computadoras.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las computadoras / Clase 1"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 1"
     },
     {
       "id": "1DB8aJ0Eybqh3CuR6naGKPA9wcTVLCWlE",
@@ -592,9 +605,9 @@
       "originalName": "Material Teórico Expresiones Algebraicas.docx.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 3 - Álgebra y funciones"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 3 - Álgebra y funciones"
     },
     {
       "id": "1yzQL5z6cD63alFhkrfz9f9RRry_S5jXd",
@@ -614,9 +627,9 @@
       "originalName": "Ejercicios Progresiones.docx",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
     },
     {
       "id": "1sJKUKC0UTzKFA2KP_9EwzzL96U-_4tf-",
@@ -636,9 +649,9 @@
       "originalName": "Pr_C3_A1ctica_20Resuelta_20Unidad_20I.c.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
     },
     {
       "id": "11tfokRGK1Ub7dvH_0eICP40HxzaV4lOC",
@@ -658,9 +671,9 @@
       "originalName": "Pr_C3_A1ctica_20Unidad_20I.c.Sucesiones_20y_20progresiones.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
     },
     {
       "id": "1pfP9KOP2SkAqjwFEieKTDSh57ptCnWPP",
@@ -680,9 +693,9 @@
       "originalName": "Ej extras intervalos.docx",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
     },
     {
       "id": "1m_sbhoO_NxlQhJTOQgqouuWQeYjrQhHa",
@@ -702,9 +715,9 @@
       "originalName": "Práctica Resuelta Unidad I.b.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
     },
     {
       "id": "1qsPnCp5KipNMJUJknDi3jQBwFqSeGGF5",
@@ -724,9 +737,9 @@
       "originalName": "Práctica Unidad I.b.Intervalos.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
     },
     {
       "id": "1BMxTVZjrAn3Kz1IbO2L28yqITLWg2A3s",
@@ -746,9 +759,9 @@
       "originalName": "Pr_C3_A1ctica_20Resuelta_20Unidad_20I.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
     },
     {
       "id": "1cjzhR5zcURYlaIF8GmaVHquyqnyNm9O9",
@@ -768,9 +781,9 @@
       "originalName": "Práctica Unidad I.a.Números Reales.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
     },
     {
       "id": "1qCX8ynQRG_MxUmb44RS3sdkrmi-3yYD2",
@@ -790,9 +803,9 @@
       "originalName": "Unidad 1.c. Sucesiones y progresiones.pptx",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
     },
     {
       "id": "1UT-XJhu0s8sailgUCIZjN-phXOU175ym",
@@ -812,9 +825,9 @@
       "originalName": "Unidad 1.b. Intervalos.pptx",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
     },
     {
       "id": "1XISlyGR_nG_zwDqqC45dzxFzytG-PVb-",
@@ -834,9 +847,9 @@
       "originalName": "Unidad I.a. Números reales.pptx",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
     },
     {
       "id": "1VD_acRg5S8FUIkR-SJVeqrNETGvDVVyr",
@@ -856,9 +869,9 @@
       "originalName": "Guia Actividades Lógica - Anexo.docx",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 2 - Conjuntos y Lógica"
     },
     {
       "id": "1-mfadhVSDMLAK6UFqCEqvuuJt5TOnIGG",
@@ -878,9 +891,9 @@
       "originalName": "Guia Actividades Lógica.docx",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 2 - Conjuntos y Lógica"
     },
     {
       "id": "1wQGHTO8fYr0rIfvm8knqVC1nF2lg1evs",
@@ -900,9 +913,9 @@
       "originalName": "Guia Ejercitacion Conjuntos 2° Parte.docx",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 2 - Conjuntos y Lógica"
     },
     {
       "id": "1v_gYTm46nuuyyhm0L0tkG3Ttal5i9QGF",
@@ -922,9 +935,9 @@
       "originalName": "Guia_Ejercitacion_Conjuntos_1° Parte.docx",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 2 - Conjuntos y Lógica"
     },
     {
       "id": "1cLRlunFJI__lAVP2hke4w56mYHYYq1gZ",
@@ -944,9 +957,9 @@
       "originalName": "ANEXO CONJUNTOS Y LÓGICA.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 2 - Conjuntos y Lógica"
     },
     {
       "id": "1nzAZXiXqlDp5mRfTTgsQFVgPntgjrfbD",
@@ -966,9 +979,9 @@
       "originalName": "Material_20Teorico_20Logica.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 2 - Conjuntos y Lógica"
     },
     {
       "id": "1fw-OrmXuMbmx8s0LsaKuE2b-RnjZPcVj",
@@ -988,9 +1001,9 @@
       "originalName": "Material Teórico Aritmética Modular.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 2 - Conjuntos y Lógica"
     },
     {
       "id": "1YRi6uu-iWhvEM4SUimQmPo80k5-Iqwc7",
@@ -1010,9 +1023,9 @@
       "originalName": "Material_20Teorico_20Conjuntos.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+      "sourcePath": "Elementos de Matemática y Lógica/Unidad 2 - Conjuntos y Lógica"
     },
     {
       "id": "1ZUWWCcHETknhKsuRbCVh5lSqF40IjqGs",
@@ -1032,9 +1045,9 @@
       "originalName": "Unidad 2_PARTE 2_Diagramas.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones / Material"
+      "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1gaOWwFuLzgXVUlgzKpq-nVimXtYhcKHW",
@@ -1054,9 +1067,9 @@
       "originalName": "UML-Intro.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones / Material"
+      "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1Xyx5I1h-A2c6Ikcu8t_XaAKZAw6YTzIx",
@@ -1076,9 +1089,9 @@
       "originalName": "SyO_Eje1_TSDS_ISPC Teoría General de los Sistemas (TGS) .pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones / Material"
+      "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1Z74BNYv1W3ibsKpHH7GrrYlhwf5Em0MH",
@@ -1098,9 +1111,9 @@
       "originalName": "SyO_ISPC_U1.4_1.5Modelos_estructurales_y_geografía_organizacional.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones / Material"
+      "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1LsOgkwULLSy29T1wrXcK3n292dwxLX-r",
@@ -1120,9 +1133,9 @@
       "originalName": "Clase 9 - UML .pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones / Material"
+      "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1ZfdI_74IaAJAX0jsRPX-u41hh9ELPCBP",
@@ -1142,9 +1155,9 @@
       "originalName": "Diagramas de casos de uso.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones / Material"
+      "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1CB8Znmf7s8H9CLEF_DTVNo1nBwJax7Ax",
@@ -1164,9 +1177,9 @@
       "originalName": "Diagrama_de_estados.pptx.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones / Material"
+      "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "18stkh0CAiBKaBSAiBNxypWpXPyJpvgTJ",
@@ -1186,9 +1199,9 @@
       "originalName": "SyO_U1.6_1.7_1.8_1.9 Niveles de la administración. Tecnologías de la  Información. .pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones / Material"
+      "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1rcn466jcnKIl8S10YqQRbcEFZlKnbzmh",
@@ -1208,9 +1221,9 @@
       "originalName": "SyO_U1.10_1.11 Sistemas y Tecnologías de Información.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones / Material"
+      "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1NEQUXrMIW72nDyPCisiPsGTrXO7dLlKW",
@@ -1230,9 +1243,9 @@
       "originalName": "SyO_1-ProcesosCiclosTransaccionales.docx.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones / Material"
+      "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1Q56EhANig20BOCBUoXtbIct_AVMKhLjP",
@@ -1252,9 +1265,9 @@
       "originalName": "Programa Sistemas y Organizaciones.docx (1).pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones / Material"
+      "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1bJRq2Gq0t_bhQPFdvL2sE5hlg8xU82wj",
@@ -1274,9 +1287,9 @@
       "originalName": "Evidencia de Aprendizaje N.º 4 — Sistemas y Organizaciones.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones / Material"
+      "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1n3BtTGes2z7D0QOAM_XliGj8H4K5cOhg",
@@ -1296,9 +1309,9 @@
       "originalName": "ejercicios_python.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia"
+      "sourcePath": "Módulo Programador"
     },
     {
       "id": "1krvNUgfaBFknSCryT7d4fRRQTAlnE4A_",
@@ -1319,9 +1332,9 @@
       "originalName": "HOJA DE RUTA - Módulo Programador - 2026.docx.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia"
+      "sourcePath": "Módulo Programador"
     },
     {
       "id": "1IvCJpdAzUCeDIzdnZU8lmZfD1381JZPX",
@@ -1342,9 +1355,9 @@
       "originalName": "Lineamientos-Programador-ABP-ISPC (1).pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia"
+      "sourcePath": "Módulo Programador"
     },
     {
       "id": "1lZacntr-f5RHbIgjh8yWqEI16CiKqITy",
@@ -1364,9 +1377,9 @@
       "originalName": "Material complementario ATM.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Aproximación al Mundo del Trabajo / Material"
+      "sourcePath": "Aproximación al Mundo del Trabajo/Material"
     },
     {
       "id": "13tNsPPia0Jy7krCufNxY5DRh11_xXlBz",
@@ -1386,9 +1399,9 @@
       "originalName": "AMT_Unidad3_TrayectoriaProfesional.docx.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Aproximación al Mundo del Trabajo / Material"
+      "sourcePath": "Aproximación al Mundo del Trabajo/Material"
     },
     {
       "id": "196RRs_nTAuUdWRK4I8Owbwd2jgp60o1Q",
@@ -1408,9 +1421,9 @@
       "originalName": "AMT_Unidad2_ModalidadesInsercion .docx.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Aproximación al Mundo del Trabajo / Material"
+      "sourcePath": "Aproximación al Mundo del Trabajo/Material"
     },
     {
       "id": "1ageOkQ3ieeXcpJyW4u8RYEFvBY3eSns_",
@@ -1430,9 +1443,9 @@
       "originalName": "AMT_Unidad1_CampoProf .docx.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Aproximación al Mundo del Trabajo / Material"
+      "sourcePath": "Aproximación al Mundo del Trabajo/Material"
     },
     {
       "id": "1FZ6LR6IMLIJbDmd2VIV8yKiNIVafJi5h",
@@ -1452,9 +1465,9 @@
       "originalName": "CC1_ISPC_U3.1_3.2 (1).docx.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+      "sourcePath": "Competencias Comunicacionales I"
     },
     {
       "id": "199iIMZ0Ja6j6ye834v3UN4_p4QuLEpEN",
@@ -1474,9 +1487,9 @@
       "originalName": "ISPC- EJE 2-U.4-.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+      "sourcePath": "Competencias Comunicacionales I"
     },
     {
       "id": "1btS1ImrXHbQuI-EVpkRBqNQOEkkVU000",
@@ -1496,9 +1509,9 @@
       "originalName": "CC1_ISPC_U2.3_Requerimientos de terceros.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+      "sourcePath": "Competencias Comunicacionales I"
     },
     {
       "id": "1nNzicffwhZougyGhbZVK2F6YTXhF--8X",
@@ -1518,9 +1531,9 @@
       "originalName": "CC1_ISPC_Eje2_U2.2_Medios_y_Canales_en_IT.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+      "sourcePath": "Competencias Comunicacionales I"
     },
     {
       "id": "1DXw-EJXe39KjNPp6BiPij638zBVJ35GT",
@@ -1540,9 +1553,9 @@
       "originalName": "CC1_ISPC_Eje2_U2.1_La_Comunicación_Integral.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+      "sourcePath": "Competencias Comunicacionales I"
     },
     {
       "id": "1LvBLjB1cQKs1lgqPr8FzGgV0zFXTEao9",
@@ -1562,9 +1575,9 @@
       "originalName": "Competencias Comunicacionales I - EJE 1.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+      "sourcePath": "Competencias Comunicacionales I"
     },
     {
       "id": "10_1cPYOXLVRYwsxEAB6a7pFm-9X77_Go",
@@ -1584,9 +1597,9 @@
       "originalName": "CC1_TSDS_ISPC_Introducción.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+      "sourcePath": "Competencias Comunicacionales I"
     },
     {
       "id": "1hNcVJR10W0EhW7C4xBR8CRC_x8mD5L6O",
@@ -1606,9 +1619,9 @@
       "originalName": "CC1_TSDS_ISPC_Eje_1_DelIndividuoAlEquipo (1).pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+      "sourcePath": "Competencias Comunicacionales I"
     },
     {
       "id": "1Z6Acqx3FvYMTo8isWEjGEnDNSwV8W9K_",
@@ -1628,9 +1641,9 @@
       "originalName": "CRITERIOS DE EVALUACIÓN_Competencias Comunicacionales I (1).docx",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+      "sourcePath": "Competencias Comunicacionales I"
     },
     {
       "id": "1UPRjtb4r2itkc5fl1uxD9KiLDOmw4jBD",
@@ -1650,9 +1663,9 @@
       "originalName": "ProgramaCompetenciasComunicacionales_1.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+      "sourcePath": "Competencias Comunicacionales I"
     },
     {
       "id": "1JhvBinHdhioNoMyH2gkxSTmAnttFfZrR",
@@ -1672,9 +1685,9 @@
       "originalName": "4.Eje1-BBDD-ISPC.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia / BBDD - Eje 1"
+      "sourcePath": "Módulo Programador/BBDD - Eje 1"
     },
     {
       "id": "1btHO_bmTgwLDsSnBGdWkgd67bGlgoIwK",
@@ -1694,9 +1707,9 @@
       "originalName": "3.Eje1-BBDD-ISPC.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia / BBDD - Eje 1"
+      "sourcePath": "Módulo Programador/BBDD - Eje 1"
     },
     {
       "id": "1a4J7RBK3hocx5nXoiP8dfcrHZNrhZdS-",
@@ -1716,9 +1729,9 @@
       "originalName": "Modulo Programador_03.01- Bases de DatosISPC.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia / BBDD - Eje 1"
+      "sourcePath": "Módulo Programador/BBDD - Eje 1"
     },
     {
       "id": "11UvVUc-LlvTOIhubf5K4N5HymsuTOjJ2",
@@ -1738,9 +1751,9 @@
       "originalName": "Modulo Programador_01.01- Python. IntroducciónISPC.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 1"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 1"
     },
     {
       "id": "1vJ63fB5SOQO9COthpWEnf31rwQywoC30",
@@ -1760,9 +1773,9 @@
       "originalName": "Modulo Programador_01.02- Python. Funciones Avanzadas y MódulosISPC.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 1"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 1"
     },
     {
       "id": "17GPCbERCieZI8tW5UzIP2bs6AgAYYUBh",
@@ -1782,9 +1795,9 @@
       "originalName": "Modulo Programador_02.01- POO. FundamentosISPC.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 2"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 2"
     },
     {
       "id": "1C1cTUz9McRWlK5z9I9DEIxHDDs3-wiqI",
@@ -1804,9 +1817,9 @@
       "originalName": "Modulo Programador_02.03- POO. TDD y Diseño Simple - Kent BeckISPC.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 2"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 2"
     },
     {
       "id": "1-vJJOYsFLLVwACYp5wHgJDX5vcIx5Rcj",
@@ -1826,9 +1839,9 @@
       "originalName": "Modulo Programador_02.05- POO. Acceso a DatosISPC.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 2"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 2"
     },
     {
       "id": "1C8AvTY5iqqOXh4Jpt3IvEu-sOrHesHkI",
@@ -1848,9 +1861,9 @@
       "originalName": "Modulo Programador_02.04- POO. Principios SOLIDISPC.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 2"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 2"
     },
     {
       "id": "1FMio_IHsHgOibInb42WjxvQOMpcjrfcw",
@@ -1870,9 +1883,9 @@
       "originalName": "Modulo Programador_02.02- POO. ModeladoISPC.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 2"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 2"
     },
     {
       "id": "1Jblm1g9str5C3E3UNH8YuNNMg3HqW-oz",
@@ -1892,9 +1905,9 @@
       "originalName": "Modulo Programador_03.02- GIT. Trabajo ColaborativoISPC.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 3"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 3"
     },
     {
       "id": "1k2-xpDAeJZmV-W_oKCJ9uOkDCqSxQX2d",
@@ -1914,9 +1927,9 @@
       "originalName": "Modulo Programador_04.01- GIT. IntroducciónISPC.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 3"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 3"
     },
     {
       "id": "1NfLIiSVwIv8AKpTekkS2XrIqbvoQBYMN",
@@ -1936,9 +1949,151 @@
       "originalName": "Eje 3 Modelo Relacional.pdf",
       "edition": "2026",
       "reviewedAt": "2026-09-17",
-      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 3"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 3"
+    },
+    {
+      "id": "1BX2g3u82xYT9HR2L47r_w_TVPHXLNssa",
+      "title": "Clase asincrónica 1 · Evolución de las computadoras",
+      "description": "Recorrido por la historia y las generaciones de computadoras. Incluye orientaciones de lectura, videos ilustrados y actividades sin resolver para comparar tecnologías, reconocer hitos y reflexionar sobre el modelo de von Neumann.",
+      "unit": "Clases asincrónicas",
+      "kind": "Clase",
+      "tags": [
+        "historia",
+        "generaciones",
+        "von Neumann"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1BX2g3u82xYT9HR2L47r_w_TVPHXLNssa/view",
+      "originalName": "clase Asincrónica 1.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
+      "review": "Revisión visual de todas las páginas: guía general del aula, sin respuestas de estudiantes. PDF compuesto por imágenes.",
+      "sourcePath": "Arquitectura de las Computadoras/Clase 1"
+    },
+    {
+      "id": "1q7LvDuDXIzqyZsITfklHt9A0wI9OyxME",
+      "title": "Clase asincrónica 2 · Representación digital de la información",
+      "description": "Actividades para interpretar mensajes binarios, códigos ASCII y Unicode, colores hexadecimales, resolución de imágenes y muestreo de audio. Integra las cuatro pistas en una tabla final sin resolver.",
+      "unit": "Clases asincrónicas",
+      "kind": "Clase",
+      "tags": [
+        "binario",
+        "ASCII",
+        "imágenes",
+        "audio"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1q7LvDuDXIzqyZsITfklHt9A0wI9OyxME/view",
+      "originalName": "clase Asincrónica 2.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
+      "review": "Revisión visual de todas las páginas: guía general del aula, sin respuestas de estudiantes. PDF compuesto por imágenes.",
+      "sourcePath": "Arquitectura de las Computadoras/Clase 2"
+    },
+    {
+      "id": "194TFHRS7dl6ht4sv0_mfx1KB4mw4oKqr",
+      "title": "Clase asincrónica 3 · Compuertas y lógica digital",
+      "description": "Guía de trabajo sobre variables booleanas, AND, OR, NOT y otras compuertas. Propone completar tablas de verdad, traducir situaciones a expresiones lógicas y analizar un sistema de puerta automática.",
+      "unit": "Clases asincrónicas",
+      "kind": "Clase",
+      "tags": [
+        "lógica digital",
+        "compuertas",
+        "tablas de verdad"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/194TFHRS7dl6ht4sv0_mfx1KB4mw4oKqr/view",
+      "originalName": "clase Asincrónica 3.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
+      "review": "Revisión visual de todas las páginas: guía general del aula, sin respuestas de estudiantes. PDF compuesto por imágenes.",
+      "sourcePath": "Arquitectura de las Computadoras/Clase 3"
+    },
+    {
+      "id": "13mditqHv4RUsU-R8z2qx3LhRZImdeZ02",
+      "title": "Clase asincrónica 4 · CPU y ciclo de instrucción",
+      "description": "Explica unidad de control, ALU, registros y reloj. Incluye actividades de seguimiento de instrucciones y decisiones, junto con esquemas de pipeline e interrupciones y casos de fallas para analizar.",
+      "unit": "Clases asincrónicas",
+      "kind": "Clase",
+      "tags": [
+        "CPU",
+        "ALU",
+        "pipeline",
+        "interrupciones"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/13mditqHv4RUsU-R8z2qx3LhRZImdeZ02/view",
+      "originalName": "clase Asincrónica 4.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
+      "review": "Revisión visual de todas las páginas: guía general del aula, sin respuestas de estudiantes. PDF compuesto por imágenes.",
+      "sourcePath": "Arquitectura de las Computadoras/Clase 4"
+    },
+    {
+      "id": "15nwGA0D9zBtYrsOp9lj9bos-u_PE3nz0",
+      "title": "Clase asincrónica 5 · Memoria, entrada/salida y arquitecturas actuales",
+      "description": "Guía sobre jerarquía de memoria, caché, RAM y almacenamiento; dispositivos de entrada/salida, controladores, drivers, interfaces y DMA. Compara CPU, GPU, núcleos y SoC, con actividades y una ficha de investigación del propio dispositivo sin completar.",
+      "unit": "Clases asincrónicas",
+      "kind": "Clase",
+      "tags": [
+        "memoria",
+        "caché",
+        "entrada/salida",
+        "GPU"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/15nwGA0D9zBtYrsOp9lj9bos-u_PE3nz0/view",
+      "originalName": "clase Asincrónica 5.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
+      "review": "Revisión visual de todas las páginas: guía general del aula, sin respuestas de estudiantes. PDF compuesto por imágenes.",
+      "sourcePath": "Arquitectura de las Computadoras/Clase 5"
+    },
+    {
+      "id": "1aXz4u2REczEz8MrrjK57q-QIo46ibUNy",
+      "title": "Clase asincrónica 6 · Del problema al circuito: guía para iniciar el ABP",
+      "description": "Clase integradora que usa un sistema de riego como ejemplo didáctico. Recorre requisitos, datos, cálculos de mediciones y almacenamiento, tablas de verdad y simulación del circuito. Cierra con los componentes de la primera entrega del ABP; aclara que el ejemplo no debe copiarse como proyecto.",
+      "unit": "Clases asincrónicas",
+      "kind": "Clase",
+      "tags": [
+        "ABP",
+        "requisitos",
+        "circuitos",
+        "simulación"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1aXz4u2REczEz8MrrjK57q-QIo46ibUNy/view",
+      "originalName": "Clase Asincrónica 6.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
+      "review": "Revisión visual de todas las páginas: guía general del aula, sin respuestas de estudiantes. PDF compuesto por imágenes.",
+      "sourcePath": "Arquitectura de las Computadoras/Clase 6"
     }
   ],
   "events": [
@@ -2192,5 +2347,217 @@
       "time": "23:59"
     }
   ],
-  "classes": []
+  "classes": [
+    {
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "title": "Encuentro sincrónico",
+      "description": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026. Comisión no visible en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día.",
+      "url": "https://meet.google.com/xqz-gmfr-dhc"
+    },
+    {
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "title": "Aula virtual",
+      "description": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026. Comisión no visible en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día.",
+      "url": "https://acceso.ispc.edu.ar/course/view.php?id=4279"
+    },
+    {
+      "subjects": [
+        "arquitectura"
+      ],
+      "title": "Encuentro sincrónico",
+      "description": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026. Comisión no visible en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día.",
+      "url": "https://meet.google.com/uhe-quos-pfv"
+    },
+    {
+      "subjects": [
+        "arquitectura"
+      ],
+      "title": "Aula virtual",
+      "description": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026. Comisión no visible en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día.",
+      "url": "https://acceso.ispc.edu.ar/course/view.php?id=4383"
+    },
+    {
+      "subjects": [
+        "arquitectura"
+      ],
+      "title": "Grabaciones en Moodle",
+      "description": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026. Comisión no visible en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día.",
+      "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=117828"
+    },
+    {
+      "subjects": [
+        "matematica"
+      ],
+      "title": "Encuentro sincrónico",
+      "description": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026. Sin fecha de fin en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día.",
+      "url": "https://meet.google.com/pre-icyz-qbm"
+    },
+    {
+      "subjects": [
+        "matematica"
+      ],
+      "title": "Aula virtual",
+      "description": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026. Sin fecha de fin en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día.",
+      "url": "https://acceso.ispc.edu.ar/course/section.php?id=27560"
+    },
+    {
+      "subjects": [
+        "trabajo"
+      ],
+      "title": "Encuentro sincrónico",
+      "description": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026. Comisión B, según la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día.",
+      "url": "https://meet.google.com/gwn-xunc-gyb"
+    },
+    {
+      "subjects": [
+        "sistemas"
+      ],
+      "title": "Encuentro sincrónico",
+      "description": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026. Sin fecha de fin en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día.",
+      "url": "https://meet.google.com/zqc-orpx-itj"
+    },
+    {
+      "subjects": [
+        "sistemas"
+      ],
+      "title": "Aula virtual",
+      "description": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026. Sin fecha de fin en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día.",
+      "url": "https://acceso.ispc.edu.ar/course/view.php?id=4278"
+    },
+    {
+      "subjects": [
+        "comunicacion2"
+      ],
+      "title": "Encuentro sincrónico",
+      "description": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026. Comisión no visible en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día.",
+      "url": "https://meet.google.com/vmn-tqct-ytc"
+    }
+  ],
+  "collection": {
+    "cohort": "2026",
+    "year": "Primer año",
+    "commission": "B1",
+    "driveUrl": "https://drive.google.com/drive/folders/1SEoZF34NoR8Pd94RRTO3wcoEzgYSTSoZ",
+    "reviewedFiles": 92,
+    "includedFiles": 88,
+    "pendingFiles": 4,
+    "note": "Se conservan las comisiones indicadas por cada fuente. La colección B1 también contiene materiales generales de otras comisiones."
+  },
+  "schedules": [
+    {
+      "id": "modulo",
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "title": "Módulo Programador",
+      "weekday": 1,
+      "startTime": "18:20",
+      "endTime": "20:40",
+      "validFrom": "2026-09-14",
+      "until": "2026-11-17",
+      "timeZone": "America/Argentina/Cordoba",
+      "meetUrl": "https://meet.google.com/xqz-gmfr-dhc",
+      "classroomUrl": "https://acceso.ispc.edu.ar/course/view.php?id=4279",
+      "recordingsUrl": null,
+      "source": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026.",
+      "note": "Comisión no visible en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día."
+    },
+    {
+      "id": "arquitectura",
+      "subjects": [
+        "arquitectura"
+      ],
+      "title": "Arquitectura de las Computadoras",
+      "weekday": 2,
+      "startTime": "18:20",
+      "endTime": "19:20",
+      "validFrom": "2026-09-15",
+      "until": "2026-11-25",
+      "timeZone": "America/Argentina/Cordoba",
+      "meetUrl": "https://meet.google.com/uhe-quos-pfv",
+      "classroomUrl": "https://acceso.ispc.edu.ar/course/view.php?id=4383",
+      "recordingsUrl": "https://acceso.ispc.edu.ar/mod/page/view.php?id=117828",
+      "source": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026.",
+      "note": "Comisión no visible en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día."
+    },
+    {
+      "id": "matematica",
+      "subjects": [
+        "matematica"
+      ],
+      "title": "Elementos de Matemática y Lógica",
+      "weekday": 3,
+      "startTime": "18:20",
+      "endTime": "19:20",
+      "validFrom": "2026-09-16",
+      "until": null,
+      "timeZone": "America/Argentina/Cordoba",
+      "meetUrl": "https://meet.google.com/pre-icyz-qbm",
+      "classroomUrl": "https://acceso.ispc.edu.ar/course/section.php?id=27560",
+      "recordingsUrl": null,
+      "source": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026.",
+      "note": "Sin fecha de fin en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día."
+    },
+    {
+      "id": "trabajo",
+      "subjects": [
+        "trabajo"
+      ],
+      "title": "Aproximación al Mundo del Trabajo",
+      "weekday": 3,
+      "startTime": "19:40",
+      "endTime": "20:40",
+      "validFrom": "2026-09-16",
+      "until": "2026-11-26",
+      "timeZone": "America/Argentina/Cordoba",
+      "meetUrl": "https://meet.google.com/gwn-xunc-gyb",
+      "classroomUrl": null,
+      "recordingsUrl": null,
+      "source": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026.",
+      "note": "Comisión B, según la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día."
+    },
+    {
+      "id": "sistemas",
+      "subjects": [
+        "sistemas"
+      ],
+      "title": "Sistemas y Organizaciones",
+      "weekday": 4,
+      "startTime": "18:20",
+      "endTime": "19:20",
+      "validFrom": "2026-09-17",
+      "until": null,
+      "timeZone": "America/Argentina/Cordoba",
+      "meetUrl": "https://meet.google.com/zqc-orpx-itj",
+      "classroomUrl": "https://acceso.ispc.edu.ar/course/view.php?id=4278",
+      "recordingsUrl": null,
+      "source": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026.",
+      "note": "Sin fecha de fin en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día."
+    },
+    {
+      "id": "comunicacion2",
+      "subjects": [
+        "comunicacion2"
+      ],
+      "title": "Competencias Comunicacionales II",
+      "weekday": 4,
+      "startTime": "19:40",
+      "endTime": "20:40",
+      "validFrom": "2026-09-17",
+      "until": "2026-11-27",
+      "timeZone": "America/Argentina/Cordoba",
+      "meetUrl": "https://meet.google.com/vmn-tqct-ytc",
+      "classroomUrl": null,
+      "recordingsUrl": null,
+      "source": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026.",
+      "note": "Comisión no visible en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día."
+    }
+  ]
 }

@@ -20,8 +20,24 @@ for e in data['events']:
  assert datetime.date.fromisoformat(e['start'])<=datetime.date.fromisoformat(e['end'])
  if e.get('time'):datetime.time.fromisoformat(e['time'])
 for c in data['classes']:
- assert set(c['subjects'])<=ss
- assert urllib.parse.urlparse(c['url']).scheme=='https'
+ assert set(c['subjects'])<=ss and c['subjects']
+ u=urllib.parse.urlparse(c['url'])
+ assert u.scheme=='https' and u.hostname in ['meet.google.com','acceso.ispc.edu.ar']
+schedule_ids=[]
+for s in data.get('schedules',[]):
+ schedule_ids.append(s['id'])
+ assert set(s['subjects'])<=ss and s['subjects']
+ assert s['timeZone']=='America/Argentina/Cordoba'
+ start=datetime.date.fromisoformat(s['validFrom'])
+ assert start.isoweekday()==s['weekday']
+ assert datetime.time.fromisoformat(s['startTime'])<datetime.time.fromisoformat(s['endTime'])
+ if s['until']:assert start<=datetime.date.fromisoformat(s['until'])
+ assert s['source'] and s['note']
+ assert re.fullmatch(r'https://meet\.google\.com/[a-z]{3}-[a-z]{4}-[a-z]{3}',s['meetUrl'])
+ for key in ['classroomUrl','recordingsUrl']:
+  if s[key]:
+   u=urllib.parse.urlparse(s[key]);assert u.scheme=='https' and u.hostname=='acceso.ispc.edu.ar'
+assert len(schedule_ids)==len(set(schedule_ids))
 html=(root/'dist/index.html').read_text()
 for ref in re.findall(r'(?:href|src)="(\./[^"]+)"',html):
  assert (root/'dist'/ref).is_file(),ref

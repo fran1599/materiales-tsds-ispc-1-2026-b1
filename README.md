@@ -1,71 +1,67 @@
-# Entre apuntes
+# Entre apuntes · TSDS ISPC
 
-Catálogo estudiantil de materiales de Desarrollo de Software del Instituto Superior Politécnico Córdoba. Revisión inicial: 17 de septiembre de 2026.
+Biblioteca estudiantil para primer año de Desarrollo de Software, cohorte 2026, comisión B1. Conserva las comisiones y autorías que documenta cada fuente, incluso cuando el material es general o de otra comisión. No es un sitio oficial del ISPC.
 
-## Abrir y publicar
+## Sitio y publicación
 
-El sitio completo está en `dist/`. No utiliza servidor de aplicación, base de datos, servicios pagos ni dependencias de ejecución. Los documentos permanecen en Google Drive.
+Sitio estático en `dist/`: HTML, CSS y JavaScript sin dependencias, base de datos ni servicios pagos. Los documentos permanecen en Drive. Funciona en subdirectorios de GitHub Pages.
 
-Esta versión también se publica mediante Sites. Su identidad está en `.openai/hosting.json`; no reutilizar ese archivo al crear otro proyecto.
+Este repositorio ya tiene GitHub Pages configurado para publicar desde `main`. `index.html` en la raíz abre `dist/` y conserva los enlaces de navegación. `.nojekyll` evita procesar los archivos como un blog. No hace falta cambiar la configuración de Pages. El workflow `Validar catálogo y sitio` comprueba el catálogo y el código en cada push y pull request; la publicación sigue a cargo del proceso de Pages existente.
 
-Para usar GitHub Pages con el paquete portable:
+Para trabajar localmente:
 
-1. Crear un repositorio público e incorporar `dist/` y el workflow incluido en `.github/workflows/pages.yml`.
-2. En Settings → Pages, elegir GitHub Actions como fuente.
-3. Ejecutar el workflow «Publicar biblioteca» o subir un cambio a la rama main.
-4. Revisar el resultado de la ejecución; GitHub mostrará el enlace real. No se ha creado ni configurado un repositorio de GitHub para esta entrega.
+```sh
+python3 -m http.server 8080 --directory dist
+```
 
-GitHub Pages admite sitios estáticos en repositorios públicos con GitHub Free. Fuente: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
+Abrir `http://localhost:8080`. No abrir el HTML como archivo local, porque el navegador puede impedir la lectura de `catalog.json`.
 
-El código usa rutas relativas y navegación mediante fragmentos, por lo que admite subdirectorios de proyecto en GitHub Pages. No requiere reglas especiales de redirección.
+## Revisión del 17/09/2026
 
-## Contenido
+- Carpeta de origen: [Abierto y compartido](https://drive.google.com/drive/folders/1SEoZF34NoR8Pd94RRTO3wcoEzgYSTSoZ).
+- 92 archivos inventariados; 88 incorporados con una ficha por identificador de Drive.
+- Los 82 recursos anteriores siguen en la carpeta compartida. Se actualizaron sus ubicaciones de origen.
+- Se incorporaron las seis clases asincrónicas de Arquitectura, tras descargar y revisar visualmente sus 33 páginas. Son guías generales con consignas sin resolver, no entregas estudiantiles.
+- Quedan cuatro archivos pendientes: dos accesos directos cuyo destino no pudo leerse y dos documentos cuya procedencia requiere confirmación. Los detalles privados de revisión no se publican en el repositorio.
+- 10 espacios curriculares y una sección institucional. Inglés I, Competencias Comunicacionales II y Ética no tienen todavía documentos generales incorporados.
+- 22 entradas de agenda documental y seis horarios semanales tomados de las capturas proporcionadas. Las capturas no se publican.
 
-- 82 archivos únicos. Dos documentos del Módulo Programador figuran tanto en Programación I como en Base de Datos, conservando una sola ficha por archivo.
-- 9 espacios de cursada, incluidos dos sin material general disponible.
-- 2 documentos institucionales incluidos en el total.
-- 22 registros de agenda, con fuente individual y precisión diaria o semanal.
-- Fichas, búsqueda por contenido descrito y filtros por materia, tipo y unidad.
-- Vista de Drive cargada bajo demanda. Si Drive solicita acceso, se debe obtener del propietario.
+Dos recursos del Módulo Programador pertenecen a Programación I y Base de Datos a la vez; mantienen una sola ficha. No sumar los contadores de materias para calcular archivos únicos.
 
-Los trabajos personales, entregas grupales y documentación interna de representación no están en los archivos publicados ni en este repositorio. El registro de exclusiones y casos pendientes se conserva por separado. No publicar ese registro.
+## Uso y accesibilidad
 
-## Actualizar materiales
+Búsqueda sin distinción de tildes, filtros por materia/tipo/unidad, fichas y enlaces individuales a Drive. Horarios y Meet están en la agenda general y en «Clases y encuentros» de cada materia. El calendario permite cambiar de semana; se presenta como lista en pantallas pequeñas.
 
-Editar `dist/catalog.json`. Revisar el contenido de cada documento antes de agregarlo: el nombre de archivo o la carpeta no bastan para determinar si puede compartirse.
+El tema sigue `prefers-color-scheme` del dispositivo y admite elegir Claro, Oscuro o Automático. La elección se conserva en el navegador cuando el almacenamiento está disponible. Se contemplan foco visible, navegación por teclado, cierre con Escape, aislamiento del menú móvil, reducción de movimiento y colores forzados. Los PDF externos conservan sus propias limitaciones de accesibilidad; algunos son imágenes.
 
-Cada recurso incluye:
+El sitio no sustituye Moodle ni confirma cambios docentes. No ofrece acceso sin conexión. La vista de Drive se carga solamente al pedirla; puede requerir permisos o una sesión en Google. Los enlaces de Moodle requieren acceso al aula. Los Meet se transcribieron de las capturas: no se ingresó a reuniones para probarlos.
 
-- `id`: identificador exacto del archivo de Drive, único.
-- `url`: enlace individual observado en Drive.
-- `title` y `originalName`: título amigable y nombre original.
-- `description`: descripción fiel de lo que contiene, sin completar vacíos.
-- `subjects`: referencias a los espacios curriculares.
-- `edition`: período de la colección; no implica año de publicación de todos los apuntes.
-- `unit`, `kind`, `tags` y `format`.
-- `reviewedAt`, `access`, `review` y `sourcePath`.
+## Actualizaciones desde Drive
 
-En `subjects`, registrar comisión, docentes y período sólo cuando una fuente los confirme. Conservar las diferencias entre autoría de un manual y docencia de una comisión. Para una nueva cursada, agregar un identificador separado (por ejemplo, programacion-2027-b1), sin sobrescribir la cursada anterior.
+La incorporación es revisada, no automática. Un nuevo barrido debe comparar el inventario por ID, detectar altas, cambios, movimientos y documentos que ya no están en la carpeta compartida. Antes de publicar, leer cada nuevo documento y excluir trabajos personales, entregas grupales y documentación interna de representación. No basta con el nombre o la ubicación para determinar su procedencia.
 
-En `events`, cada registro debe enlazar un recurso mediante `source`. Usar `start` y `end` para semanas; no convertir el viernes de una semana en una fecha límite supuestamente exacta. Registrar hora sólo si figura en la fuente.
+Editar `dist/catalog.json`:
 
-En `classes`, agregar enlaces verificados con `subjects`, `title`, `description` y `url`. Precisar en la descripción fecha, comisión y si se trata de grabación o encuentro. No agregar enlaces de reunión privados sin revisión.
+- `resources`: ID y enlace individual observado, título, nombre original, descripción, materias, unidad/eje, tipo, etiquetas, formato, período, ubicación y fecha/alcance de revisión. No copiar los originales al repositorio.
+- `subjects`: período, comisión, docentes, notas y documento fuente. Separar una nueva cursada con un identificador nuevo; no sobrescribir la anterior. Distinguir autoría de manuales y docencia de una comisión.
+- `events`: fuente documental por ID, inicio y fin. Conservar las semanas como intervalos; registrar una hora de entrega sólo cuando esté explícita.
+- `schedules`: día de semana ISO (lunes=1), horas en Argentina, primera ocurrencia observada, límite de repetición o `null`, enlace Meet, aula y grabaciones cuando se conocen, fuente y notas. `validFrom` es la fecha observada en la captura, no el inicio real de la cursada. `until` limita la recurrencia, no implica una clase ese día. No se calculan feriados ni suspensiones automáticamente.
+- `classes`: accesos a encuentros, aulas o grabaciones con materia y descripción de procedencia.
+- `updated` y `collection`: fecha y alcance del inventario. Mantener los totales de revisión consistentes.
 
-Actualizar `updated` y las fechas de revisión al revisar el catálogo. Las observaciones documentales específicas permanecen en las notas de cada materia.
-
-No hay sincronización automática con Drive o Moodle: evita publicar accidentalmente documentos personales añadidos a las mismas carpetas. Tampoco hay edición compartida desde la interfaz.
-
-## Visor y costo
-
-El catálogo no descarga los PDF ni los sube a otro alojamiento. La ficha permite abrir el archivo o cargar su vista de Drive en un iframe, sólo al solicitarla. No se garantiza la vista previa para cada formato, cuenta o configuración de cookies.
-
-PDF.js es una alternativa estática si se alojan los PDF en el mismo origen o en un origen que habilite las solicitudes necesarias. Un enlace compartido de Drive no garantiza esas condiciones. Por eso no se incorporó un proxy ni otro servidor.
-Fuente técnica: https://github.com/mozilla/pdf.js/wiki/Frequently-Asked-Questions
-
-El catálogo puede seguir disponible cuando Moodle cae, pero no reemplaza los permisos de Drive ni ofrece los documentos sin conexión. No modifica los archivos originales ni la configuración de acceso.
+Para incorporar novedades pasadas en el chat, registrar también su fuente, fecha y comisión. Revisar el diff antes del commit: no subir capturas, notas de revisión privadas, datos personales ni material pendiente por accidente.
 
 ## Verificación
 
-Ejecutar `python3 tools/validate.py` y `node --check dist/app.js`.
+```sh
+python3 tools/validate.py
+node --check dist/app.js
+node --check dist/theme.js
+node tools/test.js
+```
 
-Se valida integridad del catálogo, identificadores, enlaces de origen, referencias de agenda, intervalos de fecha y existencia de los recursos locales. El control automático no certifica permisos de terceros, lectura de imágenes dentro de documentos, exactitud académica o cambios posteriores de fechas.
+Los controles cubren identificadores, enlaces, fechas, relaciones entre materias y recursos, recurrencias de horarios, búsqueda y preferencias de tema. Complementar con revisión visual de escritorio y pantalla angosta, temas claro/oscuro, teclado, fichas y navegación. No certifican permisos externos ni exactitud académica del contenido.
+
+## Visor
+
+La vista previa usa un iframe de Google Drive bajo demanda. No requiere proxy ni backend. PDF.js podría utilizarse si se alojaran los PDF en un origen compatible; los enlaces compartidos de Drive no garantizan las condiciones necesarias. Por ahora se mantiene el enlace original de cada archivo.
