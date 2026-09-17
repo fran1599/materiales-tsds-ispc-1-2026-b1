@@ -1,0 +1,2196 @@
+{
+  "title": "Entre apuntes",
+  "updated": "2026-09-17",
+  "subjects": [
+    {
+      "id": "programacion",
+      "title": "Programación I",
+      "short": "Programación I",
+      "code": "</>",
+      "color": "teal",
+      "period": "2026 · Recorrido anual según hoja de ruta",
+      "commission": "No especificada en los archivos generales",
+      "teachers": "Equipo docente no identificado. Los manuales de Python y Git son de Ivana Rojas Córsico.",
+      "source": "1krvNUgfaBFknSCryT7d4fRRQTAlnE4A_",
+      "notes": "Forma el Módulo Programador junto con Base de Datos. Comparten hoja de ruta y proyecto integrador. Se conservan los ejes escritos en los manuales; la carpeta de origen usa otra numeración. No se encontró un programa independiente.",
+      "edition": "2026"
+    },
+    {
+      "id": "bases",
+      "title": "Base de Datos",
+      "short": "Base de Datos",
+      "code": "BD",
+      "color": "blue",
+      "period": "2026 · Recorrido anual según hoja de ruta",
+      "commission": "No especificada en los archivos generales",
+      "teachers": "Equipo docente completo no confirmado. Un apunte acredita a Verónica Pagnoni y M. Florencia García Zavia; otro a Pablo Giribaldi.",
+      "source": "1krvNUgfaBFknSCryT7d4fRRQTAlnE4A_",
+      "notes": "Integra el Módulo Programador. El material de modelo relacional estaba guardado dentro de Programación; aquí se organiza por su contenido. No se encontró programa independiente ni el apunte específico del Eje 2.",
+      "edition": "2026"
+    },
+    {
+      "id": "matematica",
+      "title": "Elementos de Matemática y Lógica",
+      "short": "Matemática y Lógica",
+      "code": "x²",
+      "color": "coral",
+      "period": "2026 · Anual",
+      "commission": "B1 en la hoja de ruta",
+      "teachers": "Nahuel Pratta y Donata Delfini, según programa. Las presentaciones de Unidad 1 están firmadas por Nahuel Pratta.",
+      "source": "110jD4y4xJYO98DtpAIsrlfPjkGFfzgTU",
+      "notes": "Hoja de ruta identificada como versión del 7/09/2026. La carpeta agrupa álgebra y funciones, pero el programa las distingue; el apunte disponible es de expresiones algebraicas. No se encontraron materiales específicos de funciones.",
+      "edition": "2026"
+    },
+    {
+      "id": "arquitectura",
+      "title": "Arquitectura de las Computadoras",
+      "short": "Arquitectura",
+      "code": "AC",
+      "color": "olive",
+      "period": "2026 · Agosto–octubre, según hoja de ruta",
+      "commission": "B en la hoja de ruta; no especifica B1",
+      "teachers": "Verónica Karina Pagnoni y Daniel Alejandro Meloni.",
+      "source": "1wy17P8nySyXe4AHagl7TpY5o-6OP4DK_",
+      "notes": "Se organizan los apuntes por unidad y se conservan las etiquetas de clase. Cinco archivos de clases asincrónicas no ofrecieron texto legible y están pendientes de revisión. La hoja de ruta repite fechas en sus últimas dos semanas: no se asigna una fecha de defensa.",
+      "edition": "2026"
+    },
+    {
+      "id": "sistemas",
+      "title": "Sistemas y Organizaciones",
+      "short": "Sistemas y Organizaciones",
+      "code": "SO",
+      "color": "purple",
+      "period": "2026 · Anual",
+      "commission": "No especificada en el programa",
+      "teachers": "Dianela Accietto y Laura Zavia.",
+      "source": "1Q56EhANig20BOCBUoXtbIct_AVMKhLjP",
+      "notes": "El programa ubica modelado en Unidad 2, aunque una portada dice Unidad III. Procesos de negocio se conserva como bloque del segundo cuatrimestre, tal como se identifica el documento. No se encontró hoja de ruta ni material específico de la unidad de gestión de servicios.",
+      "edition": "2026"
+    },
+    {
+      "id": "comunicacion1",
+      "title": "Competencias Comunicacionales I",
+      "short": "Comunicación I",
+      "code": "C1",
+      "color": "ochre",
+      "period": "2026 · Primer cuatrimestre",
+      "commission": "El programa contempla A, B1 y B2",
+      "teachers": "A: Laura Zavia. B1: Sebastián Olima Quinteros. B2: Mariana Martellotto.",
+      "source": "1UPRjtb4r2itkc5fl1uxD9KiLDOmw4jBD",
+      "notes": "El conjunto incluye una presentación de Laura Zavia: no todos los archivos están identificados exclusivamente con B1. No se encontró cronograma. El material cubre parte del Eje 3; no se hallaron apuntes específicos de oratoria y presentación breve.",
+      "edition": "2026"
+    },
+    {
+      "id": "trabajo",
+      "title": "Aproximación al Mundo del Trabajo",
+      "short": "Mundo del Trabajo",
+      "code": "MT",
+      "color": "rose",
+      "period": "2026 · Segundo cuatrimestre",
+      "commission": "No especificada en el programa",
+      "teachers": "Laura Zavia y Lucía Brochero.",
+      "source": "1lzAAYVba9e24DVTZ-WWbSjZLy_jlYjZG",
+      "notes": "Incluye las tres unidades y documentación de evaluación. El acceso directo a la hoja de ruta no pudo resolverse. La agenda sólo recoge la fecha expresada en la consigna disponible.",
+      "edition": "2026"
+    },
+    {
+      "id": "comunicacion2",
+      "title": "Competencias Comunicacionales II",
+      "short": "Comunicación II",
+      "code": "C2",
+      "color": "ochre",
+      "period": "Período sin confirmar documentalmente",
+      "commission": "Sin confirmar",
+      "teachers": "Sin confirmar",
+      "source": null,
+      "notes": "Aún no hay materiales generales incorporados a este catálogo.",
+      "edition": "2026"
+    },
+    {
+      "id": "ingles",
+      "title": "Inglés I",
+      "short": "Inglés I",
+      "code": "EN",
+      "color": "blue",
+      "period": "Período sin confirmar documentalmente",
+      "commission": "Sin confirmar",
+      "teachers": "Sin confirmar",
+      "source": null,
+      "notes": "La carpeta revisada no contiene materiales.",
+      "edition": "2026"
+    },
+    {
+      "id": "institucional",
+      "title": "Documentos institucionales",
+      "short": "Institucional",
+      "code": "IS",
+      "color": "teal",
+      "period": "Versiones disponibles en la carpeta compartida",
+      "commission": "Todas las comisiones",
+      "teachers": "Instituto Superior Politécnico Córdoba",
+      "source": null,
+      "notes": "Incluye el Régimen Académico Institucional y el Régimen Académico Marco de 2025. La vigencia normativa posterior no fue verificada. El acta de representación queda pendiente de revisión visual de posibles firmas o datos personales.",
+      "edition": "2026"
+    }
+  ],
+  "resources": [
+    {
+      "id": "1y5soYnxErmCS12EOSqApfJkG6HPa1e6q",
+      "title": "Proyecto integrador: diseño de un sistema computacional",
+      "description": "Consigna general: requisitos, representación de datos, circuito lógico, procesador, memoria y comunicación. Incluye entregables, defensa oral y rúbrica.",
+      "unit": "General",
+      "kind": "Consigna",
+      "tags": [
+        "proyecto",
+        "hardware"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1y5soYnxErmCS12EOSqApfJkG6HPa1e6q/view",
+      "originalName": "Proyecto ABP Arquitectura de las Computadoras_2026.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Arquitectura de las computadoras"
+    },
+    {
+      "id": "1XGmtELKNKb0RohTQWroKCLhEWGnfSB9d",
+      "title": "Hoja de ruta · Comisión B",
+      "description": "Semanas de agosto a octubre de 2026, contenidos, evidencias y recuperatorios. La semana final repite las fechas de la anterior: confirmar la defensa.",
+      "unit": "General",
+      "kind": "Cronograma",
+      "tags": [
+        "cursada",
+        "fechas"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1XGmtELKNKb0RohTQWroKCLhEWGnfSB9d/view",
+      "originalName": "HOJA DE RUTA (3).pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Arquitectura de las computadoras"
+    },
+    {
+      "id": "1B4h5H9bxAJvUBsyfTZzBH_ABH0MQDhi8",
+      "title": "Criterios de evaluación",
+      "description": "Criterios generales y específicos para valorar comprensión conceptual, aplicación al proyecto, producciones y participación.",
+      "unit": "General",
+      "kind": "Evaluación",
+      "tags": [
+        "evaluación",
+        "proyecto"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1B4h5H9bxAJvUBsyfTZzBH_ABH0MQDhi8/view",
+      "originalName": "CRITERIOS DE EVALUACIÓN.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Arquitectura de las computadoras"
+    },
+    {
+      "id": "1wy17P8nySyXe4AHagl7TpY5o-6OP4DK_",
+      "title": "Programa 2026",
+      "description": "Fundamentación, objetivos, contenidos y bibliografía de Arquitectura de Computadoras. Identifica al equipo docente.",
+      "unit": "General",
+      "kind": "Programa",
+      "tags": [
+        "programa",
+        "2026"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1wy17P8nySyXe4AHagl7TpY5o-6OP4DK_/view",
+      "originalName": "Programa Arquitectura de las Computadoras_2026.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Arquitectura de las computadoras"
+    },
+    {
+      "id": "1_Ic_AI7YmKc8l-6mEP4IVMwufDZrilOx",
+      "title": "Proyecto integrador: simulador de costos y recursos",
+      "description": "Consigna para elaborar una especificación técnica con herramientas matemáticas. Describe la evolución del proyecto y su producto final.",
+      "unit": "General",
+      "kind": "Consigna",
+      "tags": [
+        "proyecto",
+        "modelado"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1_Ic_AI7YmKc8l-6mEP4IVMwufDZrilOx/view",
+      "originalName": "Proyecto ABP - Elementos de Matemática y Lógica.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica"
+    },
+    {
+      "id": "1gRsrRgs2GDIgQ6XRafPwLBAoDizMbK8x",
+      "title": "Modelo institucional para proyectos",
+      "description": "Estructura sin completar para diseñar proyectos de Aprendizaje Basado en Proyectos: problemática, fundamentación, objetivos y organización.",
+      "unit": "General",
+      "kind": "Plantilla",
+      "tags": [
+        "proyecto",
+        "plantilla"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1gRsrRgs2GDIgQ6XRafPwLBAoDizMbK8x/edit",
+      "originalName": "MODELO ABP.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica"
+    },
+    {
+      "id": "19LFEas658rH35vuB86PUoqzh05a8gBQN",
+      "title": "Hoja de ruta · Comisión B1",
+      "description": "Planificación semanal de abril a diciembre, contenidos, evidencias, recuperatorios y defensas. Archivo identificado como revisión del 7 de septiembre de 2026.",
+      "unit": "General",
+      "kind": "Cronograma",
+      "tags": [
+        "fechas",
+        "B1"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/19LFEas658rH35vuB86PUoqzh05a8gBQN/view",
+      "originalName": "HOJA DE RUTA - TSDS - COM B1 - 2026 (7-sep-2026).pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica"
+    },
+    {
+      "id": "110jD4y4xJYO98DtpAIsrlfPjkGFfzgTU",
+      "title": "Programa 2026",
+      "description": "Objetivos y contenidos: números reales, conjuntos y lógica, álgebra lineal y funciones. Incluye docentes y bibliografía.",
+      "unit": "General",
+      "kind": "Programa",
+      "tags": [
+        "programa",
+        "2026"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/110jD4y4xJYO98DtpAIsrlfPjkGFfzgTU/view",
+      "originalName": "Programa Elementos de Matemática y Lógica .docx.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica"
+    },
+    {
+      "id": "1mptqHuYr5y8uJZamw7VJvBROG_Izaz-6",
+      "title": "Régimen Académico Institucional",
+      "description": "Documento del Instituto Superior Politécnico Córdoba sobre organización académica, trayectorias, cursado y evaluación. Se ofrece la versión disponible en la carpeta compartida.",
+      "unit": "Normativa",
+      "kind": "Institucional",
+      "tags": [
+        "institucional",
+        "cursada"
+      ],
+      "subjects": [
+        "institucional"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1mptqHuYr5y8uJZamw7VJvBROG_Izaz-6/view",
+      "originalName": "RÉGIMEN ACADÉMICO INSTITUCIONAL (1).pdf",
+      "edition": "Institucional",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Representación estudiantil (compartida)"
+    },
+    {
+      "id": "12U5FZFlpT2_9pjUScHQL2OwDo3Et7Wyt",
+      "title": "Régimen Académico Marco · Resolución 298/2025",
+      "description": "Resolución y régimen marco del nivel superior de Córdoba. Incluye regulación de trayectorias y modalidades de cursado. Copia documental de 2025.",
+      "unit": "Normativa",
+      "kind": "Institucional",
+      "tags": [
+        "institucional",
+        "normativa"
+      ],
+      "subjects": [
+        "institucional"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/12U5FZFlpT2_9pjUScHQL2OwDo3Et7Wyt/view",
+      "originalName": "RM_298-2025_RAM.pdf",
+      "edition": "Institucional",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Representación estudiantil (compartida)"
+    },
+    {
+      "id": "1IQQAqUOad07KJZE_ksjRyTCYPU1FyrAa",
+      "title": "Primera evidencia: reconocer una problemática",
+      "description": "Consigna general de la primera etapa del proyecto: nombre, tipo, problemática y diagrama de Gantt. Incluye formato y fecha de entrega de agosto de 2026.",
+      "unit": "General",
+      "kind": "Consigna",
+      "tags": [
+        "proyecto",
+        "evidencia"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1IQQAqUOad07KJZE_ksjRyTCYPU1FyrAa/view",
+      "originalName": "Lineamientos Evidencias_De_Aprendizajes.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Aproximación al Mundo del Trabajo"
+    },
+    {
+      "id": "1EBdIgCse3IkvVo2ElhwmSqxJaldYnp67",
+      "title": "Criterios de evaluación 2026",
+      "description": "Criterios generales y específicos por unidad sobre campo laboral, modalidades de trabajo y construcción de la trayectoria profesional.",
+      "unit": "General",
+      "kind": "Evaluación",
+      "tags": [
+        "evaluación",
+        "trabajo"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1EBdIgCse3IkvVo2ElhwmSqxJaldYnp67/view",
+      "originalName": "AMT_CriteriosEvaluación.docx.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Aproximación al Mundo del Trabajo"
+    },
+    {
+      "id": "1lzAAYVba9e24DVTZ-WWbSjZLy_jlYjZG",
+      "title": "Programa · Segundo cuatrimestre 2026",
+      "description": "Objetivos, tres unidades, docentes y bibliografía de Aproximación al Mundo del Trabajo.",
+      "unit": "General",
+      "kind": "Programa",
+      "tags": [
+        "programa",
+        "2026"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1lzAAYVba9e24DVTZ-WWbSjZLy_jlYjZG/view",
+      "originalName": "AMT_Programa.docx.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Aproximación al Mundo del Trabajo"
+    },
+    {
+      "id": "1xw0foNYX2n5TnLqcQfoltJ5Aw4Obxc_F",
+      "title": "Clase 2 · Representación de datos",
+      "description": "Diapositivas con desafíos y resoluciones sobre binario, codificación de texto, colores, resolución de imágenes y muestreo de audio.",
+      "unit": "Unidad 1 · Fundamentos y datos",
+      "kind": "Clase",
+      "tags": [
+        "clase 2",
+        "datos"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1xw0foNYX2n5TnLqcQfoltJ5Aw4Obxc_F/view",
+      "originalName": "Clase 2 - sincrónico.pptx.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Arquitectura de las computadoras / Clase 2"
+    },
+    {
+      "id": "1dGFSzMF7q9m56TPlJM9AY9qgeaD9ewrr",
+      "title": "Sistemas de representación de datos",
+      "description": "Sistemas decimal, binario, octal y hexadecimal; conversiones, codificación de texto, enteros y punto flotante. Propone un codificador/decodificador.",
+      "unit": "Unidad 1 · Fundamentos y datos",
+      "kind": "Apunte",
+      "tags": [
+        "binario",
+        "codificación"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1dGFSzMF7q9m56TPlJM9AY9qgeaD9ewrr/view",
+      "originalName": "02_Sistemas de Representación de Datos.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Arquitectura de las computadoras / Clase 2"
+    },
+    {
+      "id": "1fFNJfwbf4DIamnYgA_szKr63Gppvn0Ca",
+      "title": "Componentes de la computadora moderna",
+      "description": "Procesador, unidad de control, registros, jerarquía de memoria y dispositivos de entrada y salida. Arquitecturas multinúcleo y sistemas en chip.",
+      "unit": "Unidad 2 · Lógica y componentes",
+      "kind": "Apunte",
+      "tags": [
+        "clase 4",
+        "hardware"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1fFNJfwbf4DIamnYgA_szKr63Gppvn0Ca/view",
+      "originalName": "04_Componentes de la Computadora Moderna.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Arquitectura de las computadoras / Clase 4"
+    },
+    {
+      "id": "1E8l542r7oZKQYLcZZJFJVGp0B8fEjadB",
+      "title": "Clase 3 · Lógica digital y circuitos",
+      "description": "Actividades con estados binarios, variables booleanas, operadores, compuertas y su integración en el procesador.",
+      "unit": "Unidad 2 · Lógica y componentes",
+      "kind": "Clase",
+      "tags": [
+        "clase 3",
+        "circuitos"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1E8l542r7oZKQYLcZZJFJVGp0B8fEjadB/view",
+      "originalName": "Clase 3 - sincrónico.pptx.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Arquitectura de las computadoras / Clase 3"
+    },
+    {
+      "id": "1L6dp7ybBohl_ZUb5hJBzscZEaU0f9mRX",
+      "title": "Lógica digital y diseño de circuitos",
+      "description": "Álgebra de Boole, tablas de verdad, propiedades y compuertas. Diseño y simulación de circuitos con un caso de puerta automática.",
+      "unit": "Unidad 2 · Lógica y componentes",
+      "kind": "Apunte",
+      "tags": [
+        "Boole",
+        "circuitos"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1L6dp7ybBohl_ZUb5hJBzscZEaU0f9mRX/view",
+      "originalName": "03_Lógica Digital y Diseño de Circuitos.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Arquitectura de las computadoras / Clase 3"
+    },
+    {
+      "id": "1pV0YqI-T612baa_4grasrm2CVTkqF9ID",
+      "title": "Clase 1 · Introducción a la arquitectura",
+      "description": "Diapositivas de actividades sobre historia, generaciones de computadoras, organización funcional y memoria.",
+      "unit": "Unidad 1 · Fundamentos y datos",
+      "kind": "Clase",
+      "tags": [
+        "clase 1",
+        "historia"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1pV0YqI-T612baa_4grasrm2CVTkqF9ID/view",
+      "originalName": "Clase 1 - sincrónico.pptx.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Arquitectura de las computadoras / Clase 1"
+    },
+    {
+      "id": "1l3kM4n7Mn7gdP71RvDBr6GokTfJ3rG-0",
+      "title": "Introducción a la arquitectura de computadoras",
+      "description": "Historia y generaciones, modelo de von Neumann, programa almacenado, organización básica y jerarquía de memoria.",
+      "unit": "Unidad 1 · Fundamentos y datos",
+      "kind": "Apunte",
+      "tags": [
+        "clase 1",
+        "von Neumann"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1l3kM4n7Mn7gdP71RvDBr6GokTfJ3rG-0/view",
+      "originalName": "01_Introducción a la Arquitectura de Computadoras.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Arquitectura de las computadoras / Clase 1"
+    },
+    {
+      "id": "1DB8aJ0Eybqh3CuR6naGKPA9wcTVLCWlE",
+      "title": "Expresiones algebraicas",
+      "description": "Polinomios: clasificación, evaluación, operaciones, factorización y expresiones racionales. Incluye aplicaciones al desarrollo de software.",
+      "unit": "Unidad 3 · Álgebra",
+      "kind": "Apunte",
+      "tags": [
+        "polinomios",
+        "factorización"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1DB8aJ0Eybqh3CuR6naGKPA9wcTVLCWlE/view",
+      "originalName": "Material Teórico Expresiones Algebraicas.docx.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 3 - Álgebra y funciones"
+    },
+    {
+      "id": "1yzQL5z6cD63alFhkrfz9f9RRry_S5jXd",
+      "title": "Progresiones aplicadas al software",
+      "description": "Ejemplos desarrollados de progresiones geométricas con árboles binarios, recursos y oscilaciones. Material de apoyo, sin firma docente visible en el texto.",
+      "unit": "Unidad 1 · Números reales",
+      "kind": "Complementario",
+      "tags": [
+        "progresiones",
+        "software"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1yzQL5z6cD63alFhkrfz9f9RRry_S5jXd/edit",
+      "originalName": "Ejercicios Progresiones.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+    },
+    {
+      "id": "1sJKUKC0UTzKFA2KP_9EwzzL96U-_4tf-",
+      "title": "Sucesiones y progresiones · Resoluciones",
+      "description": "Resoluciones de cinco ejercicios sobre término general, recurrencia, progresiones aritméticas, sumas y progresiones geométricas.",
+      "unit": "Unidad 1 · Números reales",
+      "kind": "Resoluciones",
+      "tags": [
+        "sucesiones",
+        "progresiones"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1sJKUKC0UTzKFA2KP_9EwzzL96U-_4tf-/view",
+      "originalName": "Pr_C3_A1ctica_20Resuelta_20Unidad_20I.c.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+    },
+    {
+      "id": "11tfokRGK1Ub7dvH_0eICP40HxzaV4lOC",
+      "title": "Sucesiones y progresiones · Práctica",
+      "description": "Cinco consignas para identificar términos, trabajar recurrencias y calcular progresiones aritméticas y geométricas.",
+      "unit": "Unidad 1 · Números reales",
+      "kind": "Práctica",
+      "tags": [
+        "sucesiones",
+        "progresiones"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/11tfokRGK1Ub7dvH_0eICP40HxzaV4lOC/view",
+      "originalName": "Pr_C3_A1ctica_20Unidad_20I.c.Sucesiones_20y_20progresiones.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+    },
+    {
+      "id": "1pfP9KOP2SkAqjwFEieKTDSh57ptCnWPP",
+      "title": "Intervalos · Ejercicios extra",
+      "description": "Tres problemas sobre validación de edades, ventanas de mantenimiento y versiones compatibles, resueltos mediante operaciones con intervalos.",
+      "unit": "Unidad 1 · Números reales",
+      "kind": "Práctica",
+      "tags": [
+        "intervalos",
+        "software"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1pfP9KOP2SkAqjwFEieKTDSh57ptCnWPP/edit",
+      "originalName": "Ej extras intervalos.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+    },
+    {
+      "id": "1m_sbhoO_NxlQhJTOQgqouuWQeYjrQhHa",
+      "title": "Intervalos · Resoluciones",
+      "description": "Respuestas desarrolladas de la práctica: notaciones, representación, pertenencia, unión e intersección de intervalos.",
+      "unit": "Unidad 1 · Números reales",
+      "kind": "Resoluciones",
+      "tags": [
+        "intervalos",
+        "conjuntos"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1m_sbhoO_NxlQhJTOQgqouuWQeYjrQhHa/view",
+      "originalName": "Práctica Resuelta Unidad I.b.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+    },
+    {
+      "id": "1qsPnCp5KipNMJUJknDi3jQBwFqSeGGF5",
+      "title": "Intervalos · Práctica",
+      "description": "Ejercicios de lenguaje natural, notación simbólica, representación y operaciones entre intervalos.",
+      "unit": "Unidad 1 · Números reales",
+      "kind": "Práctica",
+      "tags": [
+        "intervalos",
+        "conjuntos"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1qsPnCp5KipNMJUJknDi3jQBwFqSeGGF5/view",
+      "originalName": "Práctica Unidad I.b.Intervalos.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+    },
+    {
+      "id": "1BMxTVZjrAn3Kz1IbO2L28yqITLWg2A3s",
+      "title": "Números reales · Resoluciones",
+      "description": "Resolución explicada de la guía de números reales: conjuntos numéricos, propiedades y problemas de aplicación.",
+      "unit": "Unidad 1 · Números reales",
+      "kind": "Resoluciones",
+      "tags": [
+        "números reales",
+        "operaciones"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1BMxTVZjrAn3Kz1IbO2L28yqITLWg2A3s/view",
+      "originalName": "Pr_C3_A1ctica_20Resuelta_20Unidad_20I.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+    },
+    {
+      "id": "1cjzhR5zcURYlaIF8GmaVHquyqnyNm9O9",
+      "title": "Números reales · Práctica",
+      "description": "Consignas de verdadero o falso, pertenencia a conjuntos, potencias, raíces, propiedades y problemas numéricos.",
+      "unit": "Unidad 1 · Números reales",
+      "kind": "Práctica",
+      "tags": [
+        "números reales",
+        "operaciones"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1cjzhR5zcURYlaIF8GmaVHquyqnyNm9O9/view",
+      "originalName": "Práctica Unidad I.a.Números Reales.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+    },
+    {
+      "id": "1qCX8ynQRG_MxUmb44RS3sdkrmi-3yYD2",
+      "title": "Sucesiones y progresiones · Presentación",
+      "description": "Diapositivas de Nahuel Pratta: término general, sucesiones recurrentes, Fibonacci y progresiones.",
+      "unit": "Unidad 1 · Números reales",
+      "kind": "Clase",
+      "tags": [
+        "sucesiones",
+        "Fibonacci"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PPTX",
+      "url": "https://docs.google.com/presentation/d/1qCX8ynQRG_MxUmb44RS3sdkrmi-3yYD2/edit",
+      "originalName": "Unidad 1.c. Sucesiones y progresiones.pptx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+    },
+    {
+      "id": "1UT-XJhu0s8sailgUCIZjN-phXOU175ym",
+      "title": "Intervalos · Presentación",
+      "description": "Diapositivas de Nahuel Pratta sobre límites, extremos incluidos o excluidos y formas de representar intervalos.",
+      "unit": "Unidad 1 · Números reales",
+      "kind": "Clase",
+      "tags": [
+        "intervalos",
+        "recta real"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PPTX",
+      "url": "https://docs.google.com/presentation/d/1UT-XJhu0s8sailgUCIZjN-phXOU175ym/edit",
+      "originalName": "Unidad 1.b. Intervalos.pptx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+    },
+    {
+      "id": "1XISlyGR_nG_zwDqqC45dzxFzytG-PVb-",
+      "title": "Números reales · Presentación",
+      "description": "Diapositivas de Nahuel Pratta con introducción a los conjuntos numéricos y al sistema de numeración.",
+      "unit": "Unidad 1 · Números reales",
+      "kind": "Clase",
+      "tags": [
+        "números reales",
+        "numeración"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PPTX",
+      "url": "https://docs.google.com/presentation/d/1XISlyGR_nG_zwDqqC45dzxFzytG-PVb-/edit",
+      "originalName": "Unidad I.a. Números reales.pptx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 1 - Números Reales. Intervalos. Sucesiones y progresiones"
+    },
+    {
+      "id": "1VD_acRg5S8FUIkR-SJVeqrNETGvDVVyr",
+      "title": "Lógica · Actividades de ampliación",
+      "description": "Tablas de verdad, reglas de negocio, condicionales, recíproca y contrarrecíproca, con situaciones de software.",
+      "unit": "Unidad 2 · Conjuntos y lógica",
+      "kind": "Práctica",
+      "tags": [
+        "lógica",
+        "tablas de verdad"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1VD_acRg5S8FUIkR-SJVeqrNETGvDVVyr/edit",
+      "originalName": "Guia Actividades Lógica - Anexo.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+    },
+    {
+      "id": "1-mfadhVSDMLAK6UFqCEqvuuJt5TOnIGG",
+      "title": "Lógica · Actividades para el proyecto",
+      "description": "Práctica individual y consignas para equipos: proposiciones, simbolización, diccionario del dominio, reglas de negocio y tabla de verdad.",
+      "unit": "Unidad 2 · Conjuntos y lógica",
+      "kind": "Práctica",
+      "tags": [
+        "lógica",
+        "proyecto"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1-mfadhVSDMLAK6UFqCEqvuuJt5TOnIGG/edit",
+      "originalName": "Guia Actividades Lógica.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+    },
+    {
+      "id": "1wQGHTO8fYr0rIfvm8knqVC1nF2lg1evs",
+      "title": "Conjuntos · Guía 2 con soluciones",
+      "description": "Complementos, leyes de De Morgan, cardinalidad, conjunto potencia, producto cartesiano y aritmética modular. Incluye soluciones.",
+      "unit": "Unidad 2 · Conjuntos y lógica",
+      "kind": "Práctica",
+      "tags": [
+        "conjuntos",
+        "con soluciones"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1wQGHTO8fYr0rIfvm8knqVC1nF2lg1evs/edit",
+      "originalName": "Guia Ejercitacion Conjuntos 2° Parte.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+    },
+    {
+      "id": "1v_gYTm46nuuyyhm0L0tkG3Ttal5i9QGF",
+      "title": "Conjuntos · Guía 1 con soluciones",
+      "description": "Operaciones, extensión y comprensión, complementos, pertenencia y diagramas de Venn. Incluye una sección de soluciones.",
+      "unit": "Unidad 2 · Conjuntos y lógica",
+      "kind": "Práctica",
+      "tags": [
+        "conjuntos",
+        "con soluciones"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1v_gYTm46nuuyyhm0L0tkG3Ttal5i9QGF/edit",
+      "originalName": "Guia_Ejercitacion_Conjuntos_1° Parte.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+    },
+    {
+      "id": "1cLRlunFJI__lAVP2hke4w56mYHYYq1gZ",
+      "title": "Conjuntos y lógica · Anexo comparativo",
+      "description": "Compara objetos de estudio, operaciones y preguntas de la lógica y la teoría de conjuntos, y explica sus correspondencias.",
+      "unit": "Unidad 2 · Conjuntos y lógica",
+      "kind": "Complementario",
+      "tags": [
+        "conjuntos",
+        "lógica"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1cLRlunFJI__lAVP2hke4w56mYHYYq1gZ/view",
+      "originalName": "ANEXO CONJUNTOS Y LÓGICA.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+    },
+    {
+      "id": "1nzAZXiXqlDp5mRfTTgsQFVgPntgjrfbD",
+      "title": "Lógica proposicional",
+      "description": "Enunciados, conectores, tablas de verdad, condicionales, tautologías, contradicciones y equivalencia lógica aplicados a reglas de software.",
+      "unit": "Unidad 2 · Conjuntos y lógica",
+      "kind": "Apunte",
+      "tags": [
+        "lógica",
+        "reglas de negocio"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1nzAZXiXqlDp5mRfTTgsQFVgPntgjrfbD/view",
+      "originalName": "Material_20Teorico_20Logica.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+    },
+    {
+      "id": "1fw-OrmXuMbmx8s0LsaKuE2b-RnjZPcVj",
+      "title": "Relaciones de equivalencia y aritmética modular",
+      "description": "Restos, congruencia módulo n, operaciones, clases de equivalencia y particiones, con aplicaciones al software.",
+      "unit": "Unidad 2 · Conjuntos y lógica",
+      "kind": "Apunte",
+      "tags": [
+        "aritmética modular",
+        "equivalencia"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1fw-OrmXuMbmx8s0LsaKuE2b-RnjZPcVj/view",
+      "originalName": "Material Teórico Aritmética Modular.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+    },
+    {
+      "id": "1YRi6uu-iWhvEM4SUimQmPo80k5-Iqwc7",
+      "title": "Teoría de conjuntos",
+      "description": "Pertenencia, extensión y comprensión, subconjuntos, diagramas de Venn, operaciones, cardinalidad y producto cartesiano.",
+      "unit": "Unidad 2 · Conjuntos y lógica",
+      "kind": "Apunte",
+      "tags": [
+        "conjuntos",
+        "Venn"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1YRi6uu-iWhvEM4SUimQmPo80k5-Iqwc7/view",
+      "originalName": "Material_20Teorico_20Conjuntos.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Elementos de Matemática y Lógica / Unidad 2 - Conjuntos y Lógica"
+    },
+    {
+      "id": "1ZUWWCcHETknhKsuRbCVh5lSqF40IjqGs",
+      "title": "Los 14 diagramas del Lenguaje Unificado de Modelado",
+      "description": "Recorrido por diagramas estructurales y de comportamiento: clases, componentes, despliegue, casos de uso, actividades, estados y secuencia, entre otros.",
+      "unit": "Unidad 2 · Modelado con UML",
+      "kind": "Apunte",
+      "tags": [
+        "UML",
+        "diagramas"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1ZUWWCcHETknhKsuRbCVh5lSqF40IjqGs/view",
+      "originalName": "Unidad 2_PARTE 2_Diagramas.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Sistemas y Organizaciones / Material"
+    },
+    {
+      "id": "1gaOWwFuLzgXVUlgzKpq-nVimXtYhcKHW",
+      "title": "Introducción al Lenguaje Unificado de Modelado",
+      "description": "Material general sobre propósito, historia y lenguaje visual de modelado. Su portada dice Unidad III, mientras que el programa ubica el tema en Unidad 2.",
+      "unit": "Unidad 2 · Modelado con UML",
+      "kind": "Complementario",
+      "tags": [
+        "UML",
+        "introducción"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1gaOWwFuLzgXVUlgzKpq-nVimXtYhcKHW/view",
+      "originalName": "UML-Intro.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Sistemas y Organizaciones / Material"
+    },
+    {
+      "id": "1Xyx5I1h-A2c6Ikcu8t_XaAKZAw6YTzIx",
+      "title": "Teoría General de Sistemas · Unidades 1.1 a 1.3",
+      "description": "Origen de la teoría, entropía, homeostasis, sinergia, enfoque sistémico y estructura organizacional. Incluye misión, visión y cultura.",
+      "unit": "Unidad 1 · Sistemas y organizaciones",
+      "kind": "Apunte",
+      "tags": [
+        "sistemas",
+        "organizaciones"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1Xyx5I1h-A2c6Ikcu8t_XaAKZAw6YTzIx/view",
+      "originalName": "SyO_Eje1_TSDS_ISPC Teoría General de los Sistemas (TGS) .pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Sistemas y Organizaciones / Material"
+    },
+    {
+      "id": "1Z74BNYv1W3ibsKpHH7GrrYlhwf5Em0MH",
+      "title": "Estructura y geografía organizacional · 1.4 y 1.5",
+      "description": "Organigramas, tipos de estructura, departamentalización, sedes y sucursales. Centralización y descentralización de la información.",
+      "unit": "Unidad 1 · Sistemas y organizaciones",
+      "kind": "Apunte",
+      "tags": [
+        "organigramas",
+        "estructura"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1Z74BNYv1W3ibsKpHH7GrrYlhwf5Em0MH/view",
+      "originalName": "SyO_ISPC_U1.4_1.5Modelos_estructurales_y_geografía_organizacional.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Sistemas y Organizaciones / Material"
+    },
+    {
+      "id": "1LsOgkwULLSy29T1wrXcK3n292dwxLX-r",
+      "title": "Clase 9 · Modelado y organizaciones",
+      "description": "Diapositivas sobre el uso del Lenguaje Unificado de Modelado para documentar procesos, comunicar entre áreas y detectar problemas.",
+      "unit": "Unidad 2 · Modelado con UML",
+      "kind": "Clase",
+      "tags": [
+        "UML",
+        "clase 9"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1LsOgkwULLSy29T1wrXcK3n292dwxLX-r/view",
+      "originalName": "Clase 9 - UML .pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Sistemas y Organizaciones / Material"
+    },
+    {
+      "id": "1ZfdI_74IaAJAX0jsRPX-u41hh9ELPCBP",
+      "title": "Diagramas de casos de uso",
+      "description": "Presentación sobre actores, requisitos funcionales y relaciones en los diagramas de casos de uso.",
+      "unit": "Unidad 2 · Modelado con UML",
+      "kind": "Clase",
+      "tags": [
+        "UML",
+        "casos de uso"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1ZfdI_74IaAJAX0jsRPX-u41hh9ELPCBP/view",
+      "originalName": "Diagramas de casos de uso.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Sistemas y Organizaciones / Material"
+    },
+    {
+      "id": "1CB8Znmf7s8H9CLEF_DTVNo1nBwJax7Ax",
+      "title": "Diagramas de estados",
+      "description": "Definición, simbología, eventos y transiciones. Incluye un ejemplo de ciclo de vida y una actividad grupal sobre vuelos.",
+      "unit": "Unidad 2 · Modelado con UML",
+      "kind": "Clase",
+      "tags": [
+        "UML",
+        "estados"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1CB8Znmf7s8H9CLEF_DTVNo1nBwJax7Ax/view",
+      "originalName": "Diagrama_de_estados.pptx.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Sistemas y Organizaciones / Material"
+    },
+    {
+      "id": "18stkh0CAiBKaBSAiBNxypWpXPyJpvgTJ",
+      "title": "Administración y tecnologías de la información · 1.6 a 1.9",
+      "description": "Niveles estratégico, táctico y operativo; planificación, herramientas de análisis y evolución de las tecnologías de la información.",
+      "unit": "Unidad 1 · Sistemas y organizaciones",
+      "kind": "Apunte",
+      "tags": [
+        "administración",
+        "tecnología"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/18stkh0CAiBKaBSAiBNxypWpXPyJpvgTJ/view",
+      "originalName": "SyO_U1.6_1.7_1.8_1.9 Niveles de la administración. Tecnologías de la  Información. .pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Sistemas y Organizaciones / Material"
+    },
+    {
+      "id": "1rcn466jcnKIl8S10YqQRbcEFZlKnbzmh",
+      "title": "Sistemas de información · 1.10 y 1.11",
+      "description": "Componentes y clasificación de sistemas de información, apoyo a decisiones, ciclo de la información y gestión de la complejidad.",
+      "unit": "Unidad 1 · Sistemas y organizaciones",
+      "kind": "Apunte",
+      "tags": [
+        "información",
+        "complejidad"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1rcn466jcnKIl8S10YqQRbcEFZlKnbzmh/view",
+      "originalName": "SyO_U1.10_1.11 Sistemas y Tecnologías de Información.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Sistemas y Organizaciones / Material"
+    },
+    {
+      "id": "1NEQUXrMIW72nDyPCisiPsGTrXO7dLlKW",
+      "title": "Procesos de negocio y ciclos transaccionales",
+      "description": "Material del segundo cuatrimestre: procesos, ventas y cobranzas, compras y pagos, comprobantes y flujo de caja.",
+      "unit": "Procesos · Segundo cuatrimestre",
+      "kind": "Apunte",
+      "tags": [
+        "procesos",
+        "transacciones"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1NEQUXrMIW72nDyPCisiPsGTrXO7dLlKW/view",
+      "originalName": "SyO_1-ProcesosCiclosTransaccionales.docx.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Sistemas y Organizaciones / Material"
+    },
+    {
+      "id": "1Q56EhANig20BOCBUoXtbIct_AVMKhLjP",
+      "title": "Programa 2026",
+      "description": "Objetivos, docentes y tres unidades: sistemas, Lenguaje Unificado de Modelado y gestión de servicios de tecnología.",
+      "unit": "General",
+      "kind": "Programa",
+      "tags": [
+        "programa",
+        "2026"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1Q56EhANig20BOCBUoXtbIct_AVMKhLjP/view",
+      "originalName": "Programa Sistemas y Organizaciones.docx (1).pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Sistemas y Organizaciones / Material"
+    },
+    {
+      "id": "1bJRq2Gq0t_bhQPFdvL2sE5hlg8xU82wj",
+      "title": "Evidencia 4 · Consigna de modelado de procesos",
+      "description": "Consigna general para crear diagramas de actividades, secuencia y estados de un mismo proceso. Incluye entregables, criterios y fecha de septiembre.",
+      "unit": "Unidad 2 · Modelado con UML",
+      "kind": "Consigna",
+      "tags": [
+        "UML",
+        "evidencia"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1bJRq2Gq0t_bhQPFdvL2sE5hlg8xU82wj/view",
+      "originalName": "Evidencia de Aprendizaje N.º 4 — Sistemas y Organizaciones.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Sistemas y Organizaciones / Material"
+    },
+    {
+      "id": "1n3BtTGes2z7D0QOAM_XliGj8H4K5cOhg",
+      "title": "40 ejercicios de Python",
+      "description": "Banco en seis bloques de dificultad creciente: variables, cadenas, colecciones, funciones y funciones avanzadas. Incluye pistas y soluciones de referencia.",
+      "unit": "Eje 1 · Python",
+      "kind": "Práctica",
+      "tags": [
+        "Python",
+        "con soluciones"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1n3BtTGes2z7D0QOAM_XliGj8H4K5cOhg/view",
+      "originalName": "ejercicios_python.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia"
+    },
+    {
+      "id": "1krvNUgfaBFknSCryT7d4fRRQTAlnE4A_",
+      "title": "Hoja de ruta · Módulo Programador 2026",
+      "description": "Cronograma compartido de Programación I y Base de Datos, desde marzo hasta diciembre, con contenidos, entregas y recuperatorios.",
+      "unit": "General",
+      "kind": "Cronograma",
+      "tags": [
+        "cursada",
+        "fechas"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1krvNUgfaBFknSCryT7d4fRRQTAlnE4A_/view",
+      "originalName": "HOJA DE RUTA - Módulo Programador - 2026.docx.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia"
+    },
+    {
+      "id": "1IvCJpdAzUCeDIzdnZU8lmZfD1381JZPX",
+      "title": "Proyecto integrador · Programación I y Base de Datos",
+      "description": "Lineamientos comunes para una aplicación de escritorio: requisitos, modelado de datos, repositorio, entregas, rúbricas y defensa.",
+      "unit": "General",
+      "kind": "Consigna",
+      "tags": [
+        "proyecto",
+        "integrador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1IvCJpdAzUCeDIzdnZU8lmZfD1381JZPX/view",
+      "originalName": "Lineamientos-Programador-ABP-ISPC (1).pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia"
+    },
+    {
+      "id": "1lZacntr-f5RHbIgjh8yWqEI16CiKqITy",
+      "title": "Requerimientos de un sistema",
+      "description": "Material complementario que distingue requerimientos funcionales y no funcionales con ejemplos de comportamiento y atributos de calidad.",
+      "unit": "Complementarios",
+      "kind": "Complementario",
+      "tags": [
+        "requerimientos",
+        "software"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1lZacntr-f5RHbIgjh8yWqEI16CiKqITy/view",
+      "originalName": "Material complementario ATM.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Aproximación al Mundo del Trabajo / Material"
+    },
+    {
+      "id": "13tNsPPia0Jy7krCufNxY5DRh11_xXlBz",
+      "title": "Construcción de la trayectoria profesional",
+      "description": "Currículum, portfolio, video de presentación, LinkedIn, entrevistas técnicas y actualización profesional continua.",
+      "unit": "Unidad 3 · Trayectoria profesional",
+      "kind": "Apunte",
+      "tags": [
+        "empleo",
+        "portfolio"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/13tNsPPia0Jy7krCufNxY5DRh11_xXlBz/view",
+      "originalName": "AMT_Unidad3_TrayectoriaProfesional.docx.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Aproximación al Mundo del Trabajo / Material"
+    },
+    {
+      "id": "196RRs_nTAuUdWRK4I8Owbwd2jgp60o1Q",
+      "title": "Modalidades de inserción y ejercicio profesional",
+      "description": "Inteligencia artificial en el trabajo, relación de dependencia, trabajo independiente, monotributo, facturación y medios de cobro.",
+      "unit": "Unidad 2 · Inserción laboral",
+      "kind": "Apunte",
+      "tags": [
+        "trabajo",
+        "modalidades"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/196RRs_nTAuUdWRK4I8Owbwd2jgp60o1Q/view",
+      "originalName": "AMT_Unidad2_ModalidadesInsercion .docx.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Aproximación al Mundo del Trabajo / Material"
+    },
+    {
+      "id": "1ageOkQ3ieeXcpJyW4u8RYEFvBY3eSns_",
+      "title": "El campo profesional del desarrollo de software",
+      "description": "Tipos de empresas, trabajo independiente, sector tecnológico, modalidades de trabajo, posiciones iniciales y habilidades profesionales.",
+      "unit": "Unidad 1 · Campo profesional",
+      "kind": "Apunte",
+      "tags": [
+        "empleo",
+        "software"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1ageOkQ3ieeXcpJyW4u8RYEFvBY3eSns_/view",
+      "originalName": "AMT_Unidad1_CampoProf .docx.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Aproximación al Mundo del Trabajo / Material"
+    },
+    {
+      "id": "1FZ6LR6IMLIJbDmd2VIV8yKiNIVafJi5h",
+      "title": "Empatía y conflictos en equipos · 3.1 y 3.2",
+      "description": "Empatía, devolución constructiva, causas y escalada de conflictos, negociación, mediación y comunicación no violenta.",
+      "unit": "Eje 3 · Gestión de crisis y oratoria",
+      "kind": "Apunte",
+      "tags": [
+        "empatía",
+        "conflictos"
+      ],
+      "subjects": [
+        "comunicacion1"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1FZ6LR6IMLIJbDmd2VIV8yKiNIVafJi5h/view",
+      "originalName": "CC1_ISPC_U3.1_3.2 (1).docx.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+    },
+    {
+      "id": "199iIMZ0Ja6j6ye834v3UN4_p4QuLEpEN",
+      "title": "Comprensión y producción de textos técnicos · 2.4",
+      "description": "Correos, documentación breve, minutas e informes, con ejemplos del trabajo en equipos de software.",
+      "unit": "Eje 2 · Comunicación",
+      "kind": "Apunte",
+      "tags": [
+        "escritura",
+        "documentación"
+      ],
+      "subjects": [
+        "comunicacion1"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/199iIMZ0Ja6j6ye834v3UN4_p4QuLEpEN/view",
+      "originalName": "ISPC- EJE 2-U.4-.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+    },
+    {
+      "id": "1btS1ImrXHbQuI-EVpkRBqNQOEkkVU000",
+      "title": "Requerimientos de terceros · 2.3",
+      "description": "Cómo preparar, conducir y documentar una entrevista de relevamiento: preguntas, escucha activa, reformulación y gestión de ambigüedad.",
+      "unit": "Eje 2 · Comunicación",
+      "kind": "Apunte",
+      "tags": [
+        "escucha",
+        "requerimientos"
+      ],
+      "subjects": [
+        "comunicacion1"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1btS1ImrXHbQuI-EVpkRBqNQOEkkVU000/view",
+      "originalName": "CC1_ISPC_U2.3_Requerimientos de terceros.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+    },
+    {
+      "id": "1nNzicffwhZougyGhbZVK2F6YTXhF--8X",
+      "title": "Medios y canales de comunicación · 2.2",
+      "description": "Comunicación sincrónica y asincrónica, herramientas, ruidos, barreras y estrategias para equipos remotos.",
+      "unit": "Eje 2 · Comunicación",
+      "kind": "Apunte",
+      "tags": [
+        "canales",
+        "trabajo remoto"
+      ],
+      "subjects": [
+        "comunicacion1"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1nNzicffwhZougyGhbZVK2F6YTXhF--8X/view",
+      "originalName": "CC1_ISPC_Eje2_U2.2_Medios_y_Canales_en_IT.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+    },
+    {
+      "id": "1DXw-EJXe39KjNPp6BiPij638zBVJ35GT",
+      "title": "La comunicación integral · 2.1",
+      "description": "Información y comunicación, modelo de Shannon y Weaver, elementos, funciones, axiomas y retroalimentación.",
+      "unit": "Eje 2 · Comunicación",
+      "kind": "Apunte",
+      "tags": [
+        "comunicación",
+        "modelos"
+      ],
+      "subjects": [
+        "comunicacion1"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1DXw-EJXe39KjNPp6BiPij638zBVJ35GT/view",
+      "originalName": "CC1_ISPC_Eje2_U2.1_La_Comunicación_Integral.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+    },
+    {
+      "id": "1LvBLjB1cQKs1lgqPr8FzGgV0zFXTEao9",
+      "title": "Del individuo al equipo · Presentación",
+      "description": "Presentación del eje 1, identificada como material del primer cuatrimestre. El contenido gráfico no pudo verificarse mediante la extracción de texto.",
+      "unit": "Eje 1 · Del individuo al equipo",
+      "kind": "Clase",
+      "tags": [
+        "equipos",
+        "lectura parcial"
+      ],
+      "subjects": [
+        "comunicacion1"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1LvBLjB1cQKs1lgqPr8FzGgV0zFXTEao9/view",
+      "originalName": "Competencias Comunicacionales I - EJE 1.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+    },
+    {
+      "id": "10_1cPYOXLVRYwsxEAB6a7pFm-9X77_Go",
+      "title": "Introducción · Grupos y equipos",
+      "description": "Diapositivas de Laura Zavia sobre diferencias entre grupos y equipos, responsabilidad, metas e interdependencia.",
+      "unit": "Eje 1 · Del individuo al equipo",
+      "kind": "Clase",
+      "tags": [
+        "grupos",
+        "equipos"
+      ],
+      "subjects": [
+        "comunicacion1"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/10_1cPYOXLVRYwsxEAB6a7pFm-9X77_Go/view",
+      "originalName": "CC1_TSDS_ISPC_Introducción.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+    },
+    {
+      "id": "1hNcVJR10W0EhW7C4xBR8CRC_x8mD5L6O",
+      "title": "Del individuo al equipo · Apunte",
+      "description": "Grupos y equipos, dinámica grupal según Pichón Rivière, tarea, roles, estructura Scrum y rotación de roles.",
+      "unit": "Eje 1 · Del individuo al equipo",
+      "kind": "Apunte",
+      "tags": [
+        "grupos",
+        "roles"
+      ],
+      "subjects": [
+        "comunicacion1"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1hNcVJR10W0EhW7C4xBR8CRC_x8mD5L6O/view",
+      "originalName": "CC1_TSDS_ISPC_Eje_1_DelIndividuoAlEquipo (1).pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+    },
+    {
+      "id": "1Z6Acqx3FvYMTo8isWEjGEnDNSwV8W9K_",
+      "title": "Criterios de evaluación",
+      "description": "Criterios generales y específicos: claridad conceptual, comunicación oral y escrita, escucha, empatía y trabajo colaborativo.",
+      "unit": "General",
+      "kind": "Evaluación",
+      "tags": [
+        "evaluación",
+        "comunicación"
+      ],
+      "subjects": [
+        "comunicacion1"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1Z6Acqx3FvYMTo8isWEjGEnDNSwV8W9K_/edit",
+      "originalName": "CRITERIOS DE EVALUACIÓN_Competencias Comunicacionales I (1).docx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+    },
+    {
+      "id": "1UPRjtb4r2itkc5fl1uxD9KiLDOmw4jBD",
+      "title": "Programa 2026 · Comisiones A, B1 y B2",
+      "description": "Objetivos, docentes por comisión, bibliografía y tres ejes: equipos, comunicación y gestión de crisis y oratoria.",
+      "unit": "General",
+      "kind": "Programa",
+      "tags": [
+        "programa",
+        "comisiones"
+      ],
+      "subjects": [
+        "comunicacion1"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1UPRjtb4r2itkc5fl1uxD9KiLDOmw4jBD/view",
+      "originalName": "ProgramaCompetenciasComunicacionales_1.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Competencias Comunicacionales I / Material de estudio"
+    },
+    {
+      "id": "1JhvBinHdhioNoMyH2gkxSTmAnttFfZrR",
+      "title": "Fundamentos: seguridad, integridad y componentes",
+      "description": "Apunte de cátedra sobre privacidad, persistencia, estructura, metadatos, administración y arquitectura de bases de datos.",
+      "unit": "Eje 1 · Fundamentos",
+      "kind": "Apunte",
+      "tags": [
+        "seguridad",
+        "bases de datos"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1JhvBinHdhioNoMyH2gkxSTmAnttFfZrR/view",
+      "originalName": "4.Eje1-BBDD-ISPC.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia / BBDD - Eje 1"
+    },
+    {
+      "id": "1btHO_bmTgwLDsSnBGdWkgd67bGlgoIwK",
+      "title": "Sistemas gestores de bases de datos",
+      "description": "Material de Verónica Pagnoni y M. Florencia García Zavia sobre organización y administración de datos mediante sistemas gestores.",
+      "unit": "Eje 1 · Fundamentos",
+      "kind": "Apunte",
+      "tags": [
+        "gestores",
+        "bases de datos"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1btHO_bmTgwLDsSnBGdWkgd67bGlgoIwK/view",
+      "originalName": "3.Eje1-BBDD-ISPC.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia / BBDD - Eje 1"
+    },
+    {
+      "id": "1a4J7RBK3hocx5nXoiP8dfcrHZNrhZdS-",
+      "title": "Bases de datos · Manual de Pablo Giribaldi",
+      "description": "Conceptos, diseño conceptual y lógico, normalización y consultas en lenguaje SQL. El manual se identifica como Eje 3, aunque está guardado en Eje 1.",
+      "unit": "Manuales transversales",
+      "kind": "Apunte",
+      "tags": [
+        "SQL",
+        "diseño"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1a4J7RBK3hocx5nXoiP8dfcrHZNrhZdS-/view",
+      "originalName": "Modulo Programador_03.01- Bases de DatosISPC.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia / BBDD - Eje 1"
+    },
+    {
+      "id": "11UvVUc-LlvTOIhubf5K4N5HymsuTOjJ2",
+      "title": "Python · Introducción",
+      "description": "Manual de Ivana Rojas Córsico: entorno de trabajo, sintaxis, variables, tipos de datos y fundamentos de programación, con ejercitación.",
+      "unit": "Eje 1 · Python",
+      "kind": "Apunte",
+      "tags": [
+        "Python",
+        "programación"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/11UvVUc-LlvTOIhubf5K4N5HymsuTOjJ2/view",
+      "originalName": "Modulo Programador_01.01- Python. IntroducciónISPC.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 1"
+    },
+    {
+      "id": "1vJ63fB5SOQO9COthpWEnf31rwQywoC30",
+      "title": "Python · Funciones avanzadas y módulos",
+      "description": "Programación modular, importaciones, funciones lambda y argumentos por omisión, por palabra clave y arbitrarios.",
+      "unit": "Eje 1 · Python",
+      "kind": "Apunte",
+      "tags": [
+        "Python",
+        "funciones"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1vJ63fB5SOQO9COthpWEnf31rwQywoC30/view",
+      "originalName": "Modulo Programador_01.02- Python. Funciones Avanzadas y MódulosISPC.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 1"
+    },
+    {
+      "id": "17GPCbERCieZI8tW5UzIP2bs6AgAYYUBh",
+      "title": "Programación orientada a objetos · Fundamentos",
+      "description": "Clases e instancias en Python, abstracción, encapsulamiento, herencia, asociaciones, composición y polimorfismo.",
+      "unit": "Eje 2 · Programación orientada a objetos",
+      "kind": "Apunte",
+      "tags": [
+        "Python",
+        "objetos"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/17GPCbERCieZI8tW5UzIP2bs6AgAYYUBh/view",
+      "originalName": "Modulo Programador_02.01- POO. FundamentosISPC.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 2"
+    },
+    {
+      "id": "1C1cTUz9McRWlK5z9I9DEIxHDDs3-wiqI",
+      "title": "Desarrollo guiado por pruebas y diseño simple",
+      "description": "Ciclo de pruebas y refactorización, ejercicio FizzBuzz y reglas de diseño simple de Kent Beck. Incluye ejemplos en Python.",
+      "unit": "Eje 2 · Programación orientada a objetos",
+      "kind": "Apunte",
+      "tags": [
+        "pruebas",
+        "diseño"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1C1cTUz9McRWlK5z9I9DEIxHDDs3-wiqI/view",
+      "originalName": "Modulo Programador_02.03- POO. TDD y Diseño Simple - Kent BeckISPC.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 2"
+    },
+    {
+      "id": "1-vJJOYsFLLVwACYp5wHgJDX5vcIx5Rcj",
+      "title": "Acceso a datos desde objetos",
+      "description": "Persistencia, integración con bases de datos y patrón de objeto de acceso a datos. Conexiones y operaciones con MySQL.",
+      "unit": "Eje 2 · Programación orientada a objetos",
+      "kind": "Apunte",
+      "tags": [
+        "persistencia",
+        "MySQL"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1-vJJOYsFLLVwACYp5wHgJDX5vcIx5Rcj/view",
+      "originalName": "Modulo Programador_02.05- POO. Acceso a DatosISPC.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 2"
+    },
+    {
+      "id": "1C8AvTY5iqqOXh4Jpt3IvEu-sOrHesHkI",
+      "title": "Principios SOLID y diseño mantenible",
+      "description": "Abstracción, encapsulamiento, cohesión, acoplamiento y los cinco principios de diseño orientado a objetos, con ejercicios.",
+      "unit": "Eje 2 · Programación orientada a objetos",
+      "kind": "Apunte",
+      "tags": [
+        "SOLID",
+        "diseño"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1C8AvTY5iqqOXh4Jpt3IvEu-sOrHesHkI/view",
+      "originalName": "Modulo Programador_02.04- POO. Principios SOLIDISPC.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 2"
+    },
+    {
+      "id": "1FMio_IHsHgOibInb42WjxvQOMpcjrfcw",
+      "title": "Modelado estático y diagramas de clases",
+      "description": "Lenguaje Unificado de Modelado aplicado a objetos: atributos, métodos, modificadores de acceso y relaciones entre clases.",
+      "unit": "Eje 2 · Programación orientada a objetos",
+      "kind": "Apunte",
+      "tags": [
+        "UML",
+        "clases"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1FMio_IHsHgOibInb42WjxvQOMpcjrfcw/view",
+      "originalName": "Modulo Programador_02.02- POO. ModeladoISPC.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 2"
+    },
+    {
+      "id": "1Jblm1g9str5C3E3UNH8YuNNMg3HqW-oz",
+      "title": "Git · Trabajo colaborativo",
+      "description": "Manual sobre repositorios, ramas e integración del trabajo en equipo. El propio documento se identifica como Eje 4.",
+      "unit": "Eje 4 · Git",
+      "kind": "Apunte",
+      "tags": [
+        "Git",
+        "colaboración"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1Jblm1g9str5C3E3UNH8YuNNMg3HqW-oz/view",
+      "originalName": "Modulo Programador_03.02- GIT. Trabajo ColaborativoISPC.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 3"
+    },
+    {
+      "id": "1k2-xpDAeJZmV-W_oKCJ9uOkDCqSxQX2d",
+      "title": "Git · Introducción",
+      "description": "Control de versiones, instalación, repositorios y comandos para guardar e inspeccionar cambios.",
+      "unit": "Eje 4 · Git",
+      "kind": "Apunte",
+      "tags": [
+        "Git",
+        "versiones"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1k2-xpDAeJZmV-W_oKCJ9uOkDCqSxQX2d/view",
+      "originalName": "Modulo Programador_04.01- GIT. IntroducciónISPC.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 3"
+    },
+    {
+      "id": "1NfLIiSVwIv8AKpTekkS2XrIqbvoQBYMN",
+      "title": "Modelo relacional",
+      "description": "Dominio, grado, cardinalidad, claves, integridad referencial, paso del modelo conceptual al lógico y formas normales.",
+      "unit": "Eje 3 · Modelo relacional",
+      "kind": "Apunte",
+      "tags": [
+        "normalización",
+        "modelo relacional"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1NfLIiSVwIv8AKpTekkS2XrIqbvoQBYMN/view",
+      "originalName": "Eje 3 Modelo Relacional.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-17",
+      "access": "Permisos de Drive: acceso de otros usuarios sin verificar",
+      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "sourcePath": "Módulo programador / Documentación de la materia / Prog - Material unidad 3"
+    }
+  ],
+  "events": [
+    {
+      "subjects": [
+        "arquitectura"
+      ],
+      "title": "Evidencia 1",
+      "start": "2026-08-30",
+      "end": "2026-08-30",
+      "source": "1XGmtELKNKb0RohTQWroKCLhEWGnfSB9d",
+      "note": "Fecha del documento; confirmar posibles cambios en los canales de la materia.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "arquitectura"
+      ],
+      "title": "Recuperatorio de evidencia 1",
+      "start": "2026-09-02",
+      "end": "2026-09-02",
+      "source": "1XGmtELKNKb0RohTQWroKCLhEWGnfSB9d",
+      "note": "Fecha del documento; confirmar posibles cambios en los canales de la materia.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "arquitectura"
+      ],
+      "title": "Evidencia 2 · Primer avance del proyecto",
+      "start": "2026-09-16",
+      "end": "2026-09-16",
+      "source": "1XGmtELKNKb0RohTQWroKCLhEWGnfSB9d",
+      "note": "Fecha del documento; confirmar posibles cambios en los canales de la materia.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "arquitectura"
+      ],
+      "title": "Recuperatorio de evidencia 2",
+      "start": "2026-09-23",
+      "end": "2026-09-23",
+      "source": "1XGmtELKNKb0RohTQWroKCLhEWGnfSB9d",
+      "note": "Fecha del documento; confirmar posibles cambios en los canales de la materia.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "arquitectura"
+      ],
+      "title": "Evidencia 3 · Segundo avance del proyecto",
+      "start": "2026-10-14",
+      "end": "2026-10-14",
+      "source": "1XGmtELKNKb0RohTQWroKCLhEWGnfSB9d",
+      "note": "Fecha del documento; confirmar posibles cambios en los canales de la materia.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "arquitectura"
+      ],
+      "title": "Recuperatorio de evidencia 3",
+      "start": "2026-10-21",
+      "end": "2026-10-21",
+      "source": "1XGmtELKNKb0RohTQWroKCLhEWGnfSB9d",
+      "note": "Fecha del documento; confirmar posibles cambios en los canales de la materia.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "title": "Evidencia 4 · Primera entrega",
+      "start": "2026-08-24",
+      "end": "2026-08-28",
+      "source": "1krvNUgfaBFknSCryT7d4fRRQTAlnE4A_",
+      "note": "La hoja de ruta indica semanas, no un día u horario de cierre. Confirmar el plazo exacto.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "title": "Recuperatorio de evidencia 4",
+      "start": "2026-08-31",
+      "end": "2026-09-04",
+      "source": "1krvNUgfaBFknSCryT7d4fRRQTAlnE4A_",
+      "note": "La hoja de ruta indica semanas, no un día u horario de cierre. Confirmar el plazo exacto.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "title": "Evidencia 5 · Segunda entrega",
+      "start": "2026-09-14",
+      "end": "2026-09-18",
+      "source": "1krvNUgfaBFknSCryT7d4fRRQTAlnE4A_",
+      "note": "La hoja de ruta indica semanas, no un día u horario de cierre. Confirmar el plazo exacto.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "title": "Recuperatorio de evidencia 5",
+      "start": "2026-09-21",
+      "end": "2026-09-25",
+      "source": "1krvNUgfaBFknSCryT7d4fRRQTAlnE4A_",
+      "note": "La hoja de ruta indica semanas, no un día u horario de cierre. Confirmar el plazo exacto.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "title": "Evidencia 6 · Tercera entrega",
+      "start": "2026-10-12",
+      "end": "2026-10-16",
+      "source": "1krvNUgfaBFknSCryT7d4fRRQTAlnE4A_",
+      "note": "La hoja de ruta indica semanas, no un día u horario de cierre. Confirmar el plazo exacto.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "title": "Recuperatorio de evidencia 6",
+      "start": "2026-10-19",
+      "end": "2026-10-23",
+      "source": "1krvNUgfaBFknSCryT7d4fRRQTAlnE4A_",
+      "note": "La hoja de ruta indica semanas, no un día u horario de cierre. Confirmar el plazo exacto.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "title": "Presentación escrita y defensa oral",
+      "start": "2026-10-26",
+      "end": "2026-11-06",
+      "source": "1krvNUgfaBFknSCryT7d4fRRQTAlnE4A_",
+      "note": "La hoja de ruta indica semanas, no un día u horario de cierre. Confirmar el plazo exacto.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "matematica"
+      ],
+      "title": "Evidencia 4",
+      "start": "2026-08-24",
+      "end": "2026-08-28",
+      "source": "19LFEas658rH35vuB86PUoqzh05a8gBQN",
+      "note": "La planificación señala una semana o período. No establece un día ni hora exactos.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "matematica"
+      ],
+      "title": "Recuperatorio de evidencia 4",
+      "start": "2026-08-31",
+      "end": "2026-09-04",
+      "source": "19LFEas658rH35vuB86PUoqzh05a8gBQN",
+      "note": "La planificación señala una semana o período. No establece un día ni hora exactos.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "matematica"
+      ],
+      "title": "Evidencia 5",
+      "start": "2026-09-14",
+      "end": "2026-09-18",
+      "source": "19LFEas658rH35vuB86PUoqzh05a8gBQN",
+      "note": "La planificación señala una semana o período. No establece un día ni hora exactos.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "matematica"
+      ],
+      "title": "Recuperatorio de evidencia 5",
+      "start": "2026-09-21",
+      "end": "2026-09-25",
+      "source": "19LFEas658rH35vuB86PUoqzh05a8gBQN",
+      "note": "La planificación señala una semana o período. No establece un día ni hora exactos.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "matematica"
+      ],
+      "title": "Evidencia 6",
+      "start": "2026-10-12",
+      "end": "2026-10-16",
+      "source": "19LFEas658rH35vuB86PUoqzh05a8gBQN",
+      "note": "La planificación señala una semana o período. No establece un día ni hora exactos.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "matematica"
+      ],
+      "title": "Recuperatorio de evidencia 6",
+      "start": "2026-10-19",
+      "end": "2026-10-23",
+      "source": "19LFEas658rH35vuB86PUoqzh05a8gBQN",
+      "note": "La planificación señala una semana o período. No establece un día ni hora exactos.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "matematica"
+      ],
+      "title": "Presentación escrita y defensa oral",
+      "start": "2026-10-26",
+      "end": "2026-11-06",
+      "source": "19LFEas658rH35vuB86PUoqzh05a8gBQN",
+      "note": "La planificación señala una semana o período. No establece un día ni hora exactos.",
+      "time": null
+    },
+    {
+      "subjects": [
+        "trabajo"
+      ],
+      "title": "Primera evidencia · Reconocimiento del proyecto",
+      "start": "2026-08-30",
+      "end": "2026-08-30",
+      "source": "1IQQAqUOad07KJZE_ksjRyTCYPU1FyrAa",
+      "note": "Fecha del documento; confirmar posibles cambios en los canales de la materia.",
+      "time": "23:59"
+    },
+    {
+      "subjects": [
+        "sistemas"
+      ],
+      "title": "Evidencia 4 · Diagramas de comportamiento",
+      "start": "2026-09-06",
+      "end": "2026-09-06",
+      "source": "1bJRq2Gq0t_bhQPFdvL2sE5hlg8xU82wj",
+      "note": "La consigna dice 6 de septiembre; el año se toma del programa 2026 de la materia.",
+      "time": "23:59"
+    }
+  ],
+  "classes": []
+}
