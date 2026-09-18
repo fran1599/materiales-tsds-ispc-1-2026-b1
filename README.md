@@ -6,9 +6,9 @@ Biblioteca estudiantil para primer año de Desarrollo de Software, cohorte 2026,
 
 - [Documentación técnica](docs/TECNICA.md): arquitectura, tecnologías, archivos, desarrollo y publicación.
 - [Cómo aportar](CONTRIBUTING.md): sugerencias sin programar, revisión de materiales y flujo de pull requests.
-- [Licencias y atribución](docs/LICENCIAS.md): estado actual, derechos de terceros y propuesta para el código.
+- [Licencias y atribución](docs/LICENCIAS.md): alcance de MIT, derechos de terceros y atribución.
 
-**Licencia del proyecto pendiente de elección.** El repositorio todavía no tiene una licencia de reutilización declarada. MIT está documentada como propuesta, no como licencia vigente. Los documentos educativos enlazados conservan las condiciones de sus titulares.
+**Código, herramientas y documentación propios bajo [MIT](LICENSE), desde el 18/09/2026.** Incluye las descripciones originales del catálogo. Excluye los materiales educativos de terceros enlazados y las marcas; sus titulares conservan sus derechos. Ver [alcance y atribución](docs/LICENCIAS.md).
 
 El sitio usa HTML, CSS, JavaScript nativo y JSON; GitHub Pages lo publica y GitHub Actions valida los cambios. Python 3 y Node.js se utilizan para desarrollo y comprobaciones. No hay framework ni paquetes de aplicación que instalar.
 
@@ -79,3 +79,9 @@ La vista previa usa un iframe de Google Drive bajo demanda. No requiere proxy ni
 ### Resultado de la comprobación publicada
 
 Portada, calendario, cambio de semana, búsqueda, ficha de una clase recuperada, cierre con Escape y modo oscuro comprobados en el navegador de escritorio. La prueba visual específica a 320 píxeles no pudo ejecutarse por una restricción del navegador de esta sesión; queda pendiente, al igual que una auditoría con lector de pantalla. El diseño adaptable y los controles de teclado están implementados, pero no se declara una certificación de accesibilidad.
+
+### Accesos a clases y Calendar · 18/09/2026
+
+Las tarjetas de inicio se despliegan para mostrar horario, Meet, Calendar y docentes/autorías conocidas; «Ver materia» sigue siendo un enlace directo. Cada materia muestra los accesos encima de las pestañas. Calendar también está disponible en la agenda semanal y abre una serie para revisar y guardar, con nombre de materia, horario argentino, Meet y aula cuando está disponible.
+
+Se conservan los límites de repetición de las capturas. Para Matemática y Sistemas falta confirmar una fecha de fin: sus series se crean sin fecha de cierre, con aviso visible. No se comprobó un cierre lectivo general aplicable. Las copias guardadas en Calendar no se sincronizan con actualizaciones posteriores del sitio.

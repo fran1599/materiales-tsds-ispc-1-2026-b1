@@ -2,7 +2,7 @@
 ¿Qué resuelve y cómo cambia el sitio o el catálogo?
 
 ## Fuentes y alcance
-Indicar fuentes de datos nuevos y condiciones de uso del contenido aportado. La licencia del proyecto está pendiente: acordar las condiciones de incorporación antes de integrar código o texto original.
+Indicar fuentes de datos nuevos y condiciones de uso del contenido aportado. El código y la documentación propios se incorporan bajo MIT. Confirmar que podés aportar el contenido en esas condiciones; identificar material de terceros y sus avisos.
 
 ## Verificación
 Describir controles ejecutados y, si cambia la interfaz, revisión de teclado, pantalla angosta y temas claro/oscuro.

@@ -86,3 +86,42 @@ main{min-width:0}h1{font-size:clamp(2rem,3.6vw,2.9rem)}
 }
 @media(max-width:560px){.subject-grid{grid-template-columns:1fr}.subject-card{min-height:190px}.intro h1{font-size:34px}.institution-strip .arrow{display:none}.theme-control select{max-width:130px}.breadcrumb{max-width:125px}.week-controls .button{padding:9px 12px}.filters label{flex-basis:100%}.filters select{max-width:100%}.resource-title{font-size:16px}.subject-header h1{font-size:28px}}
 @media(forced-colors:active){.today-label,.button,.subject-code{border:1px solid ButtonText}.tabs a.active{border-bottom:3px solid Highlight}.is-today{outline:2px solid Highlight;outline-offset:-2px}}
+
+/* Compact access to classes, without nesting links inside clickable cards. */
+.subject-grid{align-items:start}
+.subject-card{min-height:0;display:block;padding:20px;transition:border-color .18s,box-shadow .18s}
+.subject-card:hover{transform:none}
+.card-details summary{list-style:none;cursor:pointer;border-radius:6px;min-height:44px}
+.card-details summary::-webkit-details-marker{display:none}
+.card-details summary::marker{content:""}
+.card-details summary:active{background:var(--surface-soft)}
+.card-details .subject-code{margin-bottom:12px}
+.card-disclosure{display:flex;justify-content:space-between;align-items:center;color:var(--green);font-size:13px;padding:8px 0}
+.card-disclosure>span{transition:transform .18s}
+.card-details[open] .card-disclosure>span{transform:rotate(180deg)}
+.card-expanded{padding-top:8px}
+.card-details[open] .card-expanded{animation:reveal .2s ease-out}
+.subject-card-foot{margin-top:12px}
+.card-go{display:inline-flex;align-items:center;min-height:44px;color:var(--green);font-weight:bold;text-underline-offset:4px}
+.teacher-info{font-size:13px!important;margin:12px 0!important;line-height:1.6}
+.teacher-info strong{display:block;color:var(--ink);font-weight:600}
+.quick-access{background:var(--white);border:1px solid var(--line);border-radius:10px;padding:12px 16px;margin:0 0 18px}
+.quick-session{display:flex;align-items:center;flex-wrap:wrap;gap:6px 20px;min-width:0}
+.quick-time{display:flex;flex-direction:column;gap:2px;min-width:0}
+.quick-time strong{font-size:15px}.quick-time span{font-size:12px;color:var(--muted)}
+.quick-actions{display:flex;align-items:center;flex-wrap:wrap;gap:4px 14px;min-width:0}
+.meet-link,.calendar-link,.classroom-link{display:inline-flex;align-items:center;min-height:44px;text-underline-offset:4px;line-height:1.4}
+.meet-link{font-weight:bold;color:var(--green);font-size:14px}.calendar-link,.classroom-link{font-size:13px;color:var(--green)}
+.calendar-link{border:1px solid var(--line);border-radius:6px;padding:4px 8px;text-decoration:none}
+.calendar-link:hover{background:var(--hover);border-color:var(--control-line)}
+.recurrence-note{flex-basis:100%;font-size:12px!important;margin:0!important;color:var(--muted);line-height:1.5}
+.quick-access.compact{padding:10px;margin:0}.compact .quick-session{gap:4px}.compact .quick-time{flex-basis:100%}
+.quick-missing{font-size:13px;margin:8px 0;color:var(--muted)}
+.class-card .calendar-link{margin:8px 0 4px}.class-card .recurrence-note{margin-top:4px!important}
+/* Inset keyboard focus avoids the double frame intersecting the native popup. */
+.theme-control select:focus-visible{outline:2px solid var(--focus);outline-offset:-4px}
+.theme-control select:focus:not(:focus-visible){outline:none}
+#main>div:first-child,.subject-header{animation:reveal .18s ease-out}
+@keyframes reveal{from{opacity:.5;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+@media(max-width:560px){.quick-access{padding:10px 12px}.quick-time{flex-basis:100%}.subject-card{padding:18px}.card-go{font-size:13px}}

@@ -74,3 +74,15 @@ Para cambios visuales, revisar escritorio y pantalla angosta, ambos temas, tecla
 La configuración actual de Pages publica desde `main`, raíz del repositorio. Un cambio integrado inicia la publicación de Pages; el workflow de validación se ejecuta por separado y no constituye por sí mismo una barrera de publicación. Revisar ambos resultados en Actions. Para evitar publicar cambios sin revisar, trabajar en una rama y un pull request; la protección de ramas no fue configurada por este proyecto.
 
 Si una actualización falla, corregirla con un nuevo commit o revertir el commit problemático conservando el historial. El alojamiento no requiere servidor de aplicación. El costo y los límites de GitHub y Google dependen de sus planes y condiciones; la arquitectura no implica disponibilidad ilimitada.
+
+## Accesos rápidos y Google Calendar (18/09/2026)
+
+Las tarjetas de inicio usan `details/summary`: pueden desplegarse con clic o teclado sin ocultar el enlace directo «Ver materia». Dentro de la materia, horario, Meet, aula y Calendar aparecen antes de las pestañas. Las animaciones respetan `prefers-reduced-motion`; el foco del selector de tema es interior para evitar superponerse al desplegable nativo.
+
+«+ Calendar» abre el editor de Google Calendar con nombre de materia, hora, Meet y aula (si se conoce). Prepara un evento recurrente; el visitante debe revisarlo y guardarlo. No hay OAuth, conexión con la cuenta ni escritura automática. El enlace usa `action=TEMPLATE`, `dates`, `ctz`, `details`, `location` y `recur`; este enlace de interfaz no es una integración con la API de Calendar.
+
+La serie usa RRULE semanal y horario de Argentina. En portada y materia comienza en la próxima fecha coincidente desde hoy; en agenda, desde la fecha de la clase seleccionada. `validFrom` impide inventar clases anteriores al registro. Si la serie ya terminó, no se ofrece crear una repetición posterior.
+
+Se conserva `schedules[].until` cuando está documentado. Si en el futuro se confirma un cierre lectivo general, puede registrarse en `collection.academicYearEnd`, junto con su fuente, como respaldo para horarios sin fin específico. Actualmente ese cierre general no está confirmado: Matemática y Sistemas se exportan sin UNTIL y con aviso visible. No se hereda la fecha de otra materia ni una fecha de examen. [Reglas de recurrencia en Google Calendar](https://developers.google.com/workspace/calendar/api/concepts/events-calendars#recurrence_rule).
+
+El evento importado es una copia: cambios posteriores del sitio no actualizan el calendario personal. Cada guardado puede crear otra serie; el Módulo Programador es un encuentro compartido y conviene agregarlo una sola vez.

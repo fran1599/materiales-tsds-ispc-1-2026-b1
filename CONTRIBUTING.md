@@ -15,9 +15,7 @@ Para pedir una corrección de autoría o retiro de un enlace, basta identificar 
 
 ## Aportar código o documentación
 
-Antes de proponer código, leé [Licencias y atribución](docs/LICENCIAS.md): la licencia del proyecto todavía está pendiente de elección. Por ahora podés comunicar errores y propuestas; acordá con el responsable las condiciones de incorporación de código original antes de integrarlo. Enviar un PR no se interpreta como una cesión automática de derechos ni como aceptación de una licencia futura.
-
-Cuando estén acordadas esas condiciones:
+Los aportes de código y documentación propios se incorporan bajo [MIT](LICENSE), con el alcance de [Licencias y atribución](docs/LICENCIAS.md). Aportá contenido que puedas licenciar así y conservá la atribución y los avisos que correspondan. Los materiales educativos de terceros siguen excluidos. No se solicita una cesión de titularidad.
 
 1. Creá un fork en GitHub y una rama para un cambio acotado.
 2. Prepará el entorno siguiendo [la documentación técnica](docs/TECNICA.md).

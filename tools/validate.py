@@ -44,3 +44,7 @@ for ref in re.findall(r'(?:href|src)="(\./[^"]+)"',html):
 assert 'catalog.json' in (root/'dist/app.js').read_text()
 assert not any(p.suffix.lower()=='.pdf' for p in (root/'dist').rglob('*')), 'Los documentos originales no deben copiarse al sitio'
 print(f"OK: {len(ids)} recursos únicos, {len(ss)} secciones, {len(data['events'])} entradas de agenda y enlaces locales.")
+
+if data.get('collection',{}).get('academicYearEnd'):
+ datetime.date.fromisoformat(data['collection']['academicYearEnd'])
+ assert data['collection'].get('academicYearEndSource'), 'El cierre lectivo necesita fuente'

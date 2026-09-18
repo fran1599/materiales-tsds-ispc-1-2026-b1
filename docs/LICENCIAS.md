@@ -1,38 +1,30 @@
 # Licencias, atribución y materiales de terceros
 
-Revisión: 17 de septiembre de 2026.
+Revisión: 18 de septiembre de 2026.
 
-## Estado actual
+## MIT vigente desde el 18/09/2026
 
-El repositorio no tiene un archivo `LICENSE` ni una licencia de reutilización declarada. Esta página documenta ese estado; no otorga una licencia. Un repositorio público no equivale por sí solo a software con licencia abierta. GitHub permite ver y hacer forks de repositorios públicos conforme a sus condiciones, pero eso no concede todos los derechos de reutilización. Véase [la documentación de GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
+Por decisión del responsable del proyecto, el código, las herramientas, la documentación y las descripciones originales del catálogo se distribuyen bajo [MIT](../LICENSE). El archivo LICENSE contiene el texto íntegro. Permite reutilizar, modificar y distribuir, incluso comercialmente, conservando sus avisos; incluye una exclusión de garantías. [Texto oficial de MIT](https://opensource.org/license/mit).
 
-## Qué debe distinguirse
+## Alcance y exclusiones
 
-| Contenido | Estado y alcance |
+| Contenido | Condiciones |
 | --- | --- |
-| Código del sitio y herramientas propias | Licencia pendiente de elección por quienes puedan otorgarla. |
-| Documentación y descripciones originales del catálogo | Sin licencia de reutilización declarada; su alcance debe resolverse expresamente al adoptar una licencia. |
-| Apuntes, programas, presentaciones, consignas y PDF enlazados | Derechos y condiciones de sus respectivos titulares. El proyecto no los relicencia. |
-| Nombres, marcas e identidad de ISPC, GitHub y Google | Referencias a sus titulares; no implican patrocinio ni autorización institucional. |
-| Herramientas y servicios externos | Conservan sus licencias y términos propios. No quedan cubiertos por una futura licencia del sitio. |
+| HTML, CSS, JavaScript y herramientas propias de Python/Node.js | MIT. |
+| Documentación, plantillas y descripciones originales del catálogo | MIT. |
+| Documentos educativos alojados en Drive, programas, PDF, consignas y grabaciones de terceros | Excluidos de MIT: conservan los derechos y condiciones de sus titulares. |
+| Nombres, marcas e identidad institucional | Excluidos: no se conceden derechos sobre marcas ni se implica patrocinio. |
+| Herramientas, servicios o componentes de terceros | Conservan sus licencias y términos propios. |
 
-El catálogo enlaza documentos en su ubicación original. El acceso compartido de Drive no demuestra por sí solo autorización para modificar, redistribuir o utilizar comercialmente un documento. Cuando una fuente declare una licencia, respetar su texto y alcance; cuando no se conozca, registrar «licencia no identificada» en vez de asignar una por inferencia. Las normas aplicables y sus excepciones dependen del caso; esta documentación no pretende sustituirlas.
-
-## Propuesta para el código: MIT (todavía no adoptada)
-
-MIT es una opción breve para facilitar reutilización y colaboración: permite modificar y distribuir el software, incluso comercialmente, exige conservar sus avisos y contiene una exclusión de garantías. Consultar el [texto oficial de MIT en Open Source Initiative](https://opensource.org/license/mit).
-
-Antes de adoptarla, el responsable debe confirmar la elección, quiénes pueden licenciar el contenido y el alcance preciso: código, herramientas, documentación y descripciones originales. Los materiales educativos de terceros y las marcas deben quedar fuera de ese alcance. Después se incorpora el texto íntegro en `LICENSE`, se documenta el alcance y se actualizan el sitio y la guía de aportes. No se ha creado un aviso que atribuya al responsable derechos sobre materiales ajenos.
-
-Si se busca obligar a compartir modificaciones, corresponde evaluar una licencia con esas condiciones antes de elegir. MIT no impone esa obligación. La elección permanece pendiente; la propuesta no es una autorización vigente.
+La presencia de un enlace en el JSON no extiende MIT al documento de destino. Abrir un archivo compartido en Drive no demuestra permiso para modificarlo o redistribuirlo. Registrar la licencia o autorización de cada fuente cuando esté documentada, sin asignarla por inferencia. Atribuir no sustituye obtener autorización cuando sea necesaria.
 
 ## Aportes y atribución
 
-Hasta definir la licencia, no asumir que un aporte de código o texto queda automáticamente sometido a MIT ni a una licencia futura. Acordar sus condiciones con su autor antes de integrarlo. No se solicita una cesión general de derechos mediante la plantilla de PR.
+Los aportes de código y documentación propios se incorporan bajo MIT. Cada colaborador debe poder otorgar esos permisos y conservar los avisos aplicables. No se solicita cesión de titularidad. Los aportes no pueden relicenciar materiales ajenos mediante este repositorio.
 
-Para materiales educativos, documentar cuando esté disponible: autor o institución, título, enlace original, licencia o permiso y fuente de esa información. Atribuir no sustituye obtener autorización cuando sea necesaria. Las descripciones del catálogo son ayudas para localizar recursos, no una declaración de titularidad sobre ellos.
+Para fuentes educativas, documentar cuando se conozcan autor/institución, título, enlace original y licencia o permiso con su evidencia. Las descripciones son ayudas para localizar materiales, no una declaración de titularidad sobre ellos.
 
-Si se incorpora código, iconografía, tipografías u otros recursos de terceros, registrar componente, versión/origen, licencia y avisos exigidos. La versión actual no incorpora frameworks, tipografías descargadas ni librerías de ejecución de terceros; usa fuentes del sistema y APIs del navegador. Las herramientas de desarrollo y las acciones de GitHub mantienen sus propias condiciones.
+Al incorporar recursos de terceros, registrar componente, versión/origen, licencia y avisos exigidos. El sitio actual usa APIs del navegador y fuentes del sistema; no distribuye frameworks ni tipografías descargadas. Las herramientas de desarrollo y acciones de GitHub mantienen sus propias condiciones.
 
 ## Correcciones y retiro de enlaces
 

@@ -10,7 +10,7 @@ const node = selector => {
   if (!nodes.has(selector)) nodes.set(selector, { innerHTML: '', value: '', addEventListener() {}, querySelectorAll() { return []; } });
   return nodes.get(selector);
 };
-const context = vm.createContext({ document: { querySelector: node, querySelectorAll: () => [] }, Intl, Date, URL, console });
+const context = vm.createContext({ document: { querySelector: node, querySelectorAll: () => [] }, Intl, Date, URL, URLSearchParams, console });
 const code = fs.readFileSync(path.join(root, 'dist/app.js'), 'utf8').split("document.addEventListener('click'")[0];
 vm.runInContext(code + '\nDATA=' + JSON.stringify(data) + ';', context);
 const run = expression => vm.runInContext(expression, context);
@@ -52,3 +52,23 @@ auto.media.change(); assert.equal(auto.state.theme, 'dark');
 assert.equal(theme('light').state.theme, 'light');
 assert.equal(theme(null,true).state.theme, 'dark');
 console.log('OK: recurrencias, búsqueda, fichas de clases y preferencias de tema.');
+
+// Calendar drafts preserve local time, title, links and weekly boundaries.
+const moduleDraft = new URL(run("calendarURL(DATA.schedules[0],'programacion','2026-09-18')"));
+assert.equal(moduleDraft.searchParams.get('text'),'Programación I');
+assert.equal(moduleDraft.searchParams.get('dates'),'20260921T212000Z/20260921T234000Z');
+assert.equal(moduleDraft.searchParams.get('ctz'),'America/Argentina/Cordoba');
+assert.equal(moduleDraft.searchParams.get('recur'),'RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261118T025900Z');
+assert.match(moduleDraft.searchParams.get('details'),/Meet: https:\/\/meet.google.com\/xqz-gmfr-dhc/);
+assert.match(moduleDraft.searchParams.get('details'),/id=4279/);
+assert.equal(run("calendarURL(DATA.schedules[0],null,'2026-11-18')"),null);
+const mathDraft=new URL(run("calendarURL(DATA.schedules[2],'matematica','2026-09-18')"));
+assert.equal(mathDraft.searchParams.get('recur'),'RRULE:FREQ=WEEKLY;BYDAY=WE');
+assert.match(mathDraft.searchParams.get('details'),/Sin fecha de fin confirmada/);
+assert.equal(run("nextClass(DATA.schedules[2],'2026-09-01')"),'2026-09-16');
+const workDraft=new URL(run("calendarURL(DATA.schedules[3],null,'2026-09-18')"));
+assert.doesNotMatch(workDraft.searchParams.get('details'),/Aula virtual/);
+run("subjectPage('matematica')");
+assert.ok(node('#main').innerHTML.indexOf('Entrar a Meet')<node('#main').innerHTML.indexOf('class="tabs"'));
+assert.match(run("card(subject('matematica'))"),/<details class="card-details">/);
+console.log('OK: enlaces Calendar, horarios UTC−3 y accesos antes de las pestañas.');
