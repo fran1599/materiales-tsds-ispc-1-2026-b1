@@ -10,7 +10,7 @@ for r in data['resources']:
  u=urllib.parse.urlparse(r['url'])
  assert u.scheme=='https' and u.hostname in ['drive.google.com','docs.google.com']
  assert '/d/'+r['id']+'/' in u.path
- assert r['format'] in ['PDF','DOCX','PPTX']
+ assert r['format'] in ['PDF','DOCX','PPTX','HTML']
  for a in r.get('alternateLinks',[]):
   u=urllib.parse.urlparse(a['url'])
   assert u.scheme=='https' and u.hostname in ['drive.google.com','docs.google.com']

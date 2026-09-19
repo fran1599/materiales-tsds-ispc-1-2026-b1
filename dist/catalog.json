@@ -61,10 +61,10 @@
       "code": "SO",
       "color": "purple",
       "period": "2026 · Anual",
-      "commission": "No especificada en el programa",
+      "commission": "B1 explícita en Evidencia 2; hojas de ruta rotuladas CB y CA; otros materiales sin comisión explícita.",
       "teachers": "Dianela Accietto y Laura Zavia.",
       "source": "1Q56EhANig20BOCBUoXtbIct_AVMKhLjP",
-      "notes": "El programa ubica modelado en Unidad 2, aunque una portada dice Unidad III. Procesos de negocio se conserva como bloque del segundo cuatrimestre, tal como se identifica el documento. No se encontró hoja de ruta ni material específico de la unidad de gestión de servicios.",
+      "notes": "El programa ubica modelado en Unidad 2, aunque algunas portadas dicen Unidad III. Procesos de negocio se conserva como bloque del segundo cuatrimestre. Revisión del 19/09: se incorporan materiales de gestión de servicios, planificación y hojas de ruta CB/CA. Las consignas posteriores difieren de la planificación inicial: se priorizan sus fechas explícitas. La Evidencia 3 contiene una fecha inconsistente y no se agenda. El cierre planificado del 23 al 27/11 no confirma el último encuentro ni modifica la recurrencia de Calendar.",
       "edition": "2026"
     },
     {
@@ -1115,10 +1115,17 @@
       "url": "https://drive.google.com/file/d/1gaOWwFuLzgXVUlgzKpq-nVimXtYhcKHW/view",
       "originalName": "UML-Intro.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones/Material"
+      "sourcePath": "Sistemas y Organizaciones/Material",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1oYE4dL6UZus4WhYfQlaC9xiOLvWU2Ivh/view",
+          "label": "Versión de la carpeta de cátedra",
+          "note": "Texto coincidente con la introducción ya catalogada."
+        }
+      ]
     },
     {
       "id": "1Xyx5I1h-A2c6Ikcu8t_XaAKZAw6YTzIx",
@@ -1313,10 +1320,17 @@
       "url": "https://drive.google.com/file/d/1Q56EhANig20BOCBUoXtbIct_AVMKhLjP/view",
       "originalName": "Programa Sistemas y Organizaciones.docx (1).pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones/Material"
+      "sourcePath": "Sistemas y Organizaciones/Material",
+      "alternateLinks": [
+        {
+          "url": "https://docs.google.com/document/d/1hRyB8LxR_SXv170Ma7GH-a-AGesdlzhm/edit",
+          "label": "Versión de la carpeta de cátedra",
+          "note": "Versión DOCX con diferencias: no enumera el diagrama de clases ni los estados del incidente que sí aparecen en el PDF. No se confirmó cuál versión prevalece."
+        }
+      ]
     },
     {
       "id": "1bJRq2Gq0t_bhQPFdvL2sE5hlg8xU82wj",
@@ -1335,10 +1349,17 @@
       "url": "https://drive.google.com/file/d/1bJRq2Gq0t_bhQPFdvL2sE5hlg8xU82wj/view",
       "originalName": "Evidencia de Aprendizaje N.º 4 — Sistemas y Organizaciones.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones/Material"
+      "sourcePath": "Sistemas y Organizaciones/Material",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1HUDX529_5QdNm4sbJDTI_GEXsJwgDJ7h/view",
+          "label": "Versión de la carpeta de cátedra",
+          "note": "Texto coincidente con la consigna ya catalogada."
+        }
+      ]
     },
     {
       "id": "1n3BtTGes2z7D0QOAM_XliGj8H4K5cOhg",
@@ -2285,6 +2306,275 @@
       "access": "Enlace de la planilla de materiales de Comisión B. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Lectura del texto extraído: material docente general, sin entregas de estudiantes.",
       "sourcePath": "Planilla Arquitectura Comisión B / Presentaciones"
+    },
+    {
+      "id": "1J1rhgNqaLjMxZX7PPYNQ-pCdyf5JvJkL",
+      "title": "ITIL · Casos aplicados",
+      "description": "Presentación en HTML sobre gestión de servicios con casos de un hospital y un comercio electrónico: incidentes, problemas, disponibilidad, cambios y mejora continua. Los resultados numéricos son los del ejemplo del material; no se verifican como datos reales. Para recorrerla, descargar el archivo y abrirlo en el navegador.",
+      "unit": "Unidad 3 · Gestión de servicios",
+      "kind": "Clase",
+      "tags": [
+        "ITIL",
+        "casos",
+        "gestión de servicios"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "HTML",
+      "url": "https://drive.google.com/file/d/1J1rhgNqaLjMxZX7PPYNQ-pCdyf5JvJkL/view",
+      "originalName": "ITIL-Casos-Aplicados.html",
+      "edition": "2026",
+      "reviewedAt": "2026-09-19",
+      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
+      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+    },
+    {
+      "id": "1lazR2ZJOYN0sDse76iQnzN3TCSQkWSUV",
+      "title": "Actividad 5 · ITIL en la práctica · Individual",
+      "description": "Consigna docente para comparar dos empresas de software mediante prácticas, principios y dimensiones de ITIL (Biblioteca de Infraestructura de Tecnologías de la Información). Incluye cinco preguntas, criterios y entrega de un documento de una a dos páginas. Fecha: domingo 27/09, 23:59; año 2026 por contexto de cursada.",
+      "unit": "Unidad 3 · Gestión de servicios",
+      "kind": "Consigna",
+      "tags": [
+        "ITIL",
+        "actividad 5",
+        "individual",
+        "entrega"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1lazR2ZJOYN0sDse76iQnzN3TCSQkWSUV/view",
+      "originalName": "Actividad-5-ITIL-Individual.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-19",
+      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
+      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+    },
+    {
+      "id": "1IZMtJc4JHszt2bRWvJMVhFdH22kpnQZz",
+      "title": "ITIL · Guía de estudio ampliada",
+      "description": "Guía complementaria de la cátedra: origen y evolución de ITIL, sistema de valor del servicio, siete principios, cuatro dimensiones, cadena de valor y prácticas. Incluye comparaciones con otros marcos, certificaciones, glosario y preguntas de repaso.",
+      "unit": "Unidad 3 · Gestión de servicios",
+      "kind": "Apunte",
+      "tags": [
+        "ITIL",
+        "gestión de servicios",
+        "repaso"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1IZMtJc4JHszt2bRWvJMVhFdH22kpnQZz/view",
+      "originalName": "ITIL-Guia-de-Estudio.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-19",
+      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
+      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+    },
+    {
+      "id": "1FYofgmRonor4R4Uv6f9Bzzo8McoCZQfl",
+      "title": "Taller · Diagramas de comportamiento",
+      "description": "Consignas generales para practicar actividades, secuencia y estados con dos casos: guardia de urgencias y proceso de integración y despliegue de software. Incluye organización de un taller de 45 minutos, reglas de negocio, autoevaluación y errores comunes.",
+      "unit": "Unidad 2 · Modelado con UML",
+      "kind": "Práctica",
+      "tags": [
+        "UML",
+        "actividades",
+        "secuencia",
+        "estados",
+        "taller"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1FYofgmRonor4R4Uv6f9Bzzo8McoCZQfl/view",
+      "originalName": "taller-diagramas-uml-comportamiento (1).pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-19",
+      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
+      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+    },
+    {
+      "id": "1S9RNevlDuYg0zSbW_YRTnRwCljJucmO0",
+      "title": "Diagramas de comportamiento · Ejemplos con AWS Kiro",
+      "description": "Material didáctico atribuido a Dianela Accietto, elaborado mediante AWS Kiro. Explica actividades, secuencia y estados con ejemplos de despliegue, autenticación y tickets de soporte; incluye notación y comparación de usos.",
+      "unit": "Unidad 2 · Modelado con UML",
+      "kind": "Apunte",
+      "tags": [
+        "UML",
+        "actividades",
+        "secuencia",
+        "estados",
+        "Kiro"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1S9RNevlDuYg0zSbW_YRTnRwCljJucmO0/view",
+      "originalName": "Sistemas y Organizaciones — Diagramas UML con IA (AWS Kiro).pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-19",
+      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
+      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+    },
+    {
+      "id": "1exn_2eZp3U0xbXt0D6eTodHNxUeLcmRj",
+      "title": "Diagramas de comportamiento · Ficha de cátedra",
+      "description": "Ficha de seis páginas de Dianela Accietto sobre actividades, secuencia y estados. Desarrolla ejemplos de despliegue de software, autenticación y ciclo de vida de una solicitud de cambios en un repositorio, con síntesis comparativa.",
+      "unit": "Unidad 2 · Modelado con UML",
+      "kind": "Apunte",
+      "tags": [
+        "UML",
+        "actividades",
+        "secuencia",
+        "estados"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1exn_2eZp3U0xbXt0D6eTodHNxUeLcmRj/view",
+      "originalName": "sistemas_y_organizaciones_diagramas_uml.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-19",
+      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
+      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+    },
+    {
+      "id": "1njFlR-iGcNlCysXeNmvY3nuRdCYmvkgm",
+      "title": "Evidencia 3 · Los Tres Amigos del Software",
+      "description": "Consigna grupal general para investigar y filmar un debate sobre el origen del Lenguaje Unificado de Modelado y del Proceso Unificado de Desarrollo de Software. Incluye roles, contenidos, video de hasta seis minutos y criterios de entrega. La fecha dice «viernes 19 de junio, 2025»: año y día de semana inconsistentes; requiere confirmación.",
+      "unit": "Unidad 2 · Modelado con UML",
+      "kind": "Consigna",
+      "tags": [
+        "UML",
+        "historia",
+        "evidencia 3",
+        "fecha por confirmar"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1njFlR-iGcNlCysXeNmvY3nuRdCYmvkgm/edit",
+      "originalName": "EE3_Sistemas_Organizaciones_UML_PUDS.docx",
+      "edition": "Año por confirmar",
+      "reviewedAt": "2026-09-19",
+      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
+      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+    },
+    {
+      "id": "1aQH0DzOKcKoCs5EJDGqOocatiOSKF6ZX",
+      "title": "Evidencia 2 · Proyecto intertecnicatura · B1",
+      "description": "Consigna general para colaboración entre Logística y Desarrollo de Software: construir un producto mínimo viable y documentar lecciones aprendidas. Indica entrega el 1 de junio de 2026. El enlace a la nómina de grupos permanece sólo en el documento original.",
+      "unit": "Unidad 2 · Modelado con UML",
+      "kind": "Consigna",
+      "tags": [
+        "evidencia 2",
+        "intertecnicatura",
+        "B1"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1aQH0DzOKcKoCs5EJDGqOocatiOSKF6ZX/view",
+      "originalName": "Evidencia_Aprendizaje2_SistemasOrganizaciones.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-19",
+      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
+      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+    },
+    {
+      "id": "1gHN2PPvVh1P_Fpuk_wKl9YoJMGiEt5mq",
+      "title": "Historia del Lenguaje Unificado de Modelado",
+      "description": "Material introductorio visual que recorre la unificación de métodos, los Tres Amigos, los estándares y el lugar del modelado en el desarrollo de software. La portada dice Unidad III; se agrupa en Unidad 2 según el programa.",
+      "unit": "Unidad 2 · Modelado con UML",
+      "kind": "Apunte",
+      "tags": [
+        "UML",
+        "historia",
+        "modelado"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1gHN2PPvVh1P_Fpuk_wKl9YoJMGiEt5mq/view",
+      "originalName": "UML — Sistemas y Organizaciones.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-19",
+      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
+      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+    },
+    {
+      "id": "1t-DapQi3Hs-05HdZEXfl5_9DQyU_MRtG",
+      "title": "Hoja de ruta 2026 · Archivos CB y CA",
+      "description": "Planificación semanal de marzo a noviembre: sistemas, modelado y gestión de servicios, evidencias y proyecto integrador. Los archivos CB y CA tienen el mismo texto extraído. Las consignas posteriores difieren en temas y fechas: consultar sus fichas antes de una entrega. El cierre previsto es la semana del 23 al 27/11; no confirma el último encuentro.",
+      "unit": "General",
+      "kind": "Cronograma",
+      "tags": [
+        "hoja de ruta",
+        "2026",
+        "CB",
+        "CA",
+        "planificación inicial"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1t-DapQi3Hs-05HdZEXfl5_9DQyU_MRtG/edit",
+      "originalName": "CB_SyO_HojaDeRuta_2026.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-19",
+      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
+      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra",
+      "alternateLinks": [
+        {
+          "url": "https://docs.google.com/document/d/1IMK_7-tWRBUIvKBIpJiWgUVUm-RkZWoD/edit",
+          "label": "Hoja de ruta · archivo CA",
+          "note": "Mismo texto extraído que el archivo CB. Se conservan ambos enlaces y las etiquetas de sus nombres sin inferir una equivalencia entre comisiones."
+        }
+      ]
+    },
+    {
+      "id": "1BECaKKCS53yFyQgrDakm5zKjXUJIh-VY",
+      "title": "Planificación docente 2026",
+      "description": "Fundamentación, objetivos, secuencia anual, bibliografía, evaluación y condiciones de acreditación. Firmada por Laura Zavia y Dianela Accietto. Conserva el cronograma inicial, que difiere de algunas consignas posteriores; sus condiciones deben contrastarse con avisos vigentes.",
+      "unit": "General",
+      "kind": "Planificación",
+      "tags": [
+        "2026",
+        "evaluación",
+        "bibliografía"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1BECaKKCS53yFyQgrDakm5zKjXUJIh-VY/edit",
+      "originalName": "SyO_Planificacion_2026.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-19",
+      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
+      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
     }
   ],
   "events": [
@@ -2536,6 +2826,28 @@
       "source": "1bJRq2Gq0t_bhQPFdvL2sE5hlg8xU82wj",
       "note": "La consigna dice 6 de septiembre; el año se toma del programa 2026 de la materia.",
       "time": "23:59"
+    },
+    {
+      "subjects": [
+        "sistemas"
+      ],
+      "title": "Actividad 5 · ITIL · Entrega individual",
+      "start": "2026-09-27",
+      "end": "2026-09-27",
+      "time": "23:59",
+      "source": "1lazR2ZJOYN0sDse76iQnzN3TCSQkWSUV",
+      "note": "La consigna indica domingo 27/09, 23:59. Año 2026 por contexto de cursada y concordancia del día de semana. Esta actividad difiere de la Evidencia 5 de la hoja de ruta inicial."
+    },
+    {
+      "subjects": [
+        "sistemas"
+      ],
+      "title": "Evidencia 2 · Proyecto intertecnicatura · B1",
+      "start": "2026-06-01",
+      "end": "2026-06-01",
+      "time": null,
+      "source": "1aQH0DzOKcKoCs5EJDGqOocatiOSKF6ZX",
+      "note": "Fecha explícita en la consigna B1. Se conserva como antecedente; difiere de la semana prevista en la hoja de ruta."
     }
   ],
   "classes": [
@@ -2636,9 +2948,9 @@
     "commission": "B1",
     "driveUrl": "https://drive.google.com/drive/folders/1SEoZF34NoR8Pd94RRTO3wcoEzgYSTSoZ",
     "reviewedFiles": 92,
-    "includedFiles": 92,
+    "includedFiles": 103,
     "pendingFiles": 4,
-    "note": "Se conservan las comisiones indicadas por cada fuente. La colección B1 también contiene materiales generales de otras comisiones. El inventario de 92 archivos corresponde al Drive revisado el 17/09. La planilla revisada el 19/09 aporta cuatro fichas nuevas y trece enlaces a materiales ya catalogados."
+    "note": "Se conservan las comisiones indicadas por cada fuente. La colección B1 también contiene materiales generales de otras comisiones. El inventario de 92 archivos corresponde al Drive revisado el 17/09. La planilla revisada el 19/09 aporta cuatro fichas nuevas y trece enlaces a materiales ya catalogados. La revisión de Sistemas del 19/09 incorpora once fichas y cuatro enlaces alternativos; no modifica el inventario histórico del Drive."
   },
   "schedules": [
     {

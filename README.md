@@ -39,6 +39,13 @@ Abrir `http://localhost:8080`. No abrir el HTML como archivo local, porque el na
 
 Dos recursos del Módulo Programador pertenecen a Programación I y Base de Datos a la vez; mantienen una sola ficha. No sumar los contadores de materias para calcular archivos únicos.
 
+## Actualización de Sistemas · 19/09/2026
+
+- 11 fichas nuevas y 4 enlaces alternativos: Sistemas tiene 23 fichas y el catálogo completo, 103.
+- 24 entradas documentales de agenda: se agregaron la actividad 5 del 27/09 a las 23:59 y el antecedente de Evidencia 2 del 01/06.
+- Se excluyeron la nómina de grupos y la carpeta de entregas; las fechas contradictorias quedan señaladas.
+- [Detalle, versiones y criterios de revisión](docs/SISTEMAS-2026-09-19.md).
+
 ## Uso y accesibilidad
 
 Búsqueda sin distinción de tildes, filtros por materia/tipo/unidad, fichas y enlaces individuales a Drive. Horarios y Meet están en la agenda general y en «Clases y encuentros» de cada materia. El calendario permite cambiar de semana; se presenta como lista en pantallas pequeñas.
