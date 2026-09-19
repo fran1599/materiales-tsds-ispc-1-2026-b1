@@ -34,7 +34,7 @@ Abrir `http://localhost:8080`. No abrir el HTML como archivo local, porque el na
 - Los 82 recursos anteriores siguen en la carpeta compartida. Se actualizaron sus ubicaciones de origen.
 - Se incorporaron las seis clases asincrónicas de Arquitectura, tras descargar y revisar visualmente sus 33 páginas. Son guías generales con consignas sin resolver, no entregas estudiantiles.
 - Quedan cuatro archivos pendientes: dos accesos directos cuyo destino no pudo leerse y dos documentos cuya procedencia requiere confirmación. Los detalles privados de revisión no se publican en el repositorio.
-- 10 espacios curriculares y una sección institucional. Inglés I, Competencias Comunicacionales II y Ética no tienen todavía documentos generales incorporados.
+- 10 espacios curriculares y una sección institucional. Inglés I y Ética no tienen todavía documentos generales incorporados. Comunicación II se incorporó en la actualización del 19/09.
 - 22 entradas de agenda documental y seis horarios semanales tomados de las capturas proporcionadas. Las capturas no se publican.
 
 Dos recursos del Módulo Programador pertenecen a Programación I y Base de Datos a la vez; mantienen una sola ficha. No sumar los contadores de materias para calcular archivos únicos.
@@ -45,6 +45,13 @@ Dos recursos del Módulo Programador pertenecen a Programación I y Base de Dato
 - 24 entradas documentales de agenda: se agregaron la actividad 5 del 27/09 a las 23:59 y el antecedente de Evidencia 2 del 01/06.
 - Se excluyeron la nómina de grupos y la carpeta de entregas; las fechas contradictorias quedan señaladas.
 - [Detalle, versiones y criterios de revisión](docs/SISTEMAS-2026-09-19.md).
+
+## Actualización de Comunicación II · 19/09/2026
+
+- Proyecto NEXO: una ficha con consigna, cronograma y rúbrica; PDF principal y Google Docs como alternativa. Total actual: 104 fichas y 27 entradas de agenda.
+- Tres entregas documentadas: 27/08, 17/09 y 15/10/2026, sin hora límite indicada.
+- Se excluyen la nómina con datos y calificaciones, las entregas de estudiantes y una copia redundante.
+- [Detalle de revisión y límites](docs/COMUNICACION-II-2026-09-19.md).
 
 ## Uso y accesibilidad
 
