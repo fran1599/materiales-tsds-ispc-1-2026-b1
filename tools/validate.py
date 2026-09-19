@@ -11,6 +11,10 @@ for r in data['resources']:
  assert u.scheme=='https' and u.hostname in ['drive.google.com','docs.google.com']
  assert '/d/'+r['id']+'/' in u.path
  assert r['format'] in ['PDF','DOCX','PPTX']
+ for a in r.get('alternateLinks',[]):
+  u=urllib.parse.urlparse(a['url'])
+  assert u.scheme=='https' and u.hostname in ['drive.google.com','docs.google.com']
+  assert re.search(r'/d/[A-Za-z0-9_-]+/',u.path) and a['label'] and a['note']
  datetime.date.fromisoformat(r['reviewedAt'])
 for s in data['subjects']:
  assert s['source'] is None or s['source'] in ids

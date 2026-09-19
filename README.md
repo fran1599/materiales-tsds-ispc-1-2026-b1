@@ -29,7 +29,8 @@ Abrir `http://localhost:8080`. No abrir el HTML como archivo local, porque el na
 ## Revisión del 17/09/2026
 
 - Carpeta de origen: [Abierto y compartido](https://drive.google.com/drive/folders/1SEoZF34NoR8Pd94RRTO3wcoEzgYSTSoZ).
-- 92 archivos inventariados; 88 incorporados con una ficha por identificador de Drive.
+- Inventario de Drive del 17/09: 92 archivos revisados, 88 incorporados y 4 pendientes.
+- Actualización del 19/09: 92 fichas en total; la planilla de Arquitectura agrega 4 materiales y 13 enlaces alternativos sin duplicar tarjetas. [Detalle de la revisión](docs/ARQUITECTURA-2026-09-19.md).
 - Los 82 recursos anteriores siguen en la carpeta compartida. Se actualizaron sus ubicaciones de origen.
 - Se incorporaron las seis clases asincrónicas de Arquitectura, tras descargar y revisar visualmente sus 33 páginas. Son guías generales con consignas sin resolver, no entregas estudiantiles.
 - Quedan cuatro archivos pendientes: dos accesos directos cuyo destino no pudo leerse y dos documentos cuya procedencia requiere confirmación. Los detalles privados de revisión no se publican en el repositorio.

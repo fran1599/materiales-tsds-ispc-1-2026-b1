@@ -1,6 +1,6 @@
 {
   "title": "Entre apuntes",
-  "updated": "2026-09-17",
+  "updated": "2026-09-19",
   "subjects": [
     {
       "id": "programacion",
@@ -51,7 +51,7 @@
       "commission": "B en la hoja de ruta; no especifica B1",
       "teachers": "Verónica Karina Pagnoni y Daniel Alejandro Meloni.",
       "source": "1wy17P8nySyXe4AHagl7TpY5o-6OP4DK_",
-      "notes": "Se organizan los apuntes por unidad y se conservan las etiquetas de clase. Se incorporaron seis guías asincrónicas tras revisar visualmente sus páginas. La hoja de ruta repite fechas en sus últimas dos semanas: no se asigna una fecha de defensa. La captura del calendario registra encuentros semanales hasta el 25/11/2026, más allá del período cubierto por la hoja de ruta.",
+      "notes": "Se organizan los apuntes por unidad y se conservan las etiquetas de clase. Se incorporaron seis guías asincrónicas tras revisar visualmente sus páginas. La hoja de ruta repite fechas en sus últimas dos semanas: no se asigna una fecha de defensa. La captura del calendario registra encuentros semanales hasta el 25/11/2026, más allá del período cubierto por la hoja de ruta. Actualización del 19/09: apunte ampliado de representación de datos y presentaciones 4, 5 y 6. La planilla repite el archivo de componentes en las unidades 4 y 5; no se identificó un apunte independiente de unidad 5. Las unidades 6, 7 y 8 no tienen enlace en esa planilla.",
       "edition": "2026"
     },
     {
@@ -164,10 +164,17 @@
       "url": "https://drive.google.com/file/d/1y5soYnxErmCS12EOSqApfJkG6HPa1e6q/view",
       "originalName": "Proyecto ABP Arquitectura de las Computadoras_2026.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las Computadoras"
+      "sourcePath": "Arquitectura de las Computadoras",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1g-lHyM1XcMXyxx6VZF8qg3pI0gNnI4z6/view",
+          "label": "Archivo enlazado en el Excel",
+          "note": "Versión de la consigna enlazada en la planilla. Omite el modelo de carátula y la referencia al modelo de plataforma presentes en la copia anterior."
+        }
+      ]
     },
     {
       "id": "1XGmtELKNKb0RohTQWroKCLhEWGnfSB9d",
@@ -450,10 +457,17 @@
       "url": "https://drive.google.com/file/d/1xw0foNYX2n5TnLqcQfoltJ5Aw4Obxc_F/view",
       "originalName": "Clase 2 - sincrónico.pptx.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las Computadoras/Clase 2"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 2",
+      "alternateLinks": [
+        {
+          "url": "https://docs.google.com/presentation/d/1n4cVTR6oenLPaBJhOsocXPH9sj7HyOOT/edit",
+          "label": "Presentación PPTX del Excel",
+          "note": "Mismo material o presentación de la clase, con diferencias de formato respecto de la copia del catálogo."
+        }
+      ]
     },
     {
       "id": "1dGFSzMF7q9m56TPlJM9AY9qgeaD9ewrr",
@@ -494,10 +508,17 @@
       "url": "https://drive.google.com/file/d/1fFNJfwbf4DIamnYgA_szKr63Gppvn0Ca/view",
       "originalName": "04_Componentes de la Computadora Moderna.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las Computadoras/Clase 4"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 4",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1GtOZnSdyvfyr-e9NdOHdYaDQr61g19YR/view",
+          "label": "Archivo enlazado en el Excel",
+          "note": "Mismo material o presentación de la clase, con diferencias de formato respecto de la copia del catálogo."
+        }
+      ]
     },
     {
       "id": "1E8l542r7oZKQYLcZZJFJVGp0B8fEjadB",
@@ -516,10 +537,17 @@
       "url": "https://drive.google.com/file/d/1E8l542r7oZKQYLcZZJFJVGp0B8fEjadB/view",
       "originalName": "Clase 3 - sincrónico.pptx.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las Computadoras/Clase 3"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 3",
+      "alternateLinks": [
+        {
+          "url": "https://docs.google.com/presentation/d/1J_A_U9-TbL1sieR8HVwXPgnJ-e8a3Y0D/edit",
+          "label": "Presentación PPTX del Excel",
+          "note": "Mismo material o presentación de la clase, con diferencias de formato respecto de la copia del catálogo."
+        }
+      ]
     },
     {
       "id": "1L6dp7ybBohl_ZUb5hJBzscZEaU0f9mRX",
@@ -538,10 +566,17 @@
       "url": "https://drive.google.com/file/d/1L6dp7ybBohl_ZUb5hJBzscZEaU0f9mRX/view",
       "originalName": "03_Lógica Digital y Diseño de Circuitos.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las Computadoras/Clase 3"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 3",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/14QjVbSQNaFY1KYTMg7XttC2wiBHdrdzi/view",
+          "label": "Archivo enlazado en el Excel",
+          "note": "Mismo material o presentación de la clase, con diferencias de formato respecto de la copia del catálogo."
+        }
+      ]
     },
     {
       "id": "1pV0YqI-T612baa_4grasrm2CVTkqF9ID",
@@ -560,10 +595,17 @@
       "url": "https://drive.google.com/file/d/1pV0YqI-T612baa_4grasrm2CVTkqF9ID/view",
       "originalName": "Clase 1 - sincrónico.pptx.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las Computadoras/Clase 1"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 1",
+      "alternateLinks": [
+        {
+          "url": "https://docs.google.com/presentation/d/1-eC8-s8WgfFso_evzLpVxUKKAF9cUx-j/edit",
+          "label": "Presentación PPTX del Excel",
+          "note": "Mismo material o presentación de la clase, con diferencias de formato respecto de la copia del catálogo."
+        }
+      ]
     },
     {
       "id": "1l3kM4n7Mn7gdP71RvDBr6GokTfJ3rG-0",
@@ -582,10 +624,17 @@
       "url": "https://drive.google.com/file/d/1l3kM4n7Mn7gdP71RvDBr6GokTfJ3rG-0/view",
       "originalName": "01_Introducción a la Arquitectura de Computadoras.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Arquitectura de las Computadoras/Clase 1"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 1",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1Y0qUIf5guGwU34okWojXiA-ckg-E-b5m/view",
+          "label": "Archivo enlazado en el Excel",
+          "note": "Mismo material o presentación de la clase, con diferencias de formato respecto de la copia del catálogo."
+        }
+      ]
     },
     {
       "id": "1DB8aJ0Eybqh3CuR6naGKPA9wcTVLCWlE",
@@ -1971,10 +2020,17 @@
       "url": "https://drive.google.com/file/d/1BX2g3u82xYT9HR2L47r_w_TVPHXLNssa/view",
       "originalName": "clase Asincrónica 1.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión visual de todas las páginas: guía general del aula, sin respuestas de estudiantes. PDF compuesto por imágenes.",
-      "sourcePath": "Arquitectura de las Computadoras/Clase 1"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 1",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1Zv9JIpOKKZE74znZk2hEZRo7ATOleaaU/view",
+          "label": "Archivo enlazado en el Excel",
+          "note": "Mismo material o presentación de la clase, con diferencias de formato respecto de la copia del catálogo."
+        }
+      ]
     },
     {
       "id": "1q7LvDuDXIzqyZsITfklHt9A0wI9OyxME",
@@ -1995,10 +2051,17 @@
       "url": "https://drive.google.com/file/d/1q7LvDuDXIzqyZsITfklHt9A0wI9OyxME/view",
       "originalName": "clase Asincrónica 2.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión visual de todas las páginas: guía general del aula, sin respuestas de estudiantes. PDF compuesto por imágenes.",
-      "sourcePath": "Arquitectura de las Computadoras/Clase 2"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 2",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1kAS7Q21jZWuWtjfEi5vg1kmvIcdAFiy-/view",
+          "label": "Archivo enlazado en el Excel",
+          "note": "Mismo material o presentación de la clase, con diferencias de formato respecto de la copia del catálogo."
+        }
+      ]
     },
     {
       "id": "194TFHRS7dl6ht4sv0_mfx1KB4mw4oKqr",
@@ -2018,10 +2081,17 @@
       "url": "https://drive.google.com/file/d/194TFHRS7dl6ht4sv0_mfx1KB4mw4oKqr/view",
       "originalName": "clase Asincrónica 3.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión visual de todas las páginas: guía general del aula, sin respuestas de estudiantes. PDF compuesto por imágenes.",
-      "sourcePath": "Arquitectura de las Computadoras/Clase 3"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 3",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1pPWtOlMiJI4-GEl_NbLfn8mqhlIm0Fxt/view",
+          "label": "Archivo enlazado en el Excel",
+          "note": "Mismo material o presentación de la clase, con diferencias de formato respecto de la copia del catálogo."
+        }
+      ]
     },
     {
       "id": "13mditqHv4RUsU-R8z2qx3LhRZImdeZ02",
@@ -2042,10 +2112,17 @@
       "url": "https://drive.google.com/file/d/13mditqHv4RUsU-R8z2qx3LhRZImdeZ02/view",
       "originalName": "clase Asincrónica 4.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión visual de todas las páginas: guía general del aula, sin respuestas de estudiantes. PDF compuesto por imágenes.",
-      "sourcePath": "Arquitectura de las Computadoras/Clase 4"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 4",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1w_4ts5bQT5BzEQyZYB2ufTMg91xojwY6/view",
+          "label": "Archivo enlazado en el Excel",
+          "note": "Mismo material o presentación de la clase, con diferencias de formato respecto de la copia del catálogo."
+        }
+      ]
     },
     {
       "id": "15nwGA0D9zBtYrsOp9lj9bos-u_PE3nz0",
@@ -2066,10 +2143,17 @@
       "url": "https://drive.google.com/file/d/15nwGA0D9zBtYrsOp9lj9bos-u_PE3nz0/view",
       "originalName": "clase Asincrónica 5.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión visual de todas las páginas: guía general del aula, sin respuestas de estudiantes. PDF compuesto por imágenes.",
-      "sourcePath": "Arquitectura de las Computadoras/Clase 5"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 5",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1QkD-VpLprwTzFCw9nczrS-1l9Q6oVjUe/view",
+          "label": "Archivo enlazado en el Excel",
+          "note": "Misma guía general, revisada visualmente en sus seis páginas; cambia la paginación."
+        }
+      ]
     },
     {
       "id": "1aXz4u2REczEz8MrrjK57q-QIo46ibUNy",
@@ -2090,10 +2174,117 @@
       "url": "https://drive.google.com/file/d/1aXz4u2REczEz8MrrjK57q-QIo46ibUNy/view",
       "originalName": "Clase Asincrónica 6.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-09-19",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión visual de todas las páginas: guía general del aula, sin respuestas de estudiantes. PDF compuesto por imágenes.",
-      "sourcePath": "Arquitectura de las Computadoras/Clase 6"
+      "sourcePath": "Arquitectura de las Computadoras/Clase 6",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1Binp_8kWCjjdFE9i4_Y4xF9p7-vKQ1Kg/view",
+          "label": "Archivo enlazado en el Excel",
+          "note": "Mismo material o presentación de la clase, con diferencias de formato respecto de la copia del catálogo."
+        }
+      ]
+    },
+    {
+      "id": "1fKBd3s9a7FL9fubcPvT0eGdquwXHv-_v",
+      "title": "Sistemas de representación de datos · Material ampliado",
+      "description": "Amplía sistemas numéricos y conversiones, ASCII, Unicode y UTF-8, colores RGB, imágenes y audio digital. Incluye cálculos de almacenamiento, enteros y punto flotante, cadenas, un codificador/decodificador y actividades de reflexión.",
+      "unit": "Unidad 1 · Fundamentos y datos",
+      "kind": "Apunte",
+      "tags": [
+        "unidad 2",
+        "material ampliado",
+        "binario",
+        "Unicode",
+        "RGB",
+        "audio"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1fKBd3s9a7FL9fubcPvT0eGdquwXHv-_v/view",
+      "originalName": "02_Sistemas_de_Representacion_de_Datos_Material_Ampliado.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-09-19",
+      "access": "Enlace de la planilla de materiales de Comisión B. La disponibilidad depende de los permisos del archivo en Drive.",
+      "review": "Lectura del texto extraído: material docente general, sin entregas de estudiantes.",
+      "sourcePath": "Planilla Arquitectura Comisión B / Materiales / Unidad 2"
+    },
+    {
+      "id": "19RI9KRy8TeaRJR0JTT6SjyPMnszld9QQ",
+      "title": "Clase 4 · CPU y ejecución de instrucciones",
+      "description": "Presentación docente sobre unidad de control, ALU, registros, reloj y ciclo de instrucción. Incluye actividades con resoluciones, pipeline, interrupciones y diagnóstico de fallas.",
+      "unit": "Unidad 2 · Lógica y componentes",
+      "kind": "Clase",
+      "tags": [
+        "clase 4",
+        "CPU",
+        "pipeline",
+        "interrupciones"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PPTX",
+      "url": "https://docs.google.com/presentation/d/19RI9KRy8TeaRJR0JTT6SjyPMnszld9QQ/edit",
+      "originalName": "Clase 4 - sincrónico.pptx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-19",
+      "access": "Enlace de la planilla de materiales de Comisión B. La disponibilidad depende de los permisos del archivo en Drive.",
+      "review": "Lectura del texto extraído: material docente general, sin entregas de estudiantes.",
+      "sourcePath": "Planilla Arquitectura Comisión B / Presentaciones"
+    },
+    {
+      "id": "1BjkStl3X77Ot-IA-17OkEe-D4vXDab0K",
+      "title": "Clase 5 · Memoria, entrada/salida y arquitecturas actuales",
+      "description": "Presentación docente con actividades y resoluciones sobre registros, caché, RAM y almacenamiento; controladores, drivers, interfaces y DMA. Compara CPU, núcleos, GPU y SoC e invita a investigar un dispositivo.",
+      "unit": "Unidad 2 · Lógica y componentes",
+      "kind": "Clase",
+      "tags": [
+        "clase 5",
+        "memoria",
+        "entrada/salida",
+        "DMA",
+        "GPU"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PPTX",
+      "url": "https://docs.google.com/presentation/d/1BjkStl3X77Ot-IA-17OkEe-D4vXDab0K/edit",
+      "originalName": "Clase5 - sincrónico",
+      "edition": "2026",
+      "reviewedAt": "2026-09-19",
+      "access": "Enlace de la planilla de materiales de Comisión B. La disponibilidad depende de los permisos del archivo en Drive.",
+      "review": "Lectura del texto extraído: material docente general, sin entregas de estudiantes.",
+      "sourcePath": "Planilla Arquitectura Comisión B / Presentaciones"
+    },
+    {
+      "id": "1dZEY0BWxCRlBLekEdVAd1J4oB8nePQIs",
+      "title": "Clase 6 · Integración de contenidos y preparación del ABP",
+      "description": "Presentación docente que recorre requisitos medibles, representación de datos, cálculos y lógica digital mediante un sistema de riego. Incluye tabla de verdad, simulación con Logisim/CircuitVerse y orientación para el primer avance del ABP. El ejemplo es didáctico, no una entrega de estudiantes.",
+      "unit": "Proyecto integrador",
+      "kind": "Clase",
+      "tags": [
+        "clase 6",
+        "ABP",
+        "requisitos",
+        "Logisim",
+        "CircuitVerse"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PPTX",
+      "url": "https://docs.google.com/presentation/d/1dZEY0BWxCRlBLekEdVAd1J4oB8nePQIs/edit",
+      "originalName": "Clase_6_repaso_ABP.pptx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-19",
+      "access": "Enlace de la planilla de materiales de Comisión B. La disponibilidad depende de los permisos del archivo en Drive.",
+      "review": "Lectura del texto extraído: material docente general, sin entregas de estudiantes.",
+      "sourcePath": "Planilla Arquitectura Comisión B / Presentaciones"
     }
   ],
   "events": [
@@ -2445,9 +2636,9 @@
     "commission": "B1",
     "driveUrl": "https://drive.google.com/drive/folders/1SEoZF34NoR8Pd94RRTO3wcoEzgYSTSoZ",
     "reviewedFiles": 92,
-    "includedFiles": 88,
+    "includedFiles": 92,
     "pendingFiles": 4,
-    "note": "Se conservan las comisiones indicadas por cada fuente. La colección B1 también contiene materiales generales de otras comisiones."
+    "note": "Se conservan las comisiones indicadas por cada fuente. La colección B1 también contiene materiales generales de otras comisiones. El inventario de 92 archivos corresponde al Drive revisado el 17/09. La planilla revisada el 19/09 aporta cuatro fichas nuevas y trece enlaces a materiales ya catalogados."
   },
   "schedules": [
     {
