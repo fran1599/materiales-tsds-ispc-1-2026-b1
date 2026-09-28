@@ -100,3 +100,9 @@ Portada, calendario, cambio de semana, búsqueda, ficha de una clase recuperada,
 Las tarjetas de inicio se despliegan para mostrar horario, Meet, Calendar y docentes/autorías conocidas; «Ver materia» sigue siendo un enlace directo. Cada materia muestra los accesos encima de las pestañas. Calendar también está disponible en la agenda semanal y abre una serie para revisar y guardar, con nombre de materia, horario argentino, Meet y aula cuando está disponible.
 
 Se conservan los límites de repetición de las capturas. Para Matemática y Sistemas falta confirmar una fecha de fin: sus series se crean sin fecha de cierre, con aviso visible. No se comprobó un cierre lectivo general aplicable. Las copias guardadas en Calendar no se sincronizan con actualizaciones posteriores del sitio.
+
+## Sistemas: referencia docente · 27/09/2026
+
+Se prioriza la carpeta compartida por la docente: los enlaces principales del programa, introducción UML y Evidencia 4 ahora abren sus archivos, conservando las copias anteriores como alternativas. Se agregan la Evidencia 6 y el índice de grabaciones. Nueve materiales ausentes se conservan como complementarios. Total: 106 fichas, 25 de Sistemas; sin nuevas fechas exactas de entrega.
+
+[Detalle de lo conservado y límites de revisión](docs/SISTEMAS-2026-09-27.md).

@@ -1,6 +1,6 @@
 {
   "title": "Entre apuntes",
-  "updated": "2026-09-19",
+  "updated": "2026-09-27",
   "subjects": [
     {
       "id": "programacion",
@@ -61,10 +61,10 @@
       "code": "SO",
       "color": "purple",
       "period": "2026 · Anual",
-      "commission": "B1 explícita en Evidencia 2; hojas de ruta rotuladas CB y CA; otros materiales sin comisión explícita.",
-      "teachers": "Dianela Accietto y Laura Zavia.",
-      "source": "1Q56EhANig20BOCBUoXtbIct_AVMKhLjP",
-      "notes": "El programa ubica modelado en Unidad 2, aunque algunas portadas dicen Unidad III. Procesos de negocio se conserva como bloque del segundo cuatrimestre. Revisión del 19/09: se incorporan materiales de gestión de servicios, planificación y hojas de ruta CB/CA. Las consignas posteriores difieren de la planificación inicial: se priorizan sus fechas explícitas. La Evidencia 3 contiene una fecha inconsistente y no se agenda. El cierre planificado del 23 al 27/11 no confirma el último encuentro ni modifica la recurrencia de Calendar.",
+      "commission": "B.1 · Confirmada en proyecto integrador e índice de encuentros",
+      "teachers": "Dianela Accietto (B.1). Laura Zavia también firma la planificación general.",
+      "source": "1hRyB8LxR_SXv170Ma7GH-a-AGesdlzhm",
+      "notes": "Carpeta docente como referencia principal desde el 27/09/2026. Los enlaces principales abren sus archivos. Nueve materiales anteriores ausentes de esa carpeta se conservan bajo Complementarios, sin atribuirlos a esta selección docente. El proyecto integrador es la Evidencia 6; prevé semanas 13 a 16, sin fecha exacta confirmada. El índice contiene doce entradas de grabaciones. Se mantienen las advertencias: fechas y contenidos de la hoja de ruta inicial difieren de consignas posteriores; la Evidencia 3 tiene fecha inconsistente. El programa ubica modelado en Unidad 2 aunque algunas portadas dicen III. No se infiere el último encuentro a partir del cierre planificado.",
       "edition": "2026"
     },
     {
@@ -1080,11 +1080,12 @@
       "id": "1ZUWWCcHETknhKsuRbCVh5lSqF40IjqGs",
       "title": "Los 14 diagramas del Lenguaje Unificado de Modelado",
       "description": "Recorrido por diagramas estructurales y de comportamiento: clases, componentes, despliegue, casos de uso, actividades, estados y secuencia, entre otros.",
-      "unit": "Unidad 2 · Modelado con UML",
+      "unit": "Complementarios · Unidad 2 · Modelado con UML",
       "kind": "Apunte",
       "tags": [
         "UML",
-        "diagramas"
+        "diagramas",
+        "fuera de la carpeta docente"
       ],
       "subjects": [
         "sistemas"
@@ -1095,11 +1096,11 @@
       "edition": "2026",
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
-      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "review": "Conservado del catálogo anterior. No aparece en la carpeta de referencia docente revisada el 27/09/2026. Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
-      "id": "1gaOWwFuLzgXVUlgzKpq-nVimXtYhcKHW",
+      "id": "1oYE4dL6UZus4WhYfQlaC9xiOLvWU2Ivh",
       "title": "Introducción al Lenguaje Unificado de Modelado",
       "description": "Material general sobre propósito, historia y lenguaje visual de modelado. Su portada dice Unidad III, mientras que el programa ubica el tema en Unidad 2.",
       "unit": "Unidad 2 · Modelado con UML",
@@ -1112,17 +1113,17 @@
         "sistemas"
       ],
       "format": "PDF",
-      "url": "https://drive.google.com/file/d/1gaOWwFuLzgXVUlgzKpq-nVimXtYhcKHW/view",
+      "url": "https://drive.google.com/file/d/1oYE4dL6UZus4WhYfQlaC9xiOLvWU2Ivh/view",
       "originalName": "UML-Intro.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-19",
-      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta compartida por la docente; conserva sus permisos de Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones/Material",
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones",
       "alternateLinks": [
         {
-          "url": "https://drive.google.com/file/d/1oYE4dL6UZus4WhYfQlaC9xiOLvWU2Ivh/view",
-          "label": "Versión de la carpeta de cátedra",
+          "url": "https://drive.google.com/file/d/1gaOWwFuLzgXVUlgzKpq-nVimXtYhcKHW/view",
+          "label": "Copia anterior del catálogo",
           "note": "Texto coincidente con la introducción ya catalogada."
         }
       ]
@@ -1131,11 +1132,12 @@
       "id": "1Xyx5I1h-A2c6Ikcu8t_XaAKZAw6YTzIx",
       "title": "Teoría General de Sistemas · Unidades 1.1 a 1.3",
       "description": "Origen de la teoría, entropía, homeostasis, sinergia, enfoque sistémico y estructura organizacional. Incluye misión, visión y cultura.",
-      "unit": "Unidad 1 · Sistemas y organizaciones",
+      "unit": "Complementarios · Unidad 1 · Sistemas y organizaciones",
       "kind": "Apunte",
       "tags": [
         "sistemas",
-        "organizaciones"
+        "organizaciones",
+        "fuera de la carpeta docente"
       ],
       "subjects": [
         "sistemas"
@@ -1146,18 +1148,19 @@
       "edition": "2026",
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
-      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "review": "Conservado del catálogo anterior. No aparece en la carpeta de referencia docente revisada el 27/09/2026. Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1Z74BNYv1W3ibsKpHH7GrrYlhwf5Em0MH",
       "title": "Estructura y geografía organizacional · 1.4 y 1.5",
       "description": "Organigramas, tipos de estructura, departamentalización, sedes y sucursales. Centralización y descentralización de la información.",
-      "unit": "Unidad 1 · Sistemas y organizaciones",
+      "unit": "Complementarios · Unidad 1 · Sistemas y organizaciones",
       "kind": "Apunte",
       "tags": [
         "organigramas",
-        "estructura"
+        "estructura",
+        "fuera de la carpeta docente"
       ],
       "subjects": [
         "sistemas"
@@ -1168,18 +1171,19 @@
       "edition": "2026",
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
-      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "review": "Conservado del catálogo anterior. No aparece en la carpeta de referencia docente revisada el 27/09/2026. Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1LsOgkwULLSy29T1wrXcK3n292dwxLX-r",
       "title": "Clase 9 · Modelado y organizaciones",
       "description": "Diapositivas sobre el uso del Lenguaje Unificado de Modelado para documentar procesos, comunicar entre áreas y detectar problemas.",
-      "unit": "Unidad 2 · Modelado con UML",
+      "unit": "Complementarios · Unidad 2 · Modelado con UML",
       "kind": "Clase",
       "tags": [
         "UML",
-        "clase 9"
+        "clase 9",
+        "fuera de la carpeta docente"
       ],
       "subjects": [
         "sistemas"
@@ -1190,18 +1194,19 @@
       "edition": "2026",
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
-      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "review": "Conservado del catálogo anterior. No aparece en la carpeta de referencia docente revisada el 27/09/2026. Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1ZfdI_74IaAJAX0jsRPX-u41hh9ELPCBP",
       "title": "Diagramas de casos de uso",
       "description": "Presentación sobre actores, requisitos funcionales y relaciones en los diagramas de casos de uso.",
-      "unit": "Unidad 2 · Modelado con UML",
+      "unit": "Complementarios · Unidad 2 · Modelado con UML",
       "kind": "Clase",
       "tags": [
         "UML",
-        "casos de uso"
+        "casos de uso",
+        "fuera de la carpeta docente"
       ],
       "subjects": [
         "sistemas"
@@ -1212,18 +1217,19 @@
       "edition": "2026",
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
-      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "review": "Conservado del catálogo anterior. No aparece en la carpeta de referencia docente revisada el 27/09/2026. Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1CB8Znmf7s8H9CLEF_DTVNo1nBwJax7Ax",
       "title": "Diagramas de estados",
       "description": "Definición, simbología, eventos y transiciones. Incluye un ejemplo de ciclo de vida y una actividad grupal sobre vuelos.",
-      "unit": "Unidad 2 · Modelado con UML",
+      "unit": "Complementarios · Unidad 2 · Modelado con UML",
       "kind": "Clase",
       "tags": [
         "UML",
-        "estados"
+        "estados",
+        "fuera de la carpeta docente"
       ],
       "subjects": [
         "sistemas"
@@ -1234,18 +1240,19 @@
       "edition": "2026",
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
-      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "review": "Conservado del catálogo anterior. No aparece en la carpeta de referencia docente revisada el 27/09/2026. Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "18stkh0CAiBKaBSAiBNxypWpXPyJpvgTJ",
       "title": "Administración y tecnologías de la información · 1.6 a 1.9",
       "description": "Niveles estratégico, táctico y operativo; planificación, herramientas de análisis y evolución de las tecnologías de la información.",
-      "unit": "Unidad 1 · Sistemas y organizaciones",
+      "unit": "Complementarios · Unidad 1 · Sistemas y organizaciones",
       "kind": "Apunte",
       "tags": [
         "administración",
-        "tecnología"
+        "tecnología",
+        "fuera de la carpeta docente"
       ],
       "subjects": [
         "sistemas"
@@ -1256,18 +1263,19 @@
       "edition": "2026",
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
-      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "review": "Conservado del catálogo anterior. No aparece en la carpeta de referencia docente revisada el 27/09/2026. Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1rcn466jcnKIl8S10YqQRbcEFZlKnbzmh",
       "title": "Sistemas de información · 1.10 y 1.11",
       "description": "Componentes y clasificación de sistemas de información, apoyo a decisiones, ciclo de la información y gestión de la complejidad.",
-      "unit": "Unidad 1 · Sistemas y organizaciones",
+      "unit": "Complementarios · Unidad 1 · Sistemas y organizaciones",
       "kind": "Apunte",
       "tags": [
         "información",
-        "complejidad"
+        "complejidad",
+        "fuera de la carpeta docente"
       ],
       "subjects": [
         "sistemas"
@@ -1278,18 +1286,19 @@
       "edition": "2026",
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
-      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "review": "Conservado del catálogo anterior. No aparece en la carpeta de referencia docente revisada el 27/09/2026. Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
       "id": "1NEQUXrMIW72nDyPCisiPsGTrXO7dLlKW",
       "title": "Procesos de negocio y ciclos transaccionales",
       "description": "Material del segundo cuatrimestre: procesos, ventas y cobranzas, compras y pagos, comprobantes y flujo de caja.",
-      "unit": "Procesos · Segundo cuatrimestre",
+      "unit": "Complementarios · Procesos · Segundo cuatrimestre",
       "kind": "Apunte",
       "tags": [
         "procesos",
-        "transacciones"
+        "transacciones",
+        "fuera de la carpeta docente"
       ],
       "subjects": [
         "sistemas"
@@ -1300,11 +1309,11 @@
       "edition": "2026",
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
-      "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
+      "review": "Conservado del catálogo anterior. No aparece en la carpeta de referencia docente revisada el 27/09/2026. Revisión del texto extraído; no es una corrección académica del contenido.",
       "sourcePath": "Sistemas y Organizaciones/Material"
     },
     {
-      "id": "1Q56EhANig20BOCBUoXtbIct_AVMKhLjP",
+      "id": "1hRyB8LxR_SXv170Ma7GH-a-AGesdlzhm",
       "title": "Programa 2026",
       "description": "Objetivos, docentes y tres unidades: sistemas, Lenguaje Unificado de Modelado y gestión de servicios de tecnología.",
       "unit": "General",
@@ -1316,24 +1325,24 @@
       "subjects": [
         "sistemas"
       ],
-      "format": "PDF",
-      "url": "https://drive.google.com/file/d/1Q56EhANig20BOCBUoXtbIct_AVMKhLjP/view",
-      "originalName": "Programa Sistemas y Organizaciones.docx (1).pdf",
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1hRyB8LxR_SXv170Ma7GH-a-AGesdlzhm/edit",
+      "originalName": "SyO_Programa_2026.docx",
       "edition": "2026",
-      "reviewedAt": "2026-09-19",
-      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta compartida por la docente; conserva sus permisos de Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones/Material",
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones",
       "alternateLinks": [
         {
-          "url": "https://docs.google.com/document/d/1hRyB8LxR_SXv170Ma7GH-a-AGesdlzhm/edit",
-          "label": "Versión de la carpeta de cátedra",
+          "url": "https://drive.google.com/file/d/1Q56EhANig20BOCBUoXtbIct_AVMKhLjP/view",
+          "label": "Copia anterior del catálogo",
           "note": "Versión DOCX con diferencias: no enumera el diagrama de clases ni los estados del incidente que sí aparecen en el PDF. No se confirmó cuál versión prevalece."
         }
       ]
     },
     {
-      "id": "1bJRq2Gq0t_bhQPFdvL2sE5hlg8xU82wj",
+      "id": "1HUDX529_5QdNm4sbJDTI_GEXsJwgDJ7h",
       "title": "Evidencia 4 · Consigna de modelado de procesos",
       "description": "Consigna general para crear diagramas de actividades, secuencia y estados de un mismo proceso. Incluye entregables, criterios y fecha de septiembre.",
       "unit": "Unidad 2 · Modelado con UML",
@@ -1346,17 +1355,17 @@
         "sistemas"
       ],
       "format": "PDF",
-      "url": "https://drive.google.com/file/d/1bJRq2Gq0t_bhQPFdvL2sE5hlg8xU82wj/view",
+      "url": "https://drive.google.com/file/d/1HUDX529_5QdNm4sbJDTI_GEXsJwgDJ7h/view",
       "originalName": "Evidencia de Aprendizaje N.º 4 — Sistemas y Organizaciones.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-19",
-      "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta compartida por la docente; conserva sus permisos de Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones/Material",
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones",
       "alternateLinks": [
         {
-          "url": "https://drive.google.com/file/d/1HUDX529_5QdNm4sbJDTI_GEXsJwgDJ7h/view",
-          "label": "Versión de la carpeta de cátedra",
+          "url": "https://drive.google.com/file/d/1bJRq2Gq0t_bhQPFdvL2sE5hlg8xU82wj/view",
+          "label": "Copia anterior del catálogo",
           "note": "Texto coincidente con la consigna ya catalogada."
         }
       ]
@@ -2325,10 +2334,10 @@
       "url": "https://drive.google.com/file/d/1J1rhgNqaLjMxZX7PPYNQ-pCdyf5JvJkL/view",
       "originalName": "ITIL-Casos-Aplicados.html",
       "edition": "2026",
-      "reviewedAt": "2026-09-19",
-      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta compartida por la docente; conserva sus permisos de Drive.",
       "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
-      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones"
     },
     {
       "id": "1lazR2ZJOYN0sDse76iQnzN3TCSQkWSUV",
@@ -2349,10 +2358,10 @@
       "url": "https://drive.google.com/file/d/1lazR2ZJOYN0sDse76iQnzN3TCSQkWSUV/view",
       "originalName": "Actividad-5-ITIL-Individual.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-19",
-      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta compartida por la docente; conserva sus permisos de Drive.",
       "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
-      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones"
     },
     {
       "id": "1IZMtJc4JHszt2bRWvJMVhFdH22kpnQZz",
@@ -2372,10 +2381,10 @@
       "url": "https://drive.google.com/file/d/1IZMtJc4JHszt2bRWvJMVhFdH22kpnQZz/view",
       "originalName": "ITIL-Guia-de-Estudio.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-19",
-      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta compartida por la docente; conserva sus permisos de Drive.",
       "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
-      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones"
     },
     {
       "id": "1FYofgmRonor4R4Uv6f9Bzzo8McoCZQfl",
@@ -2397,10 +2406,10 @@
       "url": "https://drive.google.com/file/d/1FYofgmRonor4R4Uv6f9Bzzo8McoCZQfl/view",
       "originalName": "taller-diagramas-uml-comportamiento (1).pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-19",
-      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta compartida por la docente; conserva sus permisos de Drive.",
       "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
-      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones"
     },
     {
       "id": "1S9RNevlDuYg0zSbW_YRTnRwCljJucmO0",
@@ -2422,10 +2431,10 @@
       "url": "https://drive.google.com/file/d/1S9RNevlDuYg0zSbW_YRTnRwCljJucmO0/view",
       "originalName": "Sistemas y Organizaciones — Diagramas UML con IA (AWS Kiro).pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-19",
-      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta compartida por la docente; conserva sus permisos de Drive.",
       "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
-      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones"
     },
     {
       "id": "1exn_2eZp3U0xbXt0D6eTodHNxUeLcmRj",
@@ -2446,10 +2455,10 @@
       "url": "https://drive.google.com/file/d/1exn_2eZp3U0xbXt0D6eTodHNxUeLcmRj/view",
       "originalName": "sistemas_y_organizaciones_diagramas_uml.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-19",
-      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta compartida por la docente; conserva sus permisos de Drive.",
       "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
-      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones"
     },
     {
       "id": "1njFlR-iGcNlCysXeNmvY3nuRdCYmvkgm",
@@ -2470,10 +2479,10 @@
       "url": "https://docs.google.com/document/d/1njFlR-iGcNlCysXeNmvY3nuRdCYmvkgm/edit",
       "originalName": "EE3_Sistemas_Organizaciones_UML_PUDS.docx",
       "edition": "Año por confirmar",
-      "reviewedAt": "2026-09-19",
-      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta compartida por la docente; conserva sus permisos de Drive.",
       "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
-      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones"
     },
     {
       "id": "1aQH0DzOKcKoCs5EJDGqOocatiOSKF6ZX",
@@ -2493,10 +2502,10 @@
       "url": "https://drive.google.com/file/d/1aQH0DzOKcKoCs5EJDGqOocatiOSKF6ZX/view",
       "originalName": "Evidencia_Aprendizaje2_SistemasOrganizaciones.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-19",
-      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta compartida por la docente; conserva sus permisos de Drive.",
       "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
-      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones"
     },
     {
       "id": "1gHN2PPvVh1P_Fpuk_wKl9YoJMGiEt5mq",
@@ -2516,10 +2525,10 @@
       "url": "https://drive.google.com/file/d/1gHN2PPvVh1P_Fpuk_wKl9YoJMGiEt5mq/view",
       "originalName": "UML — Sistemas y Organizaciones.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-19",
-      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta compartida por la docente; conserva sus permisos de Drive.",
       "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
-      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones"
     },
     {
       "id": "1t-DapQi3Hs-05HdZEXfl5_9DQyU_MRtG",
@@ -2541,10 +2550,10 @@
       "url": "https://docs.google.com/document/d/1t-DapQi3Hs-05HdZEXfl5_9DQyU_MRtG/edit",
       "originalName": "CB_SyO_HojaDeRuta_2026.docx",
       "edition": "2026",
-      "reviewedAt": "2026-09-19",
-      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta compartida por la docente; conserva sus permisos de Drive.",
       "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
-      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra",
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones",
       "alternateLinks": [
         {
           "url": "https://docs.google.com/document/d/1IMK_7-tWRBUIvKBIpJiWgUVUm-RkZWoD/edit",
@@ -2571,10 +2580,10 @@
       "url": "https://docs.google.com/document/d/1BECaKKCS53yFyQgrDakm5zKjXUJIh-VY/edit",
       "originalName": "SyO_Planificacion_2026.docx",
       "edition": "2026",
-      "reviewedAt": "2026-09-19",
-      "access": "Enlace de la carpeta de cátedra compartida. La disponibilidad depende de los permisos de Drive.",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta compartida por la docente; conserva sus permisos de Drive.",
       "review": "Revisión del texto extraído para identificar contenido general y descartar entregas estudiantiles; no es una corrección académica.",
-      "sourcePath": "Sistemas y Organizaciones / carpeta de cátedra"
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones"
     },
     {
       "id": "18Nh0r_mpPBtjSlFUWJ_IThOm3uNfhFsl",
@@ -2613,6 +2622,55 @@
           "note": "Mismo proyecto, componentes, cronograma y rúbrica. La copia adicional de la carpeta no se publica para evitar redundancias."
         }
       ]
+    },
+    {
+      "id": "1ztIYTuG_PacPI0yOtH1Kxh2-hy18TdK6",
+      "title": "Evidencia 6 · Proyecto integrador TechSolutions",
+      "description": "Consigna general del Aprendizaje Basado en Problemas (ABP), Comisión B.1, docente Dianela Accietto. Integra la organización como sistema abierto, casos de uso y estados de tickets, gestión de incidentes y matriz de prioridades con acuerdos de nivel de servicio. Informe grupal de hasta diez páginas y defensa oral. Se desarrolla en las semanas 13 a 16 del segundo cuatrimestre; no indica fecha exacta de entrega.",
+      "unit": "Proyecto integrador",
+      "kind": "Consigna",
+      "tags": [
+        "evidencia 6",
+        "ABP",
+        "TechSolutions",
+        "sistemas",
+        "UML",
+        "ITIL"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1ztIYTuG_PacPI0yOtH1Kxh2-hy18TdK6/edit",
+      "originalName": "ABP_Sistemas_y_Organizaciones_2026.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta docente; conserva los permisos de Drive.",
+      "review": "Lectura de texto completo: documento general de cátedra, sin respuestas ni integrantes de grupos.",
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones"
+    },
+    {
+      "id": "15bH90RkG1aSQ12SH9RMo-cYUutVRCVjP",
+      "title": "Grabaciones · Sistemas y Organizaciones B.1",
+      "description": "Índice docente de encuentros sincrónicos: doce entradas fechadas del 09/04 al 03/09/2026, con enlaces a grabaciones y una carpeta. Las entradas 13 y 14 están vacías. Confirma jueves de 18:20 a 19:20 y el código del encuentro. Se revisó el índice, no el contenido de los videos ni su acceso anónimo.",
+      "unit": "Clases y grabaciones",
+      "kind": "Clase",
+      "tags": [
+        "grabaciones",
+        "B1",
+        "encuentros"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/15bH90RkG1aSQ12SH9RMo-cYUutVRCVjP/edit",
+      "originalName": "Grab - Sistemas y Organizaciones B1.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-09-27",
+      "access": "Archivo de la carpeta docente; conserva los permisos de Drive.",
+      "review": "Lectura de texto completo: documento general de cátedra, sin respuestas ni integrantes de grupos.",
+      "sourcePath": "Carpeta docente de Sistemas y Organizaciones"
     }
   ],
   "events": [
@@ -2861,7 +2919,7 @@
       "title": "Evidencia 4 · Diagramas de comportamiento",
       "start": "2026-09-06",
       "end": "2026-09-06",
-      "source": "1bJRq2Gq0t_bhQPFdvL2sE5hlg8xU82wj",
+      "source": "1HUDX529_5QdNm4sbJDTI_GEXsJwgDJ7h",
       "note": "La consigna dice 6 de septiembre; el año se toma del programa 2026 de la materia.",
       "time": "23:59"
     },
@@ -2993,7 +3051,7 @@
         "sistemas"
       ],
       "title": "Encuentro sincrónico",
-      "description": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026. Sin fecha de fin en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día.",
+      "description": "Horario y código confirmados en el índice docente de encuentros B.1: jueves 18:20–19:20. El enlace web conserva el mismo código que la referencia tel.meet del documento.",
       "url": "https://meet.google.com/zqc-orpx-itj"
     },
     {
@@ -3011,6 +3069,22 @@
       "title": "Encuentro sincrónico",
       "description": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026. Comisión no visible en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día.",
       "url": "https://meet.google.com/vmn-tqct-ytc"
+    },
+    {
+      "subjects": [
+        "sistemas"
+      ],
+      "title": "Índice docente de grabaciones · B.1",
+      "description": "Doce encuentros fechados entre abril y septiembre de 2026. Abrí el documento para elegir la grabación. Los videos conservan sus permisos; no se verificó su reproducción.",
+      "url": "https://docs.google.com/document/d/15bH90RkG1aSQ12SH9RMo-cYUutVRCVjP/edit"
+    },
+    {
+      "subjects": [
+        "sistemas"
+      ],
+      "title": "Materiales compartidos por la docente",
+      "description": "Carpeta de referencia de la materia. El catálogo selecciona documentos generales y excluye nóminas y entregas de estudiantes.",
+      "url": "https://drive.google.com/drive/folders/1GTC7hQVYzyzW1pz1MJGIlhObKl7IwLLs"
     }
   ],
   "collection": {
@@ -3019,9 +3093,9 @@
     "commission": "B1",
     "driveUrl": "https://drive.google.com/drive/folders/1SEoZF34NoR8Pd94RRTO3wcoEzgYSTSoZ",
     "reviewedFiles": 92,
-    "includedFiles": 104,
+    "includedFiles": 106,
     "pendingFiles": 4,
-    "note": "Se conservan las comisiones indicadas por cada fuente. La colección B1 también contiene materiales generales de otras comisiones. El inventario de 92 archivos corresponde al Drive revisado el 17/09. La planilla revisada el 19/09 aporta cuatro fichas nuevas y trece enlaces a materiales ya catalogados. La revisión de Sistemas del 19/09 incorpora once fichas y cuatro enlaces alternativos; no modifica el inventario histórico del Drive. Comunicación II incorpora una ficha del Proyecto NEXO con enlace alternativo y tres fechas del cronograma."
+    "note": "Se conservan las comisiones indicadas por cada fuente. La colección B1 también contiene materiales generales de otras comisiones. El inventario de 92 archivos corresponde al Drive revisado el 17/09. La planilla revisada el 19/09 aporta cuatro fichas nuevas y trece enlaces a materiales ya catalogados. La revisión de Sistemas del 19/09 incorpora once fichas y cuatro enlaces alternativos; no modifica el inventario histórico del Drive. Comunicación II incorpora una ficha del Proyecto NEXO con enlace alternativo y tres fechas del cronograma. Sistemas: carpeta docente priorizada el 27/09, dos fichas nuevas y nueve complementarios anteriores preservados."
   },
   "schedules": [
     {

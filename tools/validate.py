@@ -26,7 +26,7 @@ for e in data['events']:
 for c in data['classes']:
  assert set(c['subjects'])<=ss and c['subjects']
  u=urllib.parse.urlparse(c['url'])
- assert u.scheme=='https' and u.hostname in ['meet.google.com','acceso.ispc.edu.ar']
+ assert u.scheme=='https' and u.hostname in ['meet.google.com','acceso.ispc.edu.ar','docs.google.com','drive.google.com']
 schedule_ids=[]
 for s in data.get('schedules',[]):
  schedule_ids.append(s['id'])
