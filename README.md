@@ -106,3 +106,7 @@ Se conservan los límites de repetición de las capturas. Para Matemática y Sis
 Se prioriza la carpeta compartida por la docente: los enlaces principales del programa, introducción UML y Evidencia 4 ahora abren sus archivos, conservando las copias anteriores como alternativas. Se agregan la Evidencia 6 y el índice de grabaciones. Nueve materiales ausentes se conservan como complementarios. Total: 106 fichas, 25 de Sistemas; sin nuevas fechas exactas de entrega.
 
 [Detalle de lo conservado y límites de revisión](docs/SISTEMAS-2026-09-27.md).
+
+## Navegación experimental
+
+Probá la [versión v2](https://fran1599.github.io/materiales-tsds-ispc-1-2026-b1/v2/) con entregas, materiales e información de cursada separados. La versión anterior sigue disponible. Ambas leen el mismo catálogo. Consultá [desarrollo y criterios de v2](v2/README.md).

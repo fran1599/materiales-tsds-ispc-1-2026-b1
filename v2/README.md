@@ -1,0 +1,22 @@
+# Navegación experimental v2
+
+La ruta [v2](https://fran1599.github.io/materiales-tsds-ispc-1-2026-b1/v2/) permite comparar una navegación por tarea con la [versión anterior](https://fran1599.github.io/materiales-tsds-ispc-1-2026-b1/dist/#inicio).
+
+La portada y cada materia separan entregas, materiales e información de cursada. El selector de materia conserva la sección activa; los enlaces de Meet y Calendar permanecen visibles al entrar en una materia. Las ayudas se despliegan con clic, toque o teclado.
+
+Las fechas se leen del catálogo compartido `../dist/catalog.json`. La v2 no constituye una nueva revisión documental ni una sincronización con Moodle: conserva las fuentes y su fecha de revisión. Los períodos se muestran como rangos. Las actividades terminadas pasan a “Fechas anteriores”, usando el día de Argentina. La ausencia de próximas fechas registradas no implica ausencia de obligaciones.
+
+“Sugerir corrección” prepara un texto con materia, actividad, fecha, fuente y página consultada. El visitante puede editarlo, copiarlo o continuar en GitHub para enviarlo. No se crea una issue automáticamente; GitHub requiere cuenta y la publicación es pública.
+
+Se ofrecen ocho temas: sistema, claro, oscuro, sepia y neón azul, rojo, verde y gris. La preferencia se guarda localmente bajo `entre-apuntes-v2-theme`; el modo sistema responde a los cambios del dispositivo. Las animaciones respetan la preferencia de movimiento reducido.
+
+## Desarrollo y aportes
+
+HTML, CSS y JavaScript nativos, sin framework, backend ni compilación. GitHub Pages sirve los archivos. Para probar localmente, ejecutar `python3 -m http.server 8000` desde la raíz y abrir `http://localhost:8000/v2/`. No abrir directamente con file://, porque se carga el catálogo mediante fetch.
+
+Editar la presentación en `v2/`. Las actualizaciones de materiales y fechas deben realizarse en el catálogo compartido siguiendo las reglas del README principal, con fuente verificable y sin trabajos personales o grupales. Enviar un pull request o una issue con contexto y evidencia oficial.
+
+Verificaciones: `node --check v2/app.js`, `node --check v2/theme.js` y `node tools/test-v2.js`. La prueba cubre las rutas de todas las materias, filtros, enlaces seguros, fechas y recurrencias de Calendar y contexto de correcciones. Revisar además teclado, temas y pantallas estrechas al cambiar estilos.
+
+El código y la documentación propios están cubiertos por la licencia MIT del repositorio. Los materiales educativos de terceros conservan sus derechos y quedan excluidos de esa licencia.
+

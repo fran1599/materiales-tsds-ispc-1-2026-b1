@@ -10,3 +10,5 @@ jobs:
       - run: python3 tools/validate.py
       - run: node --check dist/app.js && node --check dist/theme.js
       - run: node tools/test.js
+      - run: node --check v2/app.js && node --check v2/theme.js
+      - run: node tools/test-v2.js

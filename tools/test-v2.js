@@ -1,0 +1,25 @@
+// Run with Node; no dependencies. Checks shared-catalog navigation and date/link behavior.
+const fs = require('node:fs');
+const vm = require('node:vm');
+const assert = require('node:assert/strict');
+const nodes = new Map();
+function node(key) { if (!nodes.has(key)) nodes.set(key,{value:'',innerHTML:'',textContent:'',addEventListener(){},insertAdjacentHTML(){},focus(){},select(){},showModal(){this.open=true;},close(){this.open=false;}}); return nodes.get(key); }
+const context = vm.createContext({URL,URLSearchParams,Intl,Date,console,document:{querySelector:node,querySelectorAll:()=>[],addEventListener(){}},location:{hash:'#inicio',href:'https://example.org/v2/#inicio'},window:{addEventListener(){},scrollTo(){}},fetch:()=>new Promise(()=>{})});
+vm.runInContext(fs.readFileSync('v2/app.js','utf8'),context);
+vm.runInContext('DATA = '+fs.readFileSync('dist/catalog.json','utf8'),context);
+const run = code => vm.runInContext(code,context);
+for(const section of ['inicio','entregas','materiales','informacion']) {
+ context.location.hash='#'+section;run('render()');assert.ok(node('#main').innerHTML.includes('<h1>'));
+ for(const s of JSON.parse(fs.readFileSync('dist/catalog.json','utf8')).subjects){context.location.hash=`#materia/${s.id}/${section}`;run('render()');assert.ok(node('#main').innerHTML.includes(s.title.replaceAll('&','&amp;')));}
+}
+context.location.hash='#materiales';run('render()');assert.match(node('#count').textContent,/106 materiales/);
+node('#search').value='unlikely-no-match';run('renderResources()');assert.match(node('#count').textContent,/0 materiales/);
+assert.equal(run('safe("javascript:alert(1)")'),'');assert.equal(run('esc("<img>")'),'&lt;img&gt;');
+
+const url=new URL(run('calendarURL(DATA.schedules[0],"programacion","2026-10-12")'));
+assert.equal(url.searchParams.get('text'),'Programación I');assert.match(url.searchParams.get('dates'),/^20261012T212000Z\/20261012T234000Z$/);
+assert.match(url.searchParams.get('recur'),/BYDAY=MO;UNTIL=20261118T025900Z/);assert.match(url.searchParams.get('details'),/Aula virtual: https:/);
+assert.match(new URL(run('calendarURL(DATA.schedules[2],"matematica","2026-10-12")')).searchParams.get('details'),/Sin fecha final confirmada/);
+assert.equal(run('calendarURL(DATA.schedules[0],"programacion","2027-01-01")'),'');
+run('openCorrection("event",0)');const issue=new URL(node('#issue').href);assert.equal(issue.pathname,'/fran1599/materiales-tsds-ispc-1-2026-b1/issues/new');assert.match(issue.searchParams.get('body'),/Fuente actual: https:/);assert.match(issue.searchParams.get('body'),/Fecha del aviso/);assert.equal(node('#correction').open,true);
+console.log('v2: all course routes, filters, safe links, calendar timezone/recurrence and correction context passed');
