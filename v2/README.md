@@ -20,3 +20,12 @@ Verificaciones: `node --check v2/app.js`, `node --check v2/theme.js` y `node too
 
 El código y la documentación propios están cubiertos por la licencia MIT del repositorio. Los materiales educativos de terceros conservan sus derechos y quedan excluidos de esa licencia.
 
+
+
+## Filtros y calendario de entregas
+
+En la biblioteca general aparece un filtro de materia, combinable con búsqueda, unidad y tipo. Al entrar a una materia desde la navegación lateral se aplica ese contexto y se omite el filtro redundante. Todas las fichas cerradas muestran sus materias, incluidas las compartidas.
+
+Entregas ofrece Lista, Mes y Semana, con navegación anterior/siguiente, Hoy y salto a una fecha. Mes y Semana muestran todos los eventos registrados del período, incluidos los anteriores. La semana comienza el lunes; las barras abarcan las fechas inicial y final inclusive. Una fuente que indica de lunes a viernes ocupa esos cinco días, sin extenderse al fin de semana. Los períodos que cruzan semanas se continúan en barras con flechas y las coincidencias ocupan filas distintas. No se inventan horarios ni fechas de cierre.
+
+Cada barra abre un detalle con la fuente, las notas y la acción de corrección. El calendario usa CSS Grid y JavaScript nativos, sin bibliotecas externas. En pantallas pequeñas tiene desplazamiento horizontal para conservar las siete columnas y mantiene disponible la vista de lista. Las pruebas incluyen intervalos inclusivos, cruces de semana/mes/año, superposiciones y filtrado por materia.
