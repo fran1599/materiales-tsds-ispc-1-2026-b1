@@ -36,7 +36,7 @@ function eventHTML(e) {
 function deliveries(limit) {
  const events=DATA.events.filter(belongs).sort((a,b)=>a.start.localeCompare(b.start));
  const next=events.filter(e=>(e.end||e.start)>=today()), past=events.filter(e=>(e.end||e.start)<today());
- return `<div class="section-head"><h2>Próximas entregas según las hojas de ruta y consignas</h2>${limit?`<a href="${route('entregas')}">Ver todas las fechas →</a>`:''}</div><p class="muted">También se incluyen períodos de trabajo y evaluaciones indicados por las fuentes.</p>${official()}<div class="list">${next.length?next.slice(0,limit||next.length).map(eventHTML).join(''):'<p class="empty">No hay próximas fechas registradas para esta selección. Puede haber novedades en el aula: consultá los avisos docentes.</p>'}</div>${!limit&&past.length?`<details class="help"><summary>Fechas anteriores (${past.length})</summary><div class="list">${past.reverse().map(eventHTML).join('')}</div></details>`:''}`;
+ return `<div class="section-head"><h2>Próximas entregas según las hojas de ruta y consignas</h2>${limit?`<a href="${route('entregas')}">Ver todas las fechas →</a>`:''}</div><p class="muted">También se incluyen períodos de trabajo y evaluaciones indicados por las fuentes.</p>${official()}<div class="list">${next.length?next.slice(0,limit||next.length).map(eventHTML).join(''):'<p class="empty">No hay próximas fechas registradas para esta selección. Puede haber novedades en el aula: consultá los avisos docentes.</p>'}</div>${!next.length&&current.subject?`<div class="actions">${correction('subject',current.subject)}</div>`:''}${!limit&&past.length?`<details class="help"><summary>Fechas anteriores (${past.length})</summary><div class="list">${past.reverse().map(eventHTML).join('')}</div></details>`:''}`;
 }
 function materials() {
  const items=DATA.resources.filter(belongs);
@@ -46,7 +46,7 @@ function materials() {
 function renderResources() {
  const query=norm($('#search').value), unit=$('#unit').value, kind=$('#kind').value;
  const items=DATA.resources.filter(belongs).filter(r=>(!unit||r.unit===unit)&&(!kind||r.kind===kind)&&norm([r.title,r.description,...r.tags].join(' ')).includes(query));
- $('#count').textContent=`${items.length} materiales encontrados`;
+ $('#count').textContent=`${items.length} ${items.length === 1 ? 'material encontrado' : 'materiales encontrados'}`;
  $('#resources').innerHTML=items.map(r=>`<details class="resource"><summary><strong>${esc(r.title)}</strong><span class="meta">${esc(r.unit)} · ${esc(r.kind)} · ${esc(r.format)}</span></summary><p class="eyebrow">${esc(names(r.subjects))}</p><p>${esc(r.description)}</p><p>${r.tags.map(t=>`<span class="badge">${esc(t)}</span>`).join(' ')}</p><p class="meta">${esc(r.review||'')}${r.reviewedAt?' · Revisado '+esc(date(r.reviewedAt)):''}</p><div class="actions">${link(r.url,'Abrir material')}${(r.alternateLinks||[]).map(l=>link(l.url,l.label||'Enlace alternativo')).join('')}${correction('resource',r.id)}</div></details>`).join('')||'<p class="empty">No se encontraron materiales con estos filtros.</p>';
 }
 function info(id) {
