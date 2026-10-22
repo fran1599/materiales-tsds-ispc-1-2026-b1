@@ -12,7 +12,7 @@ for(const section of ['inicio','entregas','materiales','informacion']) {
  context.location.hash='#'+section;run('render()');assert.ok(node('#main').innerHTML.includes('<h1>'));
  for(const s of JSON.parse(fs.readFileSync('dist/catalog.json','utf8')).subjects){context.location.hash=`#materia/${s.id}/${section}`;run('render()');assert.ok(node('#main').innerHTML.includes(s.title.replaceAll('&','&amp;')));}
 }
-context.location.hash='#materiales';run('render()');assert.match(node('#count').textContent,/106 materiales/);
+context.location.hash='#materiales';run('render()');assert.equal(node('#count').textContent,JSON.parse(fs.readFileSync('dist/catalog.json','utf8')).resources.length+' materiales encontrados');
 node('#search').value='unlikely-no-match';run('renderResources()');assert.match(node('#count').textContent,/0 materiales/);
 assert.equal(run('safe("javascript:alert(1)")'),'');assert.equal(run('esc("<img>")'),'&lt;img&gt;');
 
