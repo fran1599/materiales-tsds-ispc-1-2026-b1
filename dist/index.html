@@ -7,8 +7,8 @@
   <title>Entre apuntes · Desarrollo de Software</title>
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23183f36'/%3E%3Cpath d='M7 8h7l2 2 2-2h7v16h-7l-2 2-2-2H7z' fill='none' stroke='%23faf6ed' stroke-width='2'/%3E%3Cpath d='M16 10v16' stroke='%23faf6ed' stroke-width='2'/%3E%3C/svg%3E">
   <script src="./theme.js"></script>
-  <link rel="stylesheet" href="./styles.css">
-  <script src="./app.js" defer></script>
+  <link rel="stylesheet" href="./styles.css?v=20261022-materiales">
+  <script src="./app.js?v=20261022-materiales" defer></script>
 </head>
 <body>
 <a class="skip" href="#main">Saltar al contenido</a>
@@ -34,7 +34,7 @@
  <header class="topbar">
   <button class="menu-button" id="menu" aria-controls="sidebar" aria-expanded="false" aria-label="Abrir navegación">☰</button>
   <div class="breadcrumb">Desarrollo de Software <span>/</span> <strong id="breadcrumb-current">Biblioteca</strong></div>
-  <label class="theme-control">Tema<select id="theme"><option value="system">Automático</option><option value="light">Claro</option><option value="dark">Oscuro</option></select></label>
+  <div class="topbar-actions"><label class="theme-control">Tema<select id="theme"><option value="system">Automático</option><option value="light">Claro</option><option value="dark">Oscuro</option></select></label><a class="button secondary version-link" href="../v2/#inicio">Probar versión 2</a></div>
  </header>
  <main id="main" tabindex="-1"><div class="loading" role="status">Cargando materiales…</div></main>
  <footer class="footer"><span>Entre apuntes · Hecho para acompañar la cursada.</span><div><a href="#proyecto">Tecnología, aportes y licencias</a> · <a href="#acerca">Fuentes y actualización ↗</a></div></footer>
@@ -42,3 +42,4 @@
 <dialog id="resource-dialog" aria-labelledby="resource-title"><div id="resource-body"></div></dialog>
 <noscript><p>Este catálogo necesita JavaScript para mostrar las materias. Activá JavaScript en tu navegador y recargá la página.</p></noscript>
 </body></html>
+

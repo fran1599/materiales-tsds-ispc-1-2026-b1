@@ -1,6 +1,6 @@
 {
   "title": "Entre apuntes",
-  "updated": "2026-09-27",
+  "updated": "2026-10-22",
   "subjects": [
     {
       "id": "programacion",
@@ -1829,10 +1829,22 @@
       "url": "https://drive.google.com/file/d/11UvVUc-LlvTOIhubf5K4N5HymsuTOjJ2/view",
       "originalName": "Modulo Programador_01.01- Python. IntroducciónISPC.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-10-16",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo Programador/Prog - Material unidad 1"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 1",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1_o7PcansHQR1j36Tw2rwy4VCkTeCG_Lc/view",
+          "label": "Fuente docente relevada en Moodle",
+          "note": "Enlace directo verificado en el catálogo del aula el 16/10/2026."
+        },
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111123",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
     },
     {
       "id": "1vJ63fB5SOQO9COthpWEnf31rwQywoC30",
@@ -1851,10 +1863,22 @@
       "url": "https://drive.google.com/file/d/1vJ63fB5SOQO9COthpWEnf31rwQywoC30/view",
       "originalName": "Modulo Programador_01.02- Python. Funciones Avanzadas y MódulosISPC.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-10-16",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo Programador/Prog - Material unidad 1"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 1",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/10aLioLGfg_LnqZa0ZH7USvt6JugWPEBc/view",
+          "label": "Fuente docente relevada en Moodle",
+          "note": "Enlace directo verificado en el catálogo del aula el 16/10/2026."
+        },
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111123",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
     },
     {
       "id": "17GPCbERCieZI8tW5UzIP2bs6AgAYYUBh",
@@ -1873,10 +1897,22 @@
       "url": "https://drive.google.com/file/d/17GPCbERCieZI8tW5UzIP2bs6AgAYYUBh/view",
       "originalName": "Modulo Programador_02.01- POO. FundamentosISPC.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-10-16",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo Programador/Prog - Material unidad 2"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 2",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1T6vr8DepNkH0nefT0LFnNnGXVCQiKjPX/view",
+          "label": "Fuente docente relevada en Moodle",
+          "note": "Enlace directo verificado en el catálogo del aula el 16/10/2026."
+        },
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111123",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
     },
     {
       "id": "1C1cTUz9McRWlK5z9I9DEIxHDDs3-wiqI",
@@ -1895,10 +1931,22 @@
       "url": "https://drive.google.com/file/d/1C1cTUz9McRWlK5z9I9DEIxHDDs3-wiqI/view",
       "originalName": "Modulo Programador_02.03- POO. TDD y Diseño Simple - Kent BeckISPC.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-10-16",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo Programador/Prog - Material unidad 2"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 2",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1w2TxCcxjtAxDbeuQyTT5pq6yUUPp_Vvp/view",
+          "label": "Fuente docente relevada en Moodle",
+          "note": "Enlace directo verificado en el catálogo del aula el 16/10/2026."
+        },
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111123",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
     },
     {
       "id": "1-vJJOYsFLLVwACYp5wHgJDX5vcIx5Rcj",
@@ -1917,10 +1965,22 @@
       "url": "https://drive.google.com/file/d/1-vJJOYsFLLVwACYp5wHgJDX5vcIx5Rcj/view",
       "originalName": "Modulo Programador_02.05- POO. Acceso a DatosISPC.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-10-16",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo Programador/Prog - Material unidad 2"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 2",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/17zuW5msMQfKQ_3CLy1Z4O6xYrLBbPRJp/view",
+          "label": "Fuente docente relevada en Moodle",
+          "note": "Enlace directo verificado en el catálogo del aula el 16/10/2026."
+        },
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111123",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
     },
     {
       "id": "1C8AvTY5iqqOXh4Jpt3IvEu-sOrHesHkI",
@@ -1939,10 +1999,22 @@
       "url": "https://drive.google.com/file/d/1C8AvTY5iqqOXh4Jpt3IvEu-sOrHesHkI/view",
       "originalName": "Modulo Programador_02.04- POO. Principios SOLIDISPC.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-10-16",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo Programador/Prog - Material unidad 2"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 2",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/117MFYCwFsuYptXKp6iw9qVBWVaZYos0a/view",
+          "label": "Fuente docente relevada en Moodle",
+          "note": "Enlace directo verificado en el catálogo del aula el 16/10/2026."
+        },
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111123",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
     },
     {
       "id": "1FMio_IHsHgOibInb42WjxvQOMpcjrfcw",
@@ -1961,10 +2033,22 @@
       "url": "https://drive.google.com/file/d/1FMio_IHsHgOibInb42WjxvQOMpcjrfcw/view",
       "originalName": "Modulo Programador_02.02- POO. ModeladoISPC.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-10-16",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo Programador/Prog - Material unidad 2"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 2",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/167C3dkif_4Aiq_ggVH_xOpI9Ym_W6diS/view",
+          "label": "Fuente docente relevada en Moodle",
+          "note": "Enlace directo verificado en el catálogo del aula el 16/10/2026."
+        },
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111123",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
     },
     {
       "id": "1Jblm1g9str5C3E3UNH8YuNNMg3HqW-oz",
@@ -1983,10 +2067,22 @@
       "url": "https://drive.google.com/file/d/1Jblm1g9str5C3E3UNH8YuNNMg3HqW-oz/view",
       "originalName": "Modulo Programador_03.02- GIT. Trabajo ColaborativoISPC.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-10-16",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo Programador/Prog - Material unidad 3"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 3",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1i6TAeLju_j_ZmU_yJUL4dYUDbjzHtwXp/view",
+          "label": "Fuente docente relevada en Moodle",
+          "note": "Enlace directo verificado en el catálogo del aula el 16/10/2026."
+        },
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111123",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
     },
     {
       "id": "1k2-xpDAeJZmV-W_oKCJ9uOkDCqSxQX2d",
@@ -2005,10 +2101,22 @@
       "url": "https://drive.google.com/file/d/1k2-xpDAeJZmV-W_oKCJ9uOkDCqSxQX2d/view",
       "originalName": "Modulo Programador_04.01- GIT. IntroducciónISPC.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-10-16",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo Programador/Prog - Material unidad 3"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 3",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1NcCcc3Xa-3pbwRDvdqCMPVmnpriR-LZ3/view",
+          "label": "Fuente docente relevada en Moodle",
+          "note": "Enlace directo verificado en el catálogo del aula el 16/10/2026."
+        },
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111123",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
     },
     {
       "id": "1NfLIiSVwIv8AKpTekkS2XrIqbvoQBYMN",
@@ -2027,10 +2135,22 @@
       "url": "https://drive.google.com/file/d/1NfLIiSVwIv8AKpTekkS2XrIqbvoQBYMN/view",
       "originalName": "Eje 3 Modelo Relacional.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-17",
+      "reviewedAt": "2026-10-16",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo Programador/Prog - Material unidad 3"
+      "sourcePath": "Módulo Programador/Prog - Material unidad 3",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1BY1YvJSPyCL3XuadlSPupK48XwEOOdwT/view",
+          "label": "Fuente docente relevada en Moodle",
+          "note": "Enlace directo verificado en el catálogo del aula el 16/10/2026."
+        },
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=121278",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
     },
     {
       "id": "1BX2g3u82xYT9HR2L47r_w_TVPHXLNssa",
@@ -2611,7 +2731,7 @@
       "url": "https://drive.google.com/file/d/18Nh0r_mpPBtjSlFUWJ_IThOm3uNfhFsl/view",
       "originalName": "ABP - CCII - 2026 - Zavia, Rocco.pdf",
       "edition": "2026",
-      "reviewedAt": "2026-09-19",
+      "reviewedAt": "2026-10-22",
       "access": "Documento de la carpeta compartida de Comunicación II. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Lectura de la consigna y comparación con sus versiones en Google Docs. Material general con campo de integrantes sin completar; no contiene una entrega estudiantil. Las fechas no indican hora límite.",
       "sourcePath": "Comunicación II / Consignas generales",
@@ -2620,6 +2740,11 @@
           "url": "https://docs.google.com/document/d/14HYP1QCM9VXAFxlKz5ZVu3P5iTIntbacDe4WN3yRWco/edit",
           "label": "Consigna en Google Docs",
           "note": "Mismo proyecto, componentes, cronograma y rúbrica. La copia adicional de la carpeta no se publica para evitar redundancias."
+        },
+        {
+          "url": "https://drive.google.com/file/d/1tegWy2KfJ55Slpu6z-7w4wax0js1Moi1/view?usp=drivesdk",
+          "label": "Copia en la carpeta docente",
+          "note": "Mismo Proyecto NEXO disponible junto con las clases de la profesora Ana Rocco."
         }
       ]
     },
@@ -2671,6 +2796,2092 @@
       "access": "Archivo de la carpeta docente; conserva los permisos de Drive.",
       "review": "Lectura de texto completo: documento general de cátedra, sin respuestas ni integrantes de grupos.",
       "sourcePath": "Carpeta docente de Sistemas y Organizaciones"
+    },
+    {
+      "id": "1-uCnKuXfOPvHCFh08N3623K2tm7CeIpR",
+      "title": "Ejercicios de programación secuencial",
+      "description": "Ejercicios opcionales de Python. Relación con el proyecto: Práctica.",
+      "unit": "Eje 1",
+      "kind": "Práctica",
+      "tags": [
+        "Complementario",
+        "Práctica",
+        "DOCX",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1-uCnKuXfOPvHCFh08N3623K2tm7CeIpR/edit",
+      "originalName": "Ejercicios de programación secuencial",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados en Drive",
+      "sourcePath": "Módulo Programador / Programación I / Eje 1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=115861",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1fdTewIpvXpXgNWzSZ6Kz4vzCUP-goFSH",
+      "title": "Datos no primitivos",
+      "description": "Presentación de clase 2.",
+      "unit": "Eje 1",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "Base conceptual",
+        "PPTX",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PPTX",
+      "url": "https://docs.google.com/presentation/d/1fdTewIpvXpXgNWzSZ6Kz4vzCUP-goFSH/edit",
+      "originalName": "Datos no primitivos",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados en Drive",
+      "sourcePath": "Módulo Programador / Programación I / Eje 1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111115",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1K2gkECTR-HHkK-VU9lwr927rsjlb-15K",
+      "title": "Funciones avanzadas Python",
+      "description": "Presentación de clase 3.",
+      "unit": "Eje 1",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "Base conceptual",
+        "PPTX",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PPTX",
+      "url": "https://docs.google.com/presentation/d/1K2gkECTR-HHkK-VU9lwr927rsjlb-15K/edit",
+      "originalName": "Funciones avanzadas Python",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados en Drive",
+      "sourcePath": "Módulo Programador / Programación I / Eje 1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111115",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1KqBKzS1k52I4DmsVK1L2nnCfLRbNhPly",
+      "title": "Ejercicios apuntes 1 y 2 bis",
+      "description": "Actividad de aprendizaje 1. Relación con el proyecto: Práctica.",
+      "unit": "Eje 1",
+      "kind": "Práctica",
+      "tags": [
+        "Complementario",
+        "Práctica",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1KqBKzS1k52I4DmsVK1L2nnCfLRbNhPly/view",
+      "originalName": "Ejercicios apuntes 1 y 2 bis",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados en Drive",
+      "sourcePath": "Módulo Programador / Programación I / Eje 1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=114611",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1S3Qxu91PbsHbQaGomjglTXSeZvJywp5f",
+      "title": "Ejercicios apuntes 1 y 2",
+      "description": "Actividad de aprendizaje 2. Relación con el proyecto: Práctica.",
+      "unit": "Eje 1",
+      "kind": "Práctica",
+      "tags": [
+        "Complementario",
+        "Práctica",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1S3Qxu91PbsHbQaGomjglTXSeZvJywp5f/view",
+      "originalName": "Ejercicios apuntes 1 y 2",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados en Drive",
+      "sourcePath": "Módulo Programador / Programación I / Eje 1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=114611",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1UQLx5JLVXTSBWt--iqBt5R8FFekco-Ev",
+      "title": "POO. Objetos y clases",
+      "description": "Presentación de clase 4. Relación con el proyecto: Diseño de la aplicación.",
+      "unit": "Eje 2",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "Diseño de la aplicación",
+        "PPTX",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PPTX",
+      "url": "https://docs.google.com/presentation/d/1UQLx5JLVXTSBWt--iqBt5R8FFekco-Ev/edit",
+      "originalName": "POO. Objetos y clases",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Verificado por listado de carpeta Drive",
+      "sourcePath": "Módulo Programador / Programación I / Eje 2",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111115",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1C_S8rt7UOiCIoZXcUFTLfviNR-h3uySq",
+      "title": "POO. Pilares avanzados",
+      "description": "Presentación de clase 5. Relación con el proyecto: Diseño de la aplicación.",
+      "unit": "Eje 2",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "Diseño de la aplicación",
+        "PPTX",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "PPTX",
+      "url": "https://docs.google.com/presentation/d/1C_S8rt7UOiCIoZXcUFTLfviNR-h3uySq/edit",
+      "originalName": "POO. Pilares avanzados",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Verificado por listado de carpeta Drive",
+      "sourcePath": "Módulo Programador / Programación I / Eje 2",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111115",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "moodle-pi-tk-001",
+      "title": "Curso de Tkinter desde cero",
+      "description": "Interfaces modernas, JSON y generación de ejecutable. Relación con el proyecto: Interfaz Tkinter.",
+      "unit": "Tkinter",
+      "kind": "Grabación",
+      "tags": [
+        "Complementario",
+        "Interfaz Tkinter",
+        "Video YouTube",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "VIDEO",
+      "url": "https://www.youtube.com/watch?v=pGXOu4nhV4c",
+      "originalName": "Curso de Tkinter desde cero",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Público",
+      "review": "Video abierto; transcripción disponible en plataforma pero no preservada",
+      "sourcePath": "Módulo Programador / Programación I / Tkinter",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/url/view.php?id=120705",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1_-8J29ahj2cHIpIp_qHEGT4RKL-bfPSB1To_1_yYlUU",
+      "title": "Manual Tkinter. Elementos",
+      "description": "Manual de widgets y elementos. Relación con el proyecto: Interfaz Tkinter.",
+      "unit": "Tkinter",
+      "kind": "Complementario",
+      "tags": [
+        "Complementario",
+        "Interfaz Tkinter",
+        "Google Doc",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "HTML",
+      "url": "https://docs.google.com/document/d/1_-8J29ahj2cHIpIp_qHEGT4RKL-bfPSB1To_1_yYlUU/edit",
+      "originalName": "Manual Tkinter. Elementos",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados en Drive",
+      "sourcePath": "Módulo Programador / Programación I / Tkinter",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=121055",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1rWseXXTyjJOjQgviNmR5ZMmzmUh8TO-G",
+      "title": "Manual de eventos Tkinter",
+      "description": "Eventos y programación de interfaz. Relación con el proyecto: Interfaz y validaciones.",
+      "unit": "Tkinter",
+      "kind": "Complementario",
+      "tags": [
+        "Complementario",
+        "Interfaz y validaciones",
+        "DOCX",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1rWseXXTyjJOjQgviNmR5ZMmzmUh8TO-G/edit",
+      "originalName": "Manual de eventos Tkinter",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados en Drive",
+      "sourcePath": "Módulo Programador / Programación I / Tkinter",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=121055",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1G2Wu9Cj0xozGsq7B3UIGX4WLzeXo0Dvs",
+      "title": "Manual CRUD y bases de datos",
+      "description": "CRUD con Tkinter y persistencia. Relación con el proyecto: Integración y CRUD.",
+      "unit": "Tkinter y datos",
+      "kind": "Complementario",
+      "tags": [
+        "Complementario",
+        "Integración y CRUD",
+        "DOCX",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1G2Wu9Cj0xozGsq7B3UIGX4WLzeXo0Dvs/edit",
+      "originalName": "Manual CRUD y bases de datos",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados en Drive",
+      "sourcePath": "Módulo Programador / Programación I / Tkinter y datos",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=121055",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "moodle-pi-rep-001",
+      "title": "Python desde cero",
+      "description": "Ejercicios de programación secuencial y POO. Relación con el proyecto: Práctica.",
+      "unit": "Ejercicios",
+      "kind": "Repositorio",
+      "tags": [
+        "Complementario",
+        "Práctica",
+        "Repositorio GitHub",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "LINK",
+      "url": "https://github.com/EnzoEduardoBruno/Python-Desde-Cero",
+      "originalName": "Python desde cero",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Público",
+      "review": "Destino identificado; verificación técnica profunda pendiente",
+      "sourcePath": "Módulo Programador / Programación I / Ejercicios",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=120708",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "moodle-pi-rep-002",
+      "title": "CRUD Python-MySQL",
+      "description": "Ejemplo docente para COM A y B.1. Relación con el proyecto: Integración E6/final.",
+      "unit": "CRUD",
+      "kind": "Repositorio",
+      "tags": [
+        "Complementario",
+        "Integración E6/final",
+        "Repositorio GitHub",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "LINK",
+      "url": "https://github.com/RamiroCeballes/CRUD-python-mysql",
+      "originalName": "CRUD Python-MySQL",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Público",
+      "review": "Destino identificado; verificación técnica profunda pendiente",
+      "sourcePath": "Módulo Programador / Programación I / CRUD",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=122236",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1EDxa-6VLLIiLemf_3WK3sQ6ebi1meZX8",
+      "title": "Bases de Datos ISPC",
+      "description": "Introducción obligatoria a bases de datos. Relación con el proyecto: Modelo de datos.",
+      "unit": "Eje 1",
+      "kind": "Apunte",
+      "tags": [
+        "Obligatorio",
+        "Modelo de datos",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1EDxa-6VLLIiLemf_3WK3sQ6ebi1meZX8/view",
+      "originalName": "Bases de Datos ISPC",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados en Drive",
+      "sourcePath": "Módulo Programador / Base de Datos / Eje 1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111119",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1QFs5P1tR3bAhPuhTzf7DKmIm7Ls3LCqJ",
+      "title": "Eje 1 BBDD - Parte 3",
+      "description": "Material obligatorio del Eje 1. Relación con el proyecto: Fundamentos.",
+      "unit": "Eje 1",
+      "kind": "Apunte",
+      "tags": [
+        "Obligatorio",
+        "Fundamentos",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1QFs5P1tR3bAhPuhTzf7DKmIm7Ls3LCqJ/view",
+      "originalName": "Eje 1 BBDD - Parte 3",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados en Drive",
+      "sourcePath": "Módulo Programador / Base de Datos / Eje 1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111119",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1Y-uIO8iU4kHWUSkhglvzRnWWfCq0-CQZ",
+      "title": "Eje 1 BBDD - Parte 4",
+      "description": "Material obligatorio del Eje 1. Relación con el proyecto: Fundamentos.",
+      "unit": "Eje 1",
+      "kind": "Apunte",
+      "tags": [
+        "Obligatorio",
+        "Fundamentos",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1Y-uIO8iU4kHWUSkhglvzRnWWfCq0-CQZ/view",
+      "originalName": "Eje 1 BBDD - Parte 4",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados en Drive",
+      "sourcePath": "Módulo Programador / Base de Datos / Eje 1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111119",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "moodle-bd-c01-001",
+      "title": "Presentación Clase 1",
+      "description": "El destino real del vínculo no pudo abrirse. Relación con el proyecto: Fundamentos.",
+      "unit": "Clase 1",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "Fundamentos",
+        "Enlace Drive",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "LINK",
+      "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=116459",
+      "originalName": "Presentación Clase 1",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "No determinado",
+      "review": "Inaccesible/archivo no encontrado El texto visible apunta a BD-E1-001, pero el href real es distinto Se enlaza la página de Moodle porque el archivo directo relevado no estaba disponible.",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 1"
+    },
+    {
+      "id": "moodle-bd-c02-001",
+      "title": "Presentación Clase 2",
+      "description": "Presentación de la clase 2. Relación con el proyecto: Fundamentos.",
+      "unit": "Clase 2",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "Fundamentos",
+        "Enlace Drive",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "LINK",
+      "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=116534",
+      "originalName": "Presentación Clase 2",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "No determinado",
+      "review": "Inaccesible/archivo no encontrado Se enlaza la página de Moodle porque el archivo directo relevado no estaba disponible.",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 2"
+    },
+    {
+      "id": "moodle-bd-c02-002",
+      "title": "Resolución Actividad 2",
+      "description": "Resolución propuesta. Relación con el proyecto: Práctica.",
+      "unit": "Clase 2",
+      "kind": "Práctica",
+      "tags": [
+        "Complementario",
+        "Práctica",
+        "Enlace Drive",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "LINK",
+      "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=116554",
+      "originalName": "Resolución Actividad 2",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "No determinado",
+      "review": "Inaccesible/archivo no encontrado Se enlaza la página de Moodle porque el archivo directo relevado no estaba disponible.",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 2"
+    },
+    {
+      "id": "19CGDSt9MDQ2vul4ZqFGAcQzELVGeGe-R",
+      "title": "Base de datos - clase 3",
+      "description": "Presentación de clase. Relación con el proyecto: Fundamentos.",
+      "unit": "Clase 3",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "Fundamentos",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/19CGDSt9MDQ2vul4ZqFGAcQzELVGeGe-R/view",
+      "originalName": "Base de datos - clase 3",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 3",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=116949",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1Ts3ow66N7hfYrTDhhcCaHfwTyhVLW-o6",
+      "title": "Actividad clase 3",
+      "description": "Actividad práctica. Relación con el proyecto: Práctica.",
+      "unit": "Clase 3",
+      "kind": "Práctica",
+      "tags": [
+        "Complementario",
+        "Práctica",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1Ts3ow66N7hfYrTDhhcCaHfwTyhVLW-o6/view",
+      "originalName": "Actividad clase 3",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 3",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=116950",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1h3OgK37uclX4J2Pg7b7Vvasevs7-UPkY",
+      "title": "Base de Datos - clase 4",
+      "description": "Presentación de clase. Relación con el proyecto: Fundamentos.",
+      "unit": "Clase 4",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "Fundamentos",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1h3OgK37uclX4J2Pg7b7Vvasevs7-UPkY/view",
+      "originalName": "Base de Datos - clase 4",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 4",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=116951",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1ihSAtvjugNXydgHiKhdxOonNkjYmXTZU",
+      "title": "Actividad clase 4",
+      "description": "Actividad práctica. Relación con el proyecto: Práctica.",
+      "unit": "Clase 4",
+      "kind": "Práctica",
+      "tags": [
+        "Complementario",
+        "Práctica",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1ihSAtvjugNXydgHiKhdxOonNkjYmXTZU/view",
+      "originalName": "Actividad clase 4",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 4",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=116952",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1GL1jt5clwtfpK9eX7wNX9xAJaNM01dib",
+      "title": "Eje 1 - Parte 4",
+      "description": "Material asincrónico. Relación con el proyecto: Fundamentos.",
+      "unit": "Clase 5",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "Fundamentos",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1GL1jt5clwtfpK9eX7wNX9xAJaNM01dib/view",
+      "originalName": "Eje 1 - Parte 4",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 5",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=120035",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1k8Gf6MR7H8WJHPVbZCtdfvXza_gOUABx",
+      "title": "Actividad clase 5",
+      "description": "Actividad asincrónica. Relación con el proyecto: Práctica.",
+      "unit": "Clase 5",
+      "kind": "Práctica",
+      "tags": [
+        "Complementario",
+        "Práctica",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1k8Gf6MR7H8WJHPVbZCtdfvXza_gOUABx/view",
+      "originalName": "Actividad clase 5",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados El texto visible contiene la URL de clase 4; el href real conduce a este archivo",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 5",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=120036",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1c8qWK_wcYSPn2g4R_2kBclLrohke0OBl",
+      "title": "Modelización de datos",
+      "description": "Material Eje 2 - Parte 1. Relación con el proyecto: ER y normalización.",
+      "unit": "Clase 6",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "ER y normalización",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1c8qWK_wcYSPn2g4R_2kBclLrohke0OBl/view",
+      "originalName": "Modelización de datos",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 6",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=120069",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1DPzShFtjOIKv8h6V3AYYjMycJ41ep6i7",
+      "title": "Base de Datos - clase 6",
+      "description": "Presentación de clase. Relación con el proyecto: ER y normalización.",
+      "unit": "Clase 6",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "ER y normalización",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1DPzShFtjOIKv8h6V3AYYjMycJ41ep6i7/view",
+      "originalName": "Base de Datos - clase 6",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados El texto visible contiene una URL de clase 4; el href real es este archivo",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 6",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=120293",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1kq5bZLhkhEhA4JiaOYza8Lt8epNgwpnw",
+      "title": "Evolución de los SGBD",
+      "description": "Material Eje 2 - Parte 2. Relación con el proyecto: SGBD.",
+      "unit": "Clase 7",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "SGBD",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1kq5bZLhkhEhA4JiaOYza8Lt8epNgwpnw/view",
+      "originalName": "Evolución de los SGBD",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados El texto visible contiene la URL de clase 6; el href real es este archivo",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 7",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=120415",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1rBiMS3hIdgsjxwN2ihblPh-lFoORcUfh",
+      "title": "Actividad clase 7",
+      "description": "Actividad asincrónica. Relación con el proyecto: Práctica.",
+      "unit": "Clase 7",
+      "kind": "Práctica",
+      "tags": [
+        "Complementario",
+        "Práctica",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1rBiMS3hIdgsjxwN2ihblPh-lFoORcUfh/view",
+      "originalName": "Actividad clase 7",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 7",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=120416",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1lv1443dtsOn6r1lleaDUOjXoeUM4Jj7o",
+      "title": "Relevamiento de requerimientos",
+      "description": "Material Eje 2 - Parte 3. Relación con el proyecto: Análisis ABP.",
+      "unit": "Clase 8",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "Análisis ABP",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1lv1443dtsOn6r1lleaDUOjXoeUM4Jj7o/view",
+      "originalName": "Relevamiento de requerimientos",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 8",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=120678",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "12QOkySug-Ay5PehVd7Q4iAF1mFDIx9yH",
+      "title": "Actividad clase 8",
+      "description": "Actividad asincrónica. Relación con el proyecto: Práctica.",
+      "unit": "Clase 8",
+      "kind": "Práctica",
+      "tags": [
+        "Complementario",
+        "Práctica",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/12QOkySug-Ay5PehVd7Q4iAF1mFDIx9yH/view",
+      "originalName": "Actividad clase 8",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 8",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=120842",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1GLOwwVZbXeGiUgH8foevZAZAwPlnMhCF",
+      "title": "Diagramas Entidad-Relación",
+      "description": "Material Eje 2 - Parte 4. Relación con el proyecto: ER del ABP.",
+      "unit": "Clase 9",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "ER del ABP",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1GLOwwVZbXeGiUgH8foevZAZAwPlnMhCF/view",
+      "originalName": "Diagramas Entidad-Relación",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 9",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=120679",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1sPKl7IUwZBljVbEfxvJqrgYwlBrlKl7g",
+      "title": "Base de Datos - clase 9",
+      "description": "Presentación de clase. Relación con el proyecto: ER del ABP.",
+      "unit": "Clase 9",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "ER del ABP",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1sPKl7IUwZBljVbEfxvJqrgYwlBrlKl7g/view",
+      "originalName": "Base de Datos - clase 9",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 9",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=120841",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1GO1EnotuPw9KWqVu7KWbgepp3dSj9bL9",
+      "title": "Actividad clase 9",
+      "description": "Actividad práctica. Relación con el proyecto: Práctica.",
+      "unit": "Clase 9",
+      "kind": "Práctica",
+      "tags": [
+        "Complementario",
+        "Práctica",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1GO1EnotuPw9KWqVu7KWbgepp3dSj9bL9/view",
+      "originalName": "Actividad clase 9",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 9",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=120862",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1kcN8tP0_yifsW5xchwj-q-XyZhnxdYMx",
+      "title": "Base de Datos - clase 10",
+      "description": "Presentación de clase. Relación con el proyecto: Modelo relacional.",
+      "unit": "Clase 10",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "Modelo relacional",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1kcN8tP0_yifsW5xchwj-q-XyZhnxdYMx/view",
+      "originalName": "Base de Datos - clase 10",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 10",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=121432",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1VdpF9_soSGLP4UswztTVIrymF-MCQik_",
+      "title": "Base de Datos - clase 11",
+      "description": "Presentación de clase. Relación con el proyecto: Modelo relacional.",
+      "unit": "Clase 11",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "Modelo relacional",
+        "PPTX",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PPTX",
+      "url": "https://docs.google.com/presentation/d/1VdpF9_soSGLP4UswztTVIrymF-MCQik_/edit",
+      "originalName": "Base de Datos - clase 11",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 11",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=121571",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1Px_eYBZ6nDVsxD1yeZJH5Wq4ZBLYLIcZ",
+      "title": "UML para modelado",
+      "description": "Material Eje 2 - Parte 5. Relación con el proyecto: Modelado.",
+      "unit": "Clase 12",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "Modelado",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1Px_eYBZ6nDVsxD1yeZJH5Wq4ZBLYLIcZ/view",
+      "originalName": "UML para modelado",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 12",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=121655",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1tNgJ03M38WZQPhhlc4d0az5I06HuNPsn",
+      "title": "Actividades clase 12",
+      "description": "Actividad asincrónica. Relación con el proyecto: Práctica.",
+      "unit": "Clase 12",
+      "kind": "Práctica",
+      "tags": [
+        "Complementario",
+        "Práctica",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1tNgJ03M38WZQPhhlc4d0az5I06HuNPsn/view",
+      "originalName": "Actividades clase 12",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 12",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=121658",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "111-7LpR0L-NnKskYEXdHBjYx-7RXs4GW",
+      "title": "Base de datos - clase 13",
+      "description": "Presentación de clase. Relación con el proyecto: SQL.",
+      "unit": "Clase 13",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "SQL",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/111-7LpR0L-NnKskYEXdHBjYx-7RXs4GW/view",
+      "originalName": "Base de datos - clase 13",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 13",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=121829",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "19RG2asD2WIloPGY8MnKwdyiLO0pjBfmZ",
+      "title": "Base de datos - clase 14",
+      "description": "Presentación de clase. Relación con el proyecto: SQL.",
+      "unit": "Clase 14",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "SQL",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/19RG2asD2WIloPGY8MnKwdyiLO0pjBfmZ/view",
+      "originalName": "Base de datos - clase 14",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 14",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=122000",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1VTYSCv-MsnvD7Bfx1C0obmLqShoMieQe",
+      "title": "Base de datos - clase 15 MySQL",
+      "description": "Presentación de clase. Relación con el proyecto: MySQL/E6.",
+      "unit": "Clase 15",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "MySQL/E6",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1VTYSCv-MsnvD7Bfx1C0obmLqShoMieQe/view",
+      "originalName": "Base de datos - clase 15 MySQL",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 15",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=122027",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1zP6g9ywn_fAIKa8lqUqBkD8_VQBcAiid",
+      "title": "Ejercicios SQL SQLite y MySQL",
+      "description": "Ejercicios para estudiantes. Relación con el proyecto: Consultas/E6 y final.",
+      "unit": "SQL",
+      "kind": "Práctica",
+      "tags": [
+        "Complementario",
+        "Consultas/E6 y final",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1zP6g9ywn_fAIKa8lqUqBkD8_VQBcAiid/view",
+      "originalName": "Ejercicios SQL SQLite y MySQL",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / SQL",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=122023",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "moodle-bd-c16-001",
+      "title": "Clase 16 asincrónica",
+      "description": "Subconsultas, vistas, procedimientos almacenados e instalación MySQL. Relación con el proyecto: MySQL, consultas y final.",
+      "unit": "Clase 16",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "MySQL, consultas y final",
+        "Contenido Moodle preservado",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "HTML",
+      "url": "https://www.youtube.com/watch?v=yvuBJkSmiFM",
+      "originalName": "Clase 16 asincrónica",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Moodle para página; video público",
+      "review": "Texto completo preservado; 6 imágenes no descargadas; video abierto sin transcripción",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 16",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=121999",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1EO_OlPLy2l7k7ZEbvW_gprNkNzUR-zcr",
+      "title": "Base de Datos - clase 16",
+      "description": "Presentación de clase. Relación con el proyecto: MySQL/E6.",
+      "unit": "Clase 16",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "MySQL/E6",
+        "PDF",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1EO_OlPLy2l7k7ZEbvW_gprNkNzUR-zcr/view",
+      "originalName": "Base de Datos - clase 16",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 16",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=122200",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "10_OzK9xkfHt81rhvDET514rIdRLsgALd",
+      "title": "Repaso con resoluciones",
+      "description": "Presentación con códigos y resoluciones. Relación con el proyecto: Repaso final.",
+      "unit": "Clase 17",
+      "kind": "Clase",
+      "tags": [
+        "Complementario",
+        "Repaso final",
+        "PPTX",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PPTX",
+      "url": "https://docs.google.com/presentation/d/10_OzK9xkfHt81rhvDET514rIdRLsgALd/edit",
+      "originalName": "Repaso con resoluciones",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos verificados",
+      "sourcePath": "Módulo Programador / Base de Datos / Clase 17",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=122201",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1rTi7cimygdSAW04XxfpcKz5woGjZvwVb",
+      "title": "Grabación 06/04/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1rTi7cimygdSAW04XxfpcKz5woGjZvwVb/view",
+      "originalName": "Grabación 06/04/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1k4XAMGJUwBs-JwEk5M-fM54CE6zDF7eU",
+      "title": "Grabación 13/04/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1k4XAMGJUwBs-JwEk5M-fM54CE6zDF7eU/view",
+      "originalName": "Grabación 13/04/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1jtNQPcVMy0fVej-B4k4vgOk7rCwWuxRb",
+      "title": "Grabación 20/04/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1jtNQPcVMy0fVej-B4k4vgOk7rCwWuxRb/view",
+      "originalName": "Grabación 20/04/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1hsfccHObqpj0WRxCXtXKDRy6wUxWgyNL",
+      "title": "Grabación 27/04/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1hsfccHObqpj0WRxCXtXKDRy6wUxWgyNL/view",
+      "originalName": "Grabación 27/04/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1_f_SEIli-kmBFimtz0CO23GINd8NZMEF",
+      "title": "Grabación 04/05/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1_f_SEIli-kmBFimtz0CO23GINd8NZMEF/view",
+      "originalName": "Grabación 04/05/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1YSSW0MnVAEFnbRul-yJUpu4ZCsuYlXmF",
+      "title": "Grabación 11/05/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1YSSW0MnVAEFnbRul-yJUpu4ZCsuYlXmF/view",
+      "originalName": "Grabación 11/05/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1exBdjiXKqRJ9OVxKlF0fxpj6InJg5VLv",
+      "title": "Grabación 18/05/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1exBdjiXKqRJ9OVxKlF0fxpj6InJg5VLv/view",
+      "originalName": "Grabación 18/05/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1eVmXSjOOp3pALGsfj0qD5dFz7-t-X9gX",
+      "title": "Grabación 01/06/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1eVmXSjOOp3pALGsfj0qD5dFz7-t-X9gX/view",
+      "originalName": "Grabación 01/06/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1b7jsnUL0JkvHWdUZeTzOD0Aznfco0PAe",
+      "title": "Grabación 03/08/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1b7jsnUL0JkvHWdUZeTzOD0Aznfco0PAe/view",
+      "originalName": "Grabación 03/08/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1HFG078mqguQEh_rlfTJ9CYlgkN-E4poU",
+      "title": "Grabación 10/08/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1HFG078mqguQEh_rlfTJ9CYlgkN-E4poU/view",
+      "originalName": "Grabación 10/08/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1e1iFpZumxu447JuySvo5vQxOYsTAgbnY",
+      "title": "Grabación 24/08/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1e1iFpZumxu447JuySvo5vQxOYsTAgbnY/view",
+      "originalName": "Grabación 24/08/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1N9GXVyg0qg2EpufRTZF1VG0CXlm1ccQ0",
+      "title": "Grabación 31/08/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1N9GXVyg0qg2EpufRTZF1VG0CXlm1ccQ0/view",
+      "originalName": "Grabación 31/08/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1jOWrXvAIhCP8aQxQyN-WFMG8AueG7Kuv",
+      "title": "Grabación 07/09/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1jOWrXvAIhCP8aQxQyN-WFMG8AueG7Kuv/view",
+      "originalName": "Grabación 07/09/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1PJw4FdZrvGZVP0o5mhYTllx7Jp9rwCYb",
+      "title": "Grabación 14/09/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1PJw4FdZrvGZVP0o5mhYTllx7Jp9rwCYb/view",
+      "originalName": "Grabación 14/09/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "17_W0COV7Qd4eaY13SMBv6MH3zcIphC_2",
+      "title": "Grabación 21/09/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/17_W0COV7Qd4eaY13SMBv6MH3zcIphC_2/view",
+      "originalName": "Grabación 21/09/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1CVkD0UrwiCx2sD0xpNM3KOMNMgT7cynC",
+      "title": "Grabación 28/09/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1CVkD0UrwiCx2sD0xpNM3KOMNMgT7cynC/view",
+      "originalName": "Grabación 28/09/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1CZ6-xRVUUqayCvh2E0nb-CEg0xn2tJtY",
+      "title": "Grabación 05/10/2026",
+      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
+      "unit": "Encuentros sincrónicos B.1",
+      "kind": "Grabación",
+      "tags": [
+        "Obligatoriedad no determinada",
+        "Acompañamiento general",
+        "Video MP4",
+        "Módulo Programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1CZ6-xRVUUqayCvh2E0nb-CEg0xn2tJtY/view",
+      "originalName": "Grabación 05/10/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-16",
+      "access": "Requiere acceso externo o no determinado",
+      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
+      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
+      "alternateLinks": [
+        {
+          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
+          "label": "Página en Moodle",
+          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        }
+      ]
+    },
+    {
+      "id": "1MsQcLFcnRr_vKJVtkO8EEPnTsBqJJ5NU",
+      "title": "Clase 7 · 08/10/2026",
+      "description": "Organizaciones y sociedad, responsabilidad social empresaria, Objetivos de Desarrollo del Milenio, greenwashing y tecnologías para participar, colaborar y conservar conocimiento.",
+      "unit": "Unidad 3 · Organizaciones y responsabilidad social",
+      "kind": "Clase",
+      "tags": [
+        "clase",
+        "presentación",
+        "Ana Rocco",
+        "Competencias Comunicacionales II"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1MsQcLFcnRr_vKJVtkO8EEPnTsBqJJ5NU/view?usp=drivesdk",
+      "originalName": "Clase 7 - 08_10_2026.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-10-22",
+      "access": "Material de la carpeta docente compartida de Competencias Comunicacionales II. La disponibilidad depende de sus permisos en Drive.",
+      "review": "Contenido textual revisado. Material general de clase; no contiene una producción personal o grupal del estudiante.",
+      "sourcePath": "Competencias Comunicacionales II / Material de clase / Prof. Ana Rocco"
+    },
+    {
+      "id": "1irJ8-Qm5aCgroXrC39Jqikw38G5vhwA6",
+      "title": "Clase 6 · 01/10/2026",
+      "description": "Credibilidad de la identidad profesional, uso de LinkedIn, GitHub y redes, y comunicación dentro de organizaciones.",
+      "unit": "Unidades 2 y 3 · Identidad y organizaciones",
+      "kind": "Clase",
+      "tags": [
+        "clase",
+        "presentación",
+        "Ana Rocco",
+        "Competencias Comunicacionales II"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1irJ8-Qm5aCgroXrC39Jqikw38G5vhwA6/view?usp=drivesdk",
+      "originalName": "Clase 6 - 01_10_2026.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-10-22",
+      "access": "Material de la carpeta docente compartida de Competencias Comunicacionales II. La disponibilidad depende de sus permisos en Drive.",
+      "review": "Contenido textual revisado. Material general de clase; no contiene una producción personal o grupal del estudiante.",
+      "sourcePath": "Competencias Comunicacionales II / Material de clase / Prof. Ana Rocco"
+    },
+    {
+      "id": "1I42Q5ApFkTElENv_i279MY3LsMClf97a",
+      "title": "Clase 5 · 10/09/2026",
+      "description": "Huella, identidad y reputación digital profesional; articulación entre perfiles, repositorios, producciones y participación en comunidades.",
+      "unit": "Unidad 2 · Identidad profesional",
+      "kind": "Clase",
+      "tags": [
+        "clase",
+        "presentación",
+        "Ana Rocco",
+        "Competencias Comunicacionales II"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1I42Q5ApFkTElENv_i279MY3LsMClf97a/view?usp=drivesdk",
+      "originalName": "Clase 5 - 10_09_2026.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-10-22",
+      "access": "Material de la carpeta docente compartida de Competencias Comunicacionales II. La disponibilidad depende de sus permisos en Drive.",
+      "review": "Contenido textual revisado. Material general de clase; no contiene una producción personal o grupal del estudiante.",
+      "sourcePath": "Competencias Comunicacionales II / Material de clase / Prof. Ana Rocco"
+    },
+    {
+      "id": "1iXrDDMYQsogx3yqIMdUtKQ1OKOQlOqG9",
+      "title": "Clase 4 · 03/09/2026",
+      "description": "Construcción y circulación de relatos digitales mediante multimedia, hipermedia, transmedia y crossmedia, con análisis de fuentes y recorridos de información.",
+      "unit": "Unidades 1 y 2 · Narrativas digitales",
+      "kind": "Clase",
+      "tags": [
+        "clase",
+        "presentación",
+        "Ana Rocco",
+        "Competencias Comunicacionales II"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1iXrDDMYQsogx3yqIMdUtKQ1OKOQlOqG9/view?usp=drivesdk",
+      "originalName": "Clase 4 - 03_09_2026.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-10-22",
+      "access": "Material de la carpeta docente compartida de Competencias Comunicacionales II. La disponibilidad depende de sus permisos en Drive.",
+      "review": "Contenido textual revisado. Material general de clase; no contiene una producción personal o grupal del estudiante.",
+      "sourcePath": "Competencias Comunicacionales II / Material de clase / Prof. Ana Rocco"
+    },
+    {
+      "id": "1QE5fTMTyr0XVAlrUDR5RCjIq1zQjySi7",
+      "title": "Clase 3 · 27/08/2026",
+      "description": "Transformaciones del mercado laboral, competencias futuras y dimensiones de la brecha digital, con atención a las desigualdades de acceso, uso y beneficios.",
+      "unit": "Unidad 1 · Trabajo y brecha digital",
+      "kind": "Clase",
+      "tags": [
+        "clase",
+        "presentación",
+        "Ana Rocco",
+        "Competencias Comunicacionales II"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1QE5fTMTyr0XVAlrUDR5RCjIq1zQjySi7/view?usp=drivesdk",
+      "originalName": "Clase 3 - 27_08_2026.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-10-22",
+      "access": "Material de la carpeta docente compartida de Competencias Comunicacionales II. La disponibilidad depende de sus permisos en Drive.",
+      "review": "Contenido textual revisado. Material general de clase; no contiene una producción personal o grupal del estudiante.",
+      "sourcePath": "Competencias Comunicacionales II / Material de clase / Prof. Ana Rocco"
+    },
+    {
+      "id": "1lKS4Aplja42cH-qUJ398qwASaZ92c5Jm",
+      "title": "Clase 2 · 20/08/2026",
+      "description": "Nuevas Tecnologías de la Información y la Comunicación, cultura y lenguajes de plataforma, mediación algorítmica y transformaciones comunicacionales.",
+      "unit": "Unidad 1 · Comunicación y tecnologías",
+      "kind": "Clase",
+      "tags": [
+        "clase",
+        "presentación",
+        "Ana Rocco",
+        "Competencias Comunicacionales II"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1lKS4Aplja42cH-qUJ398qwASaZ92c5Jm/view?usp=drivesdk",
+      "originalName": "Clase 2 - 20_08_2026.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-10-22",
+      "access": "Material de la carpeta docente compartida de Competencias Comunicacionales II. La disponibilidad depende de sus permisos en Drive.",
+      "review": "Contenido textual revisado. Material general de clase; no contiene una producción personal o grupal del estudiante.",
+      "sourcePath": "Competencias Comunicacionales II / Material de clase / Prof. Ana Rocco"
+    },
+    {
+      "id": "1FupWe4ypb13azh1ruuqt4liCW8f-HHFb",
+      "title": "Clase 1 · 13/08/2026",
+      "description": "Comunicación en el desarrollo de software, objetivos de la materia, transformaciones históricas de la comunicación y presentación del Proyecto NEXO.",
+      "unit": "Apertura",
+      "kind": "Clase",
+      "tags": [
+        "clase",
+        "presentación",
+        "Ana Rocco",
+        "Competencias Comunicacionales II"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1FupWe4ypb13azh1ruuqt4liCW8f-HHFb/view?usp=drivesdk",
+      "originalName": "Clase 1 - 13_08_2026.pdf",
+      "edition": "2026",
+      "reviewedAt": "2026-10-22",
+      "access": "Material de la carpeta docente compartida de Competencias Comunicacionales II. La disponibilidad depende de sus permisos en Drive.",
+      "review": "Contenido textual revisado. Material general de clase; no contiene una producción personal o grupal del estudiante.",
+      "sourcePath": "Competencias Comunicacionales II / Material de clase / Prof. Ana Rocco"
     }
   ],
   "events": [
@@ -3093,9 +5304,9 @@
     "commission": "B1",
     "driveUrl": "https://drive.google.com/drive/folders/1SEoZF34NoR8Pd94RRTO3wcoEzgYSTSoZ",
     "reviewedFiles": 92,
-    "includedFiles": 106,
+    "includedFiles": 175,
     "pendingFiles": 4,
-    "note": "Se conservan las comisiones indicadas por cada fuente. La colección B1 también contiene materiales generales de otras comisiones. El inventario de 92 archivos corresponde al Drive revisado el 17/09. La planilla revisada el 19/09 aporta cuatro fichas nuevas y trece enlaces a materiales ya catalogados. La revisión de Sistemas del 19/09 incorpora once fichas y cuatro enlaces alternativos; no modifica el inventario histórico del Drive. Comunicación II incorpora una ficha del Proyecto NEXO con enlace alternativo y tres fechas del cronograma. Sistemas: carpeta docente priorizada el 27/09, dos fichas nuevas y nueve complementarios anteriores preservados."
+    "note": "Catálogo acumulativo de materiales generales. La revisión del Módulo Programador del 16/10 incorpora fuentes verificadas de Programación I, Base de Datos y 17 grabaciones de B.1; los avisos de foro se mantienen fuera de la biblioteca y tres vínculos directos caídos se representan mediante su página de Moodle. Comunicación II incorpora siete clases de la carpeta docente revisada el 22/10. Los trabajos personales o grupales permanecen excluidos."
   },
   "schedules": [
     {

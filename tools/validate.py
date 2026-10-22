@@ -8,13 +8,16 @@ for r in data['resources']:
  assert set(r['subjects'])<=ss and r['subjects']
  assert all(r.get(k) for k in ['title','description','unit','kind','originalName','reviewedAt'])
  u=urllib.parse.urlparse(r['url'])
- assert u.scheme=='https' and u.hostname in ['drive.google.com','docs.google.com']
- assert '/d/'+r['id']+'/' in u.path
- assert r['format'] in ['PDF','DOCX','PPTX','HTML']
+ assert u.scheme=='https' and u.hostname in ['drive.google.com','docs.google.com','acceso.ispc.edu.ar','www.youtube.com','youtube.com','github.com']
+ if u.hostname in ['drive.google.com','docs.google.com']:
+  assert '/d/'+r['id']+'/' in u.path
+ assert r['format'] in ['PDF','DOCX','PPTX','HTML','VIDEO','LINK']
  for a in r.get('alternateLinks',[]):
   u=urllib.parse.urlparse(a['url'])
-  assert u.scheme=='https' and u.hostname in ['drive.google.com','docs.google.com']
-  assert re.search(r'/d/[A-Za-z0-9_-]+/',u.path) and a['label'] and a['note']
+  assert u.scheme=='https' and u.hostname in ['drive.google.com','docs.google.com','acceso.ispc.edu.ar','www.youtube.com','youtube.com','github.com']
+  assert a['label'] and a['note']
+  if u.hostname in ['drive.google.com','docs.google.com']:
+   assert re.search(r'/d/[A-Za-z0-9_-]+/',u.path)
  datetime.date.fromisoformat(r['reviewedAt'])
 for s in data['subjects']:
  assert s['source'] is None or s['source'] in ids
@@ -44,7 +47,7 @@ for s in data.get('schedules',[]):
 assert len(schedule_ids)==len(set(schedule_ids))
 html=(root/'dist/index.html').read_text()
 for ref in re.findall(r'(?:href|src)="(\./[^"]+)"',html):
- assert (root/'dist'/ref).is_file(),ref
+ assert (root/'dist'/urllib.parse.urlparse(ref).path).is_file(),ref
 assert 'catalog.json' in (root/'dist/app.js').read_text()
 assert not any(p.suffix.lower()=='.pdf' for p in (root/'dist').rglob('*')), 'Los documentos originales no deben copiarse al sitio'
 print(f"OK: {len(ids)} recursos únicos, {len(ss)} secciones, {len(data['events'])} entradas de agenda y enlaces locales.")
@@ -52,3 +55,4 @@ print(f"OK: {len(ids)} recursos únicos, {len(ss)} secciones, {len(data['events'
 if data.get('collection',{}).get('academicYearEnd'):
  datetime.date.fromisoformat(data['collection']['academicYearEnd'])
  assert data['collection'].get('academicYearEndSource'), 'El cierre lectivo necesita fuente'
+
