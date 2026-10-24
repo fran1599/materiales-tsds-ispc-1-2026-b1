@@ -29,3 +29,12 @@ En la biblioteca general aparece un filtro de materia, combinable con búsqueda,
 Entregas ofrece Lista, Mes y Semana, con navegación anterior/siguiente, Hoy y salto a una fecha. Mes y Semana muestran todos los eventos registrados del período, incluidos los anteriores. La semana comienza el lunes; las barras abarcan las fechas inicial y final inclusive. Una fuente que indica de lunes a viernes ocupa esos cinco días, sin extenderse al fin de semana. Los períodos que cruzan semanas se continúan en barras con flechas y las coincidencias ocupan filas distintas. No se inventan horarios ni fechas de cierre.
 
 Cada barra abre un detalle con la fuente, las notas y la acción de corrección. El calendario usa CSS Grid y JavaScript nativos, sin bibliotecas externas. En pantallas pequeñas tiene desplazamiento horizontal para conservar las siete columnas y mantiene disponible la vista de lista. Las pruebas incluyen intervalos inclusivos, cruces de semana/mes/año, superposiciones y filtrado por materia.
+
+## Fechas de ABP y coloquios · 24/10/2026
+
+La sección “Fechas y entregas” distingue tres dimensiones: entregas y defensas de Aprendizaje Basado en Proyectos (ABP), coloquios promocionales y el calendario general de evidencias. Las tarjetas de ABP pueden representar una fecha confirmada, un período general o una fecha todavía pendiente de publicación.
+
+Las planillas de defensa del Módulo Programador B.1 y Arquitectura B muestran los turnos por grupo dentro de un detalle plegable. Se publican nombres de proyectos o números de grupo, no nóminas de estudiantes. Los accesos a Meet y la fuente se conservan por tarjeta. “Agregar a Calendar” aparece sólo cuando la fuente informa tanto la hora inicial como la final; no se inventa la duración de un coloquio.
+
+El cronograma institucional de coloquios de noviembre se mantiene separado de las mesas finales para estudiantes regulares y libres de diciembre. La inscripción a coloquios abre el 02/11/2026 y cierra 48 horas hábiles antes de cada horario, según la fuente institucional. Inglés I no se incorpora como evento confirmado porque el documento aclara que la fecha mostrada en SIU Guaraní es administrativa y remite a otro cronograma por comisión.
+

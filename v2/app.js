@@ -33,8 +33,26 @@ function eventHTML(e) {
  const classroom=DATA.schedules.find(s=>s.classroomUrl&&s.subjects.some(id=>e.subjects.includes(id)))?.classroomUrl;
  return `<article class="event"><div class="when">${esc(date(e.start))}${e.end&&e.end!==e.start?`<small>al ${esc(date(e.end))}</small>`:''}${e.time?`<small>${esc(e.time)} · Argentina</small>`:''}</div><div><p class="eyebrow">${esc(names(e.subjects))}</p><h3>${esc(e.title)}</h3>${e.end&&e.end!==e.start?'<span class="badge">Período de actividad</span>':''}<p>${esc(e.note)}</p><p class="meta">Fuente: ${r?link(r.url,r.title):'No identificada en el catálogo'}${r?.reviewedAt?' · Revisada '+esc(date(r.reviewedAt)):''}</p><div class="actions">${link(classroom,'Consultar aula')}${correction('event',index)}</div></div></article>`;
 }
+function singleCalendarURL(item) {
+ if(!item.start||!item.startTime||!item.endTime)return '';
+ const stamp=(time)=>new Date(`${item.start}T${time}:00-03:00`).toISOString().replace(/[-:]/g,'').replace('.000','');
+ return 'https://calendar.google.com/calendar/render?'+new URLSearchParams({action:'TEMPLATE',text:item.title,dates:stamp(item.startTime)+'/'+stamp(item.endTime),ctz:'America/Argentina/Cordoba',location:item.meetUrl||'',details:`Materia: ${names(item.subjects)}\n${item.meetUrl?'Meet: '+item.meetUrl+'\n':''}Fuente: ${resource(item.source)?.url||''}\n${item.note||''}\nConfirmá cambios posteriores en el aula virtual.`});
+}
+function importantDateHTML(item) {
+ const sources=[item.source,...(item.additionalSources||[])].map(resource).filter(Boolean);
+ const when=item.status==='pending'?'Fecha no publicada':item.end&&item.end!==item.start?`${date(item.start)} al ${date(item.end)}`:date(item.start);
+ const time=item.startTime?`${item.startTime}${item.endTime?'–'+item.endTime:''} · Argentina`:'';
+ const label={confirmed:'Fecha confirmada',period:'Período general',pending:'Pendiente de confirmación'}[item.status]||'Referencia';
+ return `<article class="important-card ${esc(item.status)}"><div class="important-when"><span>${esc(when)}</span>${time?`<small>${esc(time)}</small>`:''}</div><div><p class="eyebrow">${esc(names(item.subjects))}</p><h3>${esc(item.title)}</h3><span class="status-badge">${esc(label)}</span><p>${esc(item.note)}</p>${item.slots?.length?`<details class="slot-list"><summary>Ver turnos por grupo (${item.slots.length})</summary><ol>${item.slots.map(([slot,name])=>`<li><time>${esc(slot)}</time><span>${esc(name)}</span></li>`).join('')}</ol></details>`:''}<p class="meta">${sources.map((r,i)=>`${i?'Fuente complementaria':'Fuente'}: ${link(r.url,r.title)}`).join('<br>')}</p><div class="actions">${link(item.meetUrl,'Entrar al Meet')}${link(singleCalendarURL(item),'Agregar a Calendar')}${correction('important',item.id)}</div></div></article>`;
+}
+function importantDatesSection() {
+ const items=(DATA.importantDates||[]).filter(belongs);
+ const group=type=>items.filter(i=>i.types.includes(type)).sort((a,b)=>(a.start||'9999').localeCompare(b.start||'9999'));
+ const abp=group('abp'),colloquia=group('colloquium'),meta=DATA.importantDatesMeta||{};
+ return `<nav class="date-jump" aria-label="Tipos de fechas importantes"><button type="button" data-jump="abp-dates">Entregas y defensas de ABP</button><button type="button" data-jump="colloquium-dates">Coloquios promocionales</button><button type="button" data-jump="other-dates">Otras entregas</button></nav><section class="milestone-section" id="abp-dates"><div class="section-head"><div><p class="eyebrow">PROYECTOS INTEGRADORES</p><h2>Entregas y defensas de ABP</h2></div></div><p class="lead">Turnos confirmados, ventanas generales y datos que todavía requieren una publicación docente más precisa.</p><div class="important-grid">${abp.length?abp.map(importantDateHTML).join(''):'<p class="empty">No hay fechas de ABP registradas para esta selección.</p>'}</div></section><section class="milestone-section" id="colloquium-dates"><div class="section-head"><div><p class="eyebrow">PROMOCIÓN</p><h2>Coloquios promocionales</h2></div></div>${meta.colloquiumRegistrationOpens?`<div class="notice"><strong>Inscripciones desde ${date(meta.colloquiumRegistrationOpens)}.</strong> ${esc(meta.colloquiumRegistrationRule||'')} ${resource(meta.colloquiumSource)?link(resource(meta.colloquiumSource).url,'Abrir cronograma institucional'):''}</div>`:''}<div class="important-grid">${colloquia.length?colloquia.map(importantDateHTML).join(''):'<p class="empty">No hay coloquios registrados para esta selección.</p>'}</div></section><section class="milestone-section" id="other-dates"><div class="section-head"><div><p class="eyebrow">HOJAS DE RUTA Y CONSIGNAS</p><h2>Otras entregas y actividades</h2></div></div><p class="muted">La lista y el calendario siguientes mantienen las evidencias, recuperatorios y períodos publicados en las demás fuentes.</p></section>`;
+}
 function deliveries(limit) {
- if(!limit)return `<h2>Próximas entregas según las hojas de ruta y consignas</h2>${official()}<div class="calendar-controls"><div class="view-switch" role="group" aria-label="Vista de entregas">${[['list','Lista'],['month','Mes'],['week','Semana']].map(([value,label])=>`<button data-view="${value}" aria-pressed="${deliveryView===value}">${label}</button>`).join('')}</div></div><div id="delivery-content"></div>`;
+ if(!limit)return `<h2>Fechas académicas y próximas entregas</h2>${official()}${importantDatesSection()}<div class="calendar-controls"><div class="view-switch" role="group" aria-label="Vista de otras entregas">${[['list','Lista'],['month','Mes'],['week','Semana']].map(([value,label])=>`<button data-view="${value}" aria-pressed="${deliveryView===value}">${label}</button>`).join('')}</div></div><div id="delivery-content"></div>`;
  const events=DATA.events.filter(belongs).sort((a,b)=>a.start.localeCompare(b.start));
  const next=events.filter(e=>(e.end||e.start)>=today()), past=events.filter(e=>(e.end||e.start)<today());
  return `<div class="section-head"><h2>Próximas entregas según las hojas de ruta y consignas</h2>${limit?`<a href="${route('entregas')}">Ver todas las fechas →</a>`:''}</div><p class="muted">También se incluyen períodos de trabajo y evaluaciones indicados por las fuentes.</p>${official()}<div class="list">${next.length?next.slice(0,limit||next.length).map(eventHTML).join(''):'<p class="empty">No hay próximas fechas registradas para esta selección. Puede haber novedades en el aula: consultá los avisos docentes.</p>'}</div>${!next.length&&current.subject?`<div class="actions">${correction('subject',current.subject)}</div>`:''}${!limit&&past.length?`<details class="help"><summary>Fechas anteriores (${past.length})</summary><div class="list">${past.reverse().map(eventHTML).join('')}</div></details>`:''}`;
@@ -78,6 +96,7 @@ function renderDeliveryView(focusId) {
  if(focusId)$('#'+focusId)?.focus();
 }
 document.addEventListener('click',e=>{
+ const jump=e.target.closest('[data-jump]');if(jump){document.getElementById(jump.dataset.jump)?.scrollIntoView({behavior:'smooth',block:'start'});}
  const view=e.target.closest('[data-view]');if(view){deliveryView=view.dataset.view;renderDeliveryView();}
  const step=e.target.closest('[data-step]');if(step){calendarAnchor=step.dataset.step==='today'?today():deliveryView==='week'?addDays(calendarAnchor,Number(step.dataset.step)*7):moveMonth(calendarAnchor,Number(step.dataset.step));renderDeliveryView(step.id);}
  const event=e.target.closest('[data-event]');if(event){const item=DATA.events[Number(event.dataset.event)];$('#event-details').innerHTML=eventHTML(item);$('#event-dialog').showModal();}
@@ -122,11 +141,11 @@ function render(focus=false) {
 let issueTitle='';
 function updateIssue(){ $('#issue').href='https://github.com/fran1599/materiales-tsds-ispc-1-2026-b1/issues/new?'+new URLSearchParams({title:issueTitle,body:$('#proposal').value}); }
 function openCorrection(type,id){
- const item=type==='event'?DATA.events[Number(id)]:type==='resource'?resource(id):subject(id);
+ const item=type==='event'?DATA.events[Number(id)]:type==='resource'?resource(id):type==='important'?(DATA.importantDates||[]).find(d=>d.id===id):subject(id);
  if(!item)return;
  const source=type==='resource'?item:resource(item.source);
  issueTitle='Corrección: '+item.title;
- $('#proposal').value=`${issueTitle}\nMateria: ${type==='subject'?item.title:names(item.subjects)}\n${type==='event'?'Fecha publicada: '+item.start+(item.end!==item.start?' al '+item.end:'')+'\n':''}Fuente actual: ${source?.url||'Consultar información de la materia'}\nPágina: ${location.href}\n\nQué cambió:\n\nEnlace al aviso o fuente oficial actualizado:\n\nFecha del aviso:\n`;
+ $('#proposal').value=`${issueTitle}\nMateria: ${type==='subject'?item.title:names(item.subjects)}\n${['event','important'].includes(type)&&item.start?'Fecha publicada: '+item.start+(item.end&&item.end!==item.start?' al '+item.end:'')+'\n':''}Fuente actual: ${source?.url||'Consultar información de la materia'}\nPágina: ${location.href}\n\nQué cambió:\n\nEnlace al aviso o fuente oficial actualizado:\n\nFecha del aviso:\n`;
  $('#copy-status').textContent='';updateIssue();if($('#event-dialog').open)$('#event-dialog').close();$('#correction').showModal();
 }
 document.addEventListener('click',e=>{const b=e.target.closest('[data-correction]');if(b)openCorrection(b.dataset.correction,b.dataset.id);});

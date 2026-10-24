@@ -26,6 +26,26 @@ for e in data['events']:
  assert e['source'] in ids
  assert datetime.date.fromisoformat(e['start'])<=datetime.date.fromisoformat(e['end'])
  if e.get('time'):datetime.time.fromisoformat(e['time'])
+important_ids=[]
+for e in data.get('importantDates',[]):
+ important_ids.append(e['id'])
+ assert set(e['subjects'])<=ss and e['subjects']
+ assert e['source'] in ids
+ assert set(e['types'])<= {'abp','colloquium'} and e['types']
+ assert e['status'] in {'confirmed','period','pending'}
+ assert all(source in ids for source in e.get('additionalSources',[]))
+ if e['status']=='pending': assert not e.get('start')
+ else:
+  assert datetime.date.fromisoformat(e['start'])<=datetime.date.fromisoformat(e.get('end',e['start']))
+ if e.get('startTime'):datetime.time.fromisoformat(e['startTime'])
+ if e.get('endTime'):
+  assert e.get('startTime') and datetime.time.fromisoformat(e['startTime'])<datetime.time.fromisoformat(e['endTime'])
+ if e.get('meetUrl'):assert re.fullmatch(r'https://meet\.google\.com/[a-z]{3}-[a-z]{4}-[a-z]{3}',e['meetUrl'])
+ for slot in e.get('slots',[]): assert len(slot)==2 and all(slot)
+assert len(important_ids)==len(set(important_ids))
+if data.get('importantDatesMeta',{}).get('colloquiumRegistrationOpens'):
+ datetime.date.fromisoformat(data['importantDatesMeta']['colloquiumRegistrationOpens'])
+ assert data['importantDatesMeta']['colloquiumSource'] in ids
 for c in data['classes']:
  assert set(c['subjects'])<=ss and c['subjects']
  u=urllib.parse.urlparse(c['url'])

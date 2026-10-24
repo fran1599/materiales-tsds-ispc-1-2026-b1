@@ -17,6 +17,16 @@ context.location.hash='#materiales';run('render()');assert.equal(node('#count').
 node('#search').value='unlikely-no-match';run('renderResources()');assert.match(node('#count').textContent,/0 materiales/);
 assert.equal(run('safe("javascript:alert(1)")'),'');assert.equal(run('esc("<img>")'),'&lt;img&gt;');
 
+context.location.hash='#entregas';run('render()');
+assert.match(node('#main').innerHTML,/Entregas y defensas de ABP/);
+assert.match(node('#main').innerHTML,/Coloquios promocionales/);
+assert.match(node('#main').innerHTML,/Grupo G – libManager/);
+assert.match(node('#main').innerHTML,/Fecha no publicada/);
+assert.match(node('#main').innerHTML,/Inscripciones desde/);
+const defense=new URL(run("singleCalendarURL(DATA.importantDates.find(d=>d.id==='abp-module-day-1'))"));
+assert.equal(defense.searchParams.get('dates'),'20261026T212500Z/20261026T234000Z');
+run('openCorrection("important","abp-module-day-1")');assert.match(node('#proposal').value,/Fecha publicada: 2026-10-26/);
+
 const url=new URL(run('calendarURL(DATA.schedules[0],"programacion","2026-10-12")'));
 assert.equal(url.searchParams.get('text'),'Programación I');assert.match(url.searchParams.get('dates'),/^20261012T212000Z\/20261012T234000Z$/);
 assert.match(url.searchParams.get('recur'),/BYDAY=MO;UNTIL=20261118T025900Z/);assert.match(url.searchParams.get('details'),/Aula virtual: https:/);

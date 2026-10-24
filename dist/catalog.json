@@ -7006,6 +7006,94 @@
       "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
       "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
       "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1Q36mQyMTuU6NoIsOCKSAduzRu5ywJW6m",
+      "title": "Cronograma de coloquios promocionales · Noviembre 2026",
+      "description": "Cronograma institucional para Desarrollo de Software: fechas, horarios, comisiones, enlaces de acceso y condiciones de inscripción.",
+      "unit": "Calendario académico",
+      "kind": "Cronograma",
+      "tags": [
+        "fechas",
+        "fuente oficial"
+      ],
+      "subjects": [
+        "institucional"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1Q36mQyMTuU6NoIsOCKSAduzRu5ywJW6m/view",
+      "originalName": "Cronograma de coloquios promocionales · Noviembre 2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Fechas transcriptas desde la fuente. Confirmar avisos posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "16ovEItJ3M8Ik07-qhKlOmOgCHzo51o7Qljjq3JySprY",
+      "title": "Defensas de ABP · Módulo Programador · B.1",
+      "description": "Planilla docente con las dos jornadas y el turno asignado a cada proyecto de la Comisión B.1.",
+      "unit": "Calendario académico",
+      "kind": "Cronograma",
+      "tags": [
+        "fechas",
+        "fuente oficial"
+      ],
+      "subjects": [
+        "institucional"
+      ],
+      "format": "HTML",
+      "url": "https://docs.google.com/spreadsheets/d/16ovEItJ3M8Ik07-qhKlOmOgCHzo51o7Qljjq3JySprY/edit",
+      "originalName": "Defensas de ABP · Módulo Programador · B.1",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Fechas transcriptas desde la fuente. Confirmar avisos posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1-YEkLE1RO4Qh2IT40k22mfAcCq3NHEuceGgY1QVxExw",
+      "title": "Defensas de ABP · Arquitectura · Comisión B",
+      "description": "Planilla docente con las dos jornadas y los turnos por número de grupo.",
+      "unit": "Calendario académico",
+      "kind": "Cronograma",
+      "tags": [
+        "fechas",
+        "fuente oficial"
+      ],
+      "subjects": [
+        "institucional"
+      ],
+      "format": "HTML",
+      "url": "https://docs.google.com/spreadsheets/d/1-YEkLE1RO4Qh2IT40k22mfAcCq3NHEuceGgY1QVxExw/edit",
+      "originalName": "Defensas de ABP · Arquitectura · Comisión B",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Fechas transcriptas desde la fuente. Confirmar avisos posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1mDibn_OT-c8sZA_mfl_9urIYdPqO3L6B6zf6Y6tFkI4",
+      "title": "Planilla central de Arquitectura · Comisión B",
+      "description": "Índice docente de materiales, clases, grabaciones y accesos del ABP. Incluye la carpeta de entrega definitiva, pero no informa una fecha u hora límite.",
+      "unit": "Calendario académico",
+      "kind": "Cronograma",
+      "tags": [
+        "fechas",
+        "fuente oficial"
+      ],
+      "subjects": [
+        "institucional"
+      ],
+      "format": "HTML",
+      "url": "https://docs.google.com/spreadsheets/d/1mDibn_OT-c8sZA_mfl_9urIYdPqO3L6B6zf6Y6tFkI4/edit",
+      "originalName": "Planilla central de Arquitectura · Comisión B",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Fechas transcriptas desde la fuente. Confirmar avisos posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
     }
   ],
   "events": [
@@ -7581,6 +7669,348 @@
       "recordingsUrl": null,
       "source": "Capturas de calendario compartidas por el responsable del catálogo el 17/09/2026.",
       "note": "Comisión no visible en la captura. Se conserva el límite de repetición del calendario; no indica una clase en ese día."
+    }
+  ],
+  "importantDatesMeta": {
+    "reviewedAt": "2026-10-24",
+    "colloquiumRegistrationOpens": "2026-11-02",
+    "colloquiumRegistrationRule": "La inscripción cierra 48 horas hábiles antes del horario de cada coloquio. No se aceptan inscripciones fuera de término.",
+    "colloquiumSource": "1Q36mQyMTuU6NoIsOCKSAduzRu5ywJW6m"
+  },
+  "importantDates": [
+    {
+      "id": "abp-module-window",
+      "types": [
+        "abp"
+      ],
+      "status": "period",
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "title": "Entrega final y defensa · Ventana general",
+      "start": "2026-10-26",
+      "end": "2026-11-06",
+      "source": "1krvNUgfaBFknSCryT7d4fRRQTAlnE4A_",
+      "note": "La hoja de ruta indica estas dos semanas para la presentación escrita y la defensa oral. La planilla de defensas precisa los turnos orales, pero no una hora límite única para la entrega escrita."
+    },
+    {
+      "id": "abp-module-day-1",
+      "types": [
+        "abp"
+      ],
+      "status": "confirmed",
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "title": "Defensas de ABP · Jornada 1",
+      "start": "2026-10-26",
+      "end": "2026-10-26",
+      "startTime": "18:25",
+      "endTime": "20:40",
+      "source": "16ovEItJ3M8Ik07-qhKlOmOgCHzo51o7Qljjq3JySprY",
+      "meetUrl": "https://meet.google.com/xqz-gmfr-dhc",
+      "note": "Cada grupo dispone de 20 minutos de exposición y 10 minutos de preguntas; hay 5 minutos para el cambio de grupo.",
+      "slots": [
+        [
+          "18:25–18:55",
+          "PadelBeche"
+        ],
+        [
+          "19:00–19:30",
+          "Grupo G – libManager"
+        ],
+        [
+          "19:35–20:05",
+          "MarKa – PanStock"
+        ],
+        [
+          "20:10–20:40",
+          "InnovaCore Tech – Autocor"
+        ]
+      ]
+    },
+    {
+      "id": "abp-module-day-2",
+      "types": [
+        "abp"
+      ],
+      "status": "confirmed",
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "title": "Defensas de ABP · Jornada 2",
+      "start": "2026-11-02",
+      "end": "2026-11-02",
+      "startTime": "18:25",
+      "endTime": "20:40",
+      "source": "16ovEItJ3M8Ik07-qhKlOmOgCHzo51o7Qljjq3JySprY",
+      "meetUrl": "https://meet.google.com/xqz-gmfr-dhc",
+      "note": "Cada grupo dispone de 20 minutos de exposición y 10 minutos de preguntas; hay 5 minutos para el cambio de grupo.",
+      "slots": [
+        [
+          "18:25–18:55",
+          "Inteligencia Disfuncional"
+        ],
+        [
+          "19:00–19:30",
+          "Team4 CODE – OdontoKinesis"
+        ],
+        [
+          "19:35–20:05",
+          "LoopStack"
+        ],
+        [
+          "20:10–20:40",
+          "Bit&Fix – TecnoService"
+        ]
+      ]
+    },
+    {
+      "id": "abp-architecture-delivery",
+      "types": [
+        "abp"
+      ],
+      "status": "pending",
+      "subjects": [
+        "arquitectura"
+      ],
+      "title": "Entrega definitiva del ABP",
+      "source": "1mDibn_OT-c8sZA_mfl_9urIYdPqO3L6B6zf6Y6tFkI4",
+      "note": "La planilla docente enlaza una carpeta de entrega definitiva, pero no publica una fecha ni una hora límite. Confirmar en el aula o con la docente."
+    },
+    {
+      "id": "abp-architecture-day-1",
+      "types": [
+        "abp"
+      ],
+      "status": "confirmed",
+      "subjects": [
+        "arquitectura"
+      ],
+      "title": "Defensas de ABP · Jornada 1",
+      "start": "2026-10-27",
+      "end": "2026-10-27",
+      "startTime": "17:30",
+      "endTime": "19:51",
+      "source": "1-YEkLE1RO4Qh2IT40k22mfAcCq3NHEuceGgY1QVxExw",
+      "meetUrl": "https://meet.google.com/uhe-quos-pfv",
+      "note": "Cada grupo dispone de 15 minutos de exposición y hay 3 minutos para preparación y cambio.",
+      "slots": [
+        [
+          "17:30–17:45",
+          "Grupo 1"
+        ],
+        [
+          "17:48–18:03",
+          "Grupo 2"
+        ],
+        [
+          "18:06–18:21",
+          "Grupo 4"
+        ],
+        [
+          "18:24–18:39",
+          "Grupo 6"
+        ],
+        [
+          "18:42–18:57",
+          "Grupo 7"
+        ],
+        [
+          "19:00–19:15",
+          "Grupo 8"
+        ],
+        [
+          "19:18–19:33",
+          "Grupo 10"
+        ],
+        [
+          "19:36–19:51",
+          "Grupo 12"
+        ]
+      ]
+    },
+    {
+      "id": "abp-architecture-day-2",
+      "types": [
+        "abp"
+      ],
+      "status": "confirmed",
+      "subjects": [
+        "arquitectura"
+      ],
+      "title": "Defensas de ABP · Jornada 2",
+      "start": "2026-11-03",
+      "end": "2026-11-03",
+      "startTime": "18:06",
+      "endTime": "19:51",
+      "source": "1-YEkLE1RO4Qh2IT40k22mfAcCq3NHEuceGgY1QVxExw",
+      "meetUrl": "https://meet.google.com/uhe-quos-pfv",
+      "note": "Cada grupo dispone de 15 minutos de exposición y hay 3 minutos para preparación y cambio. La fuente registra una modificación horaria por razones laborales de un estudiante.",
+      "slots": [
+        [
+          "18:06–18:21",
+          "Grupo 5"
+        ],
+        [
+          "18:24–18:39",
+          "Grupo 9"
+        ],
+        [
+          "18:42–18:57",
+          "Grupo 11"
+        ],
+        [
+          "19:00–19:15",
+          "Grupo 13"
+        ],
+        [
+          "19:18–19:33",
+          "Grupo 3"
+        ],
+        [
+          "19:36–19:51",
+          "Grupo 14"
+        ]
+      ]
+    },
+    {
+      "id": "abp-math-window",
+      "types": [
+        "abp"
+      ],
+      "status": "period",
+      "subjects": [
+        "matematica"
+      ],
+      "title": "Presentación escrita y defensa oral",
+      "start": "2026-10-26",
+      "end": "2026-11-06",
+      "source": "19LFEas658rH35vuB86PUoqzh05a8gBQN",
+      "note": "La hoja de ruta indica una ventana de dos semanas. No se encontró una planilla con día, hora o turnos por grupo."
+    },
+    {
+      "id": "abp-systems-written",
+      "types": [
+        "abp"
+      ],
+      "status": "pending",
+      "subjects": [
+        "sistemas"
+      ],
+      "title": "Entrega del informe del ABP · TechSolutions",
+      "source": "1ztIYTuG_PacPI0yOtH1Kxh2-hy18TdK6",
+      "note": "La consigna indica entrega en la semana 4 y defensa en el coloquio, pero no publica un día ni una hora límite para el informe escrito."
+    },
+    {
+      "id": "colloquium-cc2",
+      "types": [
+        "colloquium"
+      ],
+      "status": "confirmed",
+      "subjects": [
+        "comunicacion2"
+      ],
+      "title": "Coloquio promocional · Comisión B",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "startTime": "19:40",
+      "source": "1Q36mQyMTuU6NoIsOCKSAduzRu5ywJW6m",
+      "meetUrl": "https://meet.google.com/vmn-tqct-ytc",
+      "note": "Inscripción por SIU Guaraní desde el 2 de noviembre y hasta 48 horas hábiles antes del coloquio."
+    },
+    {
+      "id": "colloquium-module",
+      "types": [
+        "colloquium"
+      ],
+      "status": "confirmed",
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "title": "Coloquio promocional · Módulo Programador · B.1",
+      "start": "2026-11-16",
+      "end": "2026-11-16",
+      "startTime": "18:20",
+      "source": "1Q36mQyMTuU6NoIsOCKSAduzRu5ywJW6m",
+      "meetUrl": "https://meet.google.com/xqz-gmfr-dhc",
+      "note": "Para módulos, la fuente exige inscripción en todos los espacios curriculares que lo componen."
+    },
+    {
+      "id": "colloquium-work",
+      "types": [
+        "colloquium"
+      ],
+      "status": "confirmed",
+      "subjects": [
+        "trabajo"
+      ],
+      "title": "Coloquio promocional · Comisión B",
+      "start": "2026-11-18",
+      "end": "2026-11-18",
+      "startTime": "19:40",
+      "source": "1Q36mQyMTuU6NoIsOCKSAduzRu5ywJW6m",
+      "meetUrl": "https://meet.google.com/gwn-xunc-gyb",
+      "note": "Inscripción por SIU Guaraní desde el 2 de noviembre y hasta 48 horas hábiles antes del coloquio."
+    },
+    {
+      "id": "colloquium-architecture",
+      "types": [
+        "colloquium"
+      ],
+      "status": "confirmed",
+      "subjects": [
+        "arquitectura"
+      ],
+      "title": "Coloquio promocional · Comisión B",
+      "start": "2026-11-24",
+      "end": "2026-11-24",
+      "startTime": "18:20",
+      "source": "1Q36mQyMTuU6NoIsOCKSAduzRu5ywJW6m",
+      "meetUrl": "https://meet.google.com/uhe-quos-pfv",
+      "note": "Inscripción por SIU Guaraní desde el 2 de noviembre y hasta 48 horas hábiles antes del coloquio."
+    },
+    {
+      "id": "colloquium-math",
+      "types": [
+        "colloquium"
+      ],
+      "status": "confirmed",
+      "subjects": [
+        "matematica"
+      ],
+      "title": "Coloquio promocional · Comisión B.1",
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "startTime": "18:20",
+      "source": "1Q36mQyMTuU6NoIsOCKSAduzRu5ywJW6m",
+      "meetUrl": "https://meet.google.com/pre-icyz-qbm",
+      "note": "Inscripción por SIU Guaraní desde el 2 de noviembre y hasta 48 horas hábiles antes del coloquio."
+    },
+    {
+      "id": "colloquium-systems",
+      "types": [
+        "abp",
+        "colloquium"
+      ],
+      "status": "confirmed",
+      "subjects": [
+        "sistemas"
+      ],
+      "title": "Coloquio promocional y defensa del ABP · B.1",
+      "start": "2026-11-26",
+      "end": "2026-11-26",
+      "startTime": "18:20",
+      "source": "1Q36mQyMTuU6NoIsOCKSAduzRu5ywJW6m",
+      "additionalSources": [
+        "1ztIYTuG_PacPI0yOtH1Kxh2-hy18TdK6"
+      ],
+      "meetUrl": "https://meet.google.com/zqc-orpx-itj",
+      "note": "El cronograma institucional fija el coloquio B.1 en esta fecha; la consigna del ABP indica que la defensa oral se realiza en el coloquio de la semana 4."
     }
   ]
 }
