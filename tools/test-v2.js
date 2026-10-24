@@ -8,11 +8,12 @@ const context = vm.createContext({URL,URLSearchParams,Intl,Date,console,document
 vm.runInContext(fs.readFileSync('v2/app.js','utf8'),context);
 vm.runInContext('DATA = '+fs.readFileSync('dist/catalog.json','utf8'),context);
 const run = code => vm.runInContext(code,context);
+const catalog = JSON.parse(fs.readFileSync('dist/catalog.json','utf8'));
 for(const section of ['inicio','entregas','materiales','informacion']) {
  context.location.hash='#'+section;run('render()');assert.ok(node('#main').innerHTML.includes('<h1>'));
- for(const s of JSON.parse(fs.readFileSync('dist/catalog.json','utf8')).subjects){context.location.hash=`#materia/${s.id}/${section}`;run('render()');assert.ok(node('#main').innerHTML.includes(s.title.replaceAll('&','&amp;')));}
+ for(const s of catalog.subjects){context.location.hash=`#materia/${s.id}/${section}`;run('render()');assert.ok(node('#main').innerHTML.includes(s.title.replaceAll('&','&amp;')));}
 }
-context.location.hash='#materiales';run('render()');assert.equal(node('#count').textContent,JSON.parse(fs.readFileSync('dist/catalog.json','utf8')).resources.length+' materiales encontrados');
+context.location.hash='#materiales';run('render()');assert.equal(node('#count').textContent,catalog.resources.length+' materiales encontrados');
 node('#search').value='unlikely-no-match';run('renderResources()');assert.match(node('#count').textContent,/0 materiales/);
 assert.equal(run('safe("javascript:alert(1)")'),'');assert.equal(run('esc("<img>")'),'&lt;img&gt;');
 
@@ -25,7 +26,9 @@ run('openCorrection("event",0)');const issue=new URL(node('#issue').href);assert
 console.log('v2: all course routes, filters, safe links, calendar timezone/recurrence and correction context passed');
 
 // A local subject filter must combine with search and show the subject before expansion.
-context.location.hash='#materiales';node('#search').value='';node('#material-subject').value='sistemas';run('render()');assert.match(node('#count').textContent,/25 materiales/);assert.match(node('#resources').innerHTML,/<summary>.*resource-subject">Sistemas y Organizaciones<\/span>/);
+context.location.hash='#materiales';node('#search').value='';node('#material-subject').value='sistemas';run('render()');
+assert.equal(node('#count').textContent,catalog.resources.filter(r=>r.subjects.includes('sistemas')).length+' materiales encontrados');
+assert.match(node('#resources').innerHTML,/<summary>.*resource-subject">Sistemas y Organizaciones<\/span>/);
 node('#search').value='evidencia 6';run('renderResources()');assert.match(node('#count').textContent,/1 material encontrado/);
 context.location.hash='#materia/sistemas/materiales';run('render()');assert.ok(!node('#main').innerHTML.includes('id="material-subject"'));
 assert.equal(run("addDays('2026-12-31',1)"),'2027-01-01');assert.equal(run("moveMonth('2026-12-31',1)"),'2027-01-01');assert.equal(run("monday('2026-11-01')"),'2026-10-26');
