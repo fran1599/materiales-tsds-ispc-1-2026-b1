@@ -1,6 +1,6 @@
 {
   "title": "Entre apuntes",
-  "updated": "2026-10-22",
+  "updated": "2026-10-24",
   "subjects": [
     {
       "id": "programacion",
@@ -9,11 +9,18 @@
       "code": "</>",
       "color": "teal",
       "period": "2026 · Recorrido anual según hoja de ruta",
-      "commission": "No especificada en los archivos generales",
-      "teachers": "Equipo docente no identificado. Los manuales de Python y Git son de Ivana Rojas Córsico.",
+      "commission": "B.1 · Noche",
+      "teachers": "Ramiro Ceballes (Programación I). Los manuales de Python y Git son de Ivana Rojas Córsico.",
       "source": "1krvNUgfaBFknSCryT7d4fRRQTAlnE4A_",
       "notes": "Forma el Módulo Programador junto con Base de Datos. Comparten hoja de ruta y proyecto integrador. Se conservan los ejes escritos en los manuales; la carpeta de origen usa otra numeración. No se encontró un programa independiente.",
-      "edition": "2026"
+      "edition": "2026",
+      "contacts": [
+        {
+          "name": "Ramiro Ceballes",
+          "role": "Docente · Programación I · B.1",
+          "email": "ramiro.ceballes@ispc.edu.ar"
+        }
+      ]
     },
     {
       "id": "bases",
@@ -22,11 +29,18 @@
       "code": "BD",
       "color": "blue",
       "period": "2026 · Recorrido anual según hoja de ruta",
-      "commission": "No especificada en los archivos generales",
-      "teachers": "Equipo docente completo no confirmado. Un apunte acredita a Verónica Pagnoni y M. Florencia García Zavia; otro a Pablo Giribaldi.",
+      "commission": "B.1 · Noche",
+      "teachers": "Verónica Karina Pagnoni (Base de Datos). Otros materiales acreditan a M. Florencia García Zavia y Pablo Giribaldi.",
       "source": "1krvNUgfaBFknSCryT7d4fRRQTAlnE4A_",
       "notes": "Integra el Módulo Programador. El material de modelo relacional estaba guardado dentro de Programación; aquí se organiza por su contenido. No se encontró programa independiente ni el apunte específico del Eje 2.",
-      "edition": "2026"
+      "edition": "2026",
+      "contacts": [
+        {
+          "name": "Verónica Karina Pagnoni",
+          "role": "Docente · Base de Datos · B.1",
+          "email": "veronica.pagnoni@ispc.edu.ar"
+        }
+      ]
     },
     {
       "id": "matematica",
@@ -39,7 +53,14 @@
       "teachers": "Nahuel Pratta y Donata Delfini, según programa. Las presentaciones de Unidad 1 están firmadas por Nahuel Pratta.",
       "source": "110jD4y4xJYO98DtpAIsrlfPjkGFfzgTU",
       "notes": "Hoja de ruta identificada como versión del 7/09/2026. La carpeta agrupa álgebra y funciones, pero el programa las distingue; el apunte disponible es de expresiones algebraicas. No se encontraron materiales específicos de funciones.",
-      "edition": "2026"
+      "edition": "2026",
+      "contacts": [
+        {
+          "name": "Nahuel Pratta",
+          "role": "Docente · B.1",
+          "email": "nahuel.pratta@ispc.edu.ar"
+        }
+      ]
     },
     {
       "id": "arquitectura",
@@ -52,7 +73,14 @@
       "teachers": "Verónica Karina Pagnoni y Daniel Alejandro Meloni.",
       "source": "1wy17P8nySyXe4AHagl7TpY5o-6OP4DK_",
       "notes": "Se organizan los apuntes por unidad y se conservan las etiquetas de clase. Se incorporaron seis guías asincrónicas tras revisar visualmente sus páginas. La hoja de ruta repite fechas en sus últimas dos semanas: no se asigna una fecha de defensa. La captura del calendario registra encuentros semanales hasta el 25/11/2026, más allá del período cubierto por la hoja de ruta. Actualización del 19/09: apunte ampliado de representación de datos y presentaciones 4, 5 y 6. La planilla repite el archivo de componentes en las unidades 4 y 5; no se identificó un apunte independiente de unidad 5. Las unidades 6, 7 y 8 no tienen enlace en esa planilla.",
-      "edition": "2026"
+      "edition": "2026",
+      "contacts": [
+        {
+          "name": "Verónica Karina Pagnoni",
+          "role": "Docente · Comisión B",
+          "email": "veronica.pagnoni@ispc.edu.ar"
+        }
+      ]
     },
     {
       "id": "sistemas",
@@ -65,7 +93,14 @@
       "teachers": "Dianela Accietto (B.1). Laura Zavia también firma la planificación general.",
       "source": "1hRyB8LxR_SXv170Ma7GH-a-AGesdlzhm",
       "notes": "Carpeta docente como referencia principal desde el 27/09/2026. Los enlaces principales abren sus archivos. Nueve materiales anteriores ausentes de esa carpeta se conservan bajo Complementarios, sin atribuirlos a esta selección docente. El proyecto integrador es la Evidencia 6; prevé semanas 13 a 16, sin fecha exacta confirmada. El índice contiene doce entradas de grabaciones. Se mantienen las advertencias: fechas y contenidos de la hoja de ruta inicial difieren de consignas posteriores; la Evidencia 3 tiene fecha inconsistente. El programa ubica modelado en Unidad 2 aunque algunas portadas dicen III. No se infiere el último encuentro a partir del cierre planificado.",
-      "edition": "2026"
+      "edition": "2026",
+      "contacts": [
+        {
+          "name": "Dianela Accietto",
+          "role": "Docente · B.1",
+          "email": "daniela.acietto@ispc.edu.ar"
+        }
+      ]
     },
     {
       "id": "comunicacion1",
@@ -91,7 +126,19 @@
       "teachers": "Laura Zavia y Lucía Brochero.",
       "source": "1lzAAYVba9e24DVTZ-WWbSjZLy_jlYjZG",
       "notes": "Incluye las tres unidades y documentación de evaluación. El acceso directo a la hoja de ruta no pudo resolverse. La agenda sólo recoge la fecha expresada en la consigna disponible.",
-      "edition": "2026"
+      "edition": "2026",
+      "contacts": [
+        {
+          "name": "Laura Zavia",
+          "role": "Docente · Comisión B",
+          "email": "laura.zavia@ispc.edu.ar"
+        },
+        {
+          "name": "Lucía Brochero",
+          "role": "Docente · Comisión B",
+          "email": "lucia.brochero@ispc.edu.ar"
+        }
+      ]
     },
     {
       "id": "comunicacion2",
@@ -104,7 +151,14 @@
       "teachers": "Ana Rocco (Comisión B). Laura Zavia y Ana Rocco figuran en la consigna general.",
       "source": "18Nh0r_mpPBtjSlFUWJ_IThOm3uNfhFsl",
       "notes": "Se incorpora la consigna general del Proyecto NEXO con ocho componentes organizados en tres evidencias. Fechas del cronograma: 27/08, 17/09 y 15/10/2026, sin hora límite indicada. Se conserva una ficha con PDF y Google Docs, sin datos de grupos ni entregas. No se encontró programa ni bibliografía en esta carpeta. La captura del 17/09 registra encuentros los jueves de 19:40 a 20:40 y límite de repetición el 27/11; la última entrega no se interpreta como cierre de cursada. La rúbrica de la segunda evidencia también menciona asuntos emergentes, aunque el cronograma asigna la consigna 6 a la tercera; se conserva esa distribución y se recomienda confirmar el alcance con la docente.",
-      "edition": "2026"
+      "edition": "2026",
+      "contacts": [
+        {
+          "name": "Ana Laura Rocco",
+          "role": "Docente · Comisión B",
+          "email": "ana.rocco@ispc.edu.ar"
+        }
+      ]
     },
     {
       "id": "ingles",
@@ -143,7 +197,39 @@
       "teachers": "Instituto Superior Politécnico Córdoba",
       "source": null,
       "notes": "Incluye el Régimen Académico Institucional y el Régimen Académico Marco de 2025, presentes en la carpeta institucional compartida. La vigencia normativa posterior no fue verificada.",
-      "edition": "2026"
+      "edition": "2026",
+      "contacts": [
+        {
+          "name": "Valentina Aires",
+          "role": "Tutoría de la Tecnicatura",
+          "email": "software@ispc.edu.ar"
+        },
+        {
+          "name": "Yamil Alvarado",
+          "role": "Coordinación de la Tecnicatura",
+          "email": "coordinacion.software@ispc.edu.ar"
+        },
+        {
+          "name": "Secretaría de Estudiantes",
+          "role": "Trámites estudiantiles",
+          "email": "secretariaestudiantes@ispc.edu.ar"
+        },
+        {
+          "name": "Documentación",
+          "role": "Presentación y consulta de documentación",
+          "email": "documentacion@ispc.edu.ar"
+        },
+        {
+          "name": "Soporte Guaraní",
+          "role": "Ayuda con autogestión",
+          "email": "soporte.guarani@ispc.edu.ar"
+        },
+        {
+          "name": "Asistencia técnica",
+          "role": "Soporte de acceso y plataforma",
+          "email": "asistenciatecnica@ispc.edu.ar"
+        }
+      ]
     }
   ],
   "resources": [
@@ -262,7 +348,14 @@
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica"
+      "sourcePath": "Elementos de Matemática y Lógica",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1WeXsPA3-5X5-vlmj7Jnz7b3bSLB6HP5x/view",
+          "label": "Consigna enlazada en el índice central",
+          "note": "Versión del ABP enlazada desde la fuente central."
+        }
+      ]
     },
     {
       "id": "1gRsrRgs2GDIgQ6XRafPwLBAoDizMbK8x",
@@ -306,7 +399,14 @@
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica"
+      "sourcePath": "Elementos de Matemática y Lógica",
+      "alternateLinks": [
+        {
+          "url": "https://docs.google.com/document/d/1KvGCKncEe8VmMZd-kN6xnaLqG2akG1aF/edit",
+          "label": "Copia enlazada en el índice central",
+          "note": "Hoja de ruta B.1 enlazada por la fuente central de cursadas."
+        }
+      ]
     },
     {
       "id": "110jD4y4xJYO98DtpAIsrlfPjkGFfzgTU",
@@ -328,7 +428,14 @@
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Elementos de Matemática y Lógica"
+      "sourcePath": "Elementos de Matemática y Lógica",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/18Ht7FMHMb7AJew4sXxikVEYQIhl1wRFx/view",
+          "label": "Versión enlazada en el índice central",
+          "note": "Programa enlazado desde el documento central de Matemática y Lógica."
+        }
+      ]
     },
     {
       "id": "1mptqHuYr5y8uJZamw7VJvBROG_Izaz-6",
@@ -350,7 +457,14 @@
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Documentación institucional"
+      "sourcePath": "Documentación institucional",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1nYJySADNfWb5t49AFam0xhU-YQgmv5gG/view",
+          "label": "Versión enlazada en Información importante TSDS",
+          "note": "Referencia alternativa al Régimen Académico Institucional."
+        }
+      ]
     },
     {
       "id": "12U5FZFlpT2_9pjUScHQL2OwDo3Et7Wyt",
@@ -1097,7 +1211,14 @@
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Conservado del catálogo anterior. No aparece en la carpeta de referencia docente revisada el 27/09/2026. Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones/Material"
+      "sourcePath": "Sistemas y Organizaciones/Material",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1rsuN1i9uOYq9-4HtkL9Lm7BZJhD66ib0/view",
+          "label": "Material enlazado en el índice central",
+          "note": "Copia del material de diagramas enlazada desde la fuente central."
+        }
+      ]
     },
     {
       "id": "1oYE4dL6UZus4WhYfQlaC9xiOLvWU2Ivh",
@@ -1149,7 +1270,14 @@
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Conservado del catálogo anterior. No aparece en la carpeta de referencia docente revisada el 27/09/2026. Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Sistemas y Organizaciones/Material"
+      "sourcePath": "Sistemas y Organizaciones/Material",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/12myXkObZg7B-YMvYFpelh1FPYegOx4F9/view",
+          "label": "Material enlazado en el índice central",
+          "note": "Copia de Teoría General de Sistemas enlazada desde la fuente central."
+        }
+      ]
     },
     {
       "id": "1Z74BNYv1W3ibsKpHH7GrrYlhwf5Em0MH",
@@ -1338,6 +1466,11 @@
           "url": "https://drive.google.com/file/d/1Q56EhANig20BOCBUoXtbIct_AVMKhLjP/view",
           "label": "Copia anterior del catálogo",
           "note": "Versión DOCX con diferencias: no enumera el diagrama de clases ni los estados del incidente que sí aparecen en el PDF. No se confirmó cuál versión prevalece."
+        },
+        {
+          "url": "https://drive.google.com/file/d/1R_aTDAGC2NADtw_-2p6mug38QGDSc0UA/view",
+          "label": "Programa enlazado en el índice central",
+          "note": "Versión de programa referida por el relevamiento central."
         }
       ]
     },
@@ -1413,7 +1546,14 @@
       "reviewedAt": "2026-09-17",
       "access": "Ubicado en la carpeta compartida. La disponibilidad depende de los permisos del archivo en Drive.",
       "review": "Revisión del texto extraído; no es una corrección académica del contenido.",
-      "sourcePath": "Módulo Programador"
+      "sourcePath": "Módulo Programador",
+      "alternateLinks": [
+        {
+          "url": "https://drive.google.com/file/d/1Uc1frfNzgHI52G9ORY0BHuILJGHhGgV2/view",
+          "label": "Hoja de ruta enlazada en el índice central",
+          "note": "Versión referida por los índices centrales de Programación I y Base de Datos."
+        }
+      ]
     },
     {
       "id": "1IvCJpdAzUCeDIzdnZU8lmZfD1381JZPX",
@@ -3228,6 +3368,16 @@
           "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111119",
           "label": "Página en Moodle",
           "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        },
+        {
+          "url": "https://drive.google.com/file/d/1PCe_luJ4zV8oMFQOP2kljjMq2MKw1apA/view",
+          "label": "Material de Eje 1 en la planilla central",
+          "note": "Referencia alternativa incorporada en la bibliografía central."
+        },
+        {
+          "url": "https://drive.google.com/file/d/15eEjuwvq0QwDHp4UMUGU9UPXPHTXqjxI/view",
+          "label": "Presentación de clase 1 en la planilla central",
+          "note": "Enlace alternativo registrado en la bibliografía central."
         }
       ]
     },
@@ -3889,6 +4039,11 @@
           "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=121571",
           "label": "Página en Moodle",
           "note": "Página institucional de procedencia; requiere sesión del aula virtual."
+        },
+        {
+          "url": "https://drive.google.com/file/d/1sj5RGY0N4fW2tOVasrHFjLQWqiu2fZNQ/view",
+          "label": "Presentación registrada en la planilla central",
+          "note": "Enlace alternativo para la clase 11."
         }
       ]
     },
@@ -4620,38 +4775,6 @@
       ]
     },
     {
-      "id": "17_W0COV7Qd4eaY13SMBv6MH3zcIphC_2",
-      "title": "Grabación 21/09/2026",
-      "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
-      "unit": "Encuentros sincrónicos B.1",
-      "kind": "Grabación",
-      "tags": [
-        "Obligatoriedad no determinada",
-        "Acompañamiento general",
-        "Video MP4",
-        "Módulo Programador"
-      ],
-      "subjects": [
-        "programacion",
-        "bases"
-      ],
-      "format": "VIDEO",
-      "url": "https://drive.google.com/file/d/17_W0COV7Qd4eaY13SMBv6MH3zcIphC_2/view",
-      "originalName": "Grabación 21/09/2026",
-      "edition": "2026",
-      "reviewedAt": "2026-10-16",
-      "access": "Requiere acceso externo o no determinado",
-      "review": "Metadatos de video verificados; transcripción no disponible No se duplicó el video por tamaño",
-      "sourcePath": "Módulo Programador / Módulo integrado / Encuentros sincrónicos B.1",
-      "alternateLinks": [
-        {
-          "url": "https://acceso.ispc.edu.ar/mod/page/view.php?id=111113",
-          "label": "Página en Moodle",
-          "note": "Página institucional de procedencia; requiere sesión del aula virtual."
-        }
-      ]
-    },
-    {
       "id": "1CVkD0UrwiCx2sD0xpNM3KOMNMgT7cynC",
       "title": "Grabación 28/09/2026",
       "description": "Grabación del encuentro sincrónico de la Comisión B.1. Relación con el proyecto: Acompañamiento general.",
@@ -4882,6 +5005,2007 @@
       "access": "Material de la carpeta docente compartida de Competencias Comunicacionales II. La disponibilidad depende de sus permisos en Drive.",
       "review": "Contenido textual revisado. Material general de clase; no contiene una producción personal o grupal del estudiante.",
       "sourcePath": "Competencias Comunicacionales II / Material de clase / Prof. Ana Rocco"
+    },
+    {
+      "id": "1FJPXfKnKKVlNT0bV5AFElgb_uXtho6OS",
+      "title": "Índice central de materiales · Matemática y Lógica",
+      "description": "Documento central que reúne programa, hoja de ruta, bibliografía y otros enlaces de Matemática y Lógica. Sirve como mapa de la fuente; las fichas específicas del catálogo ofrecen el acceso más directo.",
+      "unit": "General",
+      "kind": "Índice de fuentes",
+      "tags": [
+        "índice",
+        "fuente central"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1FJPXfKnKKVlNT0bV5AFElgb_uXtho6OS/edit",
+      "originalName": "Material - Matemática y Lógica.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "18fKQdG554_SyqESFZ0QWS9B8LdBbUnhH",
+      "title": "Índice central de materiales · Sistemas y Organizaciones",
+      "description": "Documento central que reúne programa, hoja de ruta, bibliografía y otros enlaces de Sistemas y Organizaciones. Sirve como mapa de la fuente; las fichas específicas del catálogo ofrecen el acceso más directo.",
+      "unit": "General",
+      "kind": "Índice de fuentes",
+      "tags": [
+        "índice",
+        "fuente central"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/18fKQdG554_SyqESFZ0QWS9B8LdBbUnhH/edit",
+      "originalName": "Material - Sistemas y Organizaciones.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1JM8nPsYUw_tgmDXMcqZqGkEBOE_LMcOX",
+      "title": "Índice central de materiales · Módulo Programador",
+      "description": "Documento central que reúne programa, hoja de ruta, bibliografía y otros enlaces de Módulo Programador. Sirve como mapa de la fuente; las fichas específicas del catálogo ofrecen el acceso más directo.",
+      "unit": "General",
+      "kind": "Índice de fuentes",
+      "tags": [
+        "índice",
+        "fuente central"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1JM8nPsYUw_tgmDXMcqZqGkEBOE_LMcOX/edit",
+      "originalName": "Material - Módulo Programador.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "18hJUKpxnYe0zLTc57IvrSCUIPaAaIl6R",
+      "title": "Índice central de materiales · Base de Datos",
+      "description": "Documento central que reúne programa, hoja de ruta, bibliografía y otros enlaces de Base de Datos. Sirve como mapa de la fuente; las fichas específicas del catálogo ofrecen el acceso más directo.",
+      "unit": "General",
+      "kind": "Índice de fuentes",
+      "tags": [
+        "índice",
+        "fuente central"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/18hJUKpxnYe0zLTc57IvrSCUIPaAaIl6R/edit",
+      "originalName": "Material - Base de Datos.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1skk3VF-kFZh84ZLL6oMArJwR8OXNjVcB",
+      "title": "Índice central de materiales · Arquitectura de las Computadoras",
+      "description": "Documento central que reúne programa, hoja de ruta, bibliografía y otros enlaces de Arquitectura de las Computadoras. Sirve como mapa de la fuente; las fichas específicas del catálogo ofrecen el acceso más directo.",
+      "unit": "General",
+      "kind": "Índice de fuentes",
+      "tags": [
+        "índice",
+        "fuente central"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1skk3VF-kFZh84ZLL6oMArJwR8OXNjVcB/edit",
+      "originalName": "Material - Arquitectura de las Computadoras.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1AsX1Z8x34cJOuZ92rTdjA0LN_CQBAFYD",
+      "title": "Índice central de materiales · Competencias Comunicacionales II",
+      "description": "Documento central que reúne programa, hoja de ruta, bibliografía y otros enlaces de Competencias Comunicacionales II. Sirve como mapa de la fuente; las fichas específicas del catálogo ofrecen el acceso más directo.",
+      "unit": "General",
+      "kind": "Índice de fuentes",
+      "tags": [
+        "índice",
+        "fuente central"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1AsX1Z8x34cJOuZ92rTdjA0LN_CQBAFYD/edit",
+      "originalName": "Material - Competencias Comunicacionales II.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1vE4SBhj_agJLA2jp_3c3vAVdoS5gw96-",
+      "title": "Índice central de materiales · Aproximación al Mundo del Trabajo",
+      "description": "Documento central que reúne programa, hoja de ruta, bibliografía y otros enlaces de Aproximación al Mundo del Trabajo. Sirve como mapa de la fuente; las fichas específicas del catálogo ofrecen el acceso más directo.",
+      "unit": "General",
+      "kind": "Índice de fuentes",
+      "tags": [
+        "índice",
+        "fuente central"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1vE4SBhj_agJLA2jp_3c3vAVdoS5gw96-/edit",
+      "originalName": "Material - Aproximación al Mundo del Trabajo.docx",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1gn3upobCamB7ESs8aCvDsL4FarnN-dVW",
+      "title": "Criterios de evaluación 2026",
+      "description": "Criterios de evaluación enlazados por el índice central de Matemática y Lógica.",
+      "unit": "General",
+      "kind": "Criterios",
+      "tags": [
+        "evaluación"
+      ],
+      "subjects": [
+        "matematica"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1gn3upobCamB7ESs8aCvDsL4FarnN-dVW/edit",
+      "originalName": "Criterios de evaluación 2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1w8UvcILW3qmnbta4W5B51Bw_ukQG1Nzd",
+      "title": "Criterios de evaluación 2026",
+      "description": "Criterios de evaluación enlazados en el índice central de Sistemas y Organizaciones.",
+      "unit": "General",
+      "kind": "Criterios",
+      "tags": [
+        "evaluación"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "DOCX",
+      "url": "https://docs.google.com/document/d/1w8UvcILW3qmnbta4W5B51Bw_ukQG1Nzd/edit",
+      "originalName": "Criterios de evaluación 2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "13-DAAOT6yvMCVkeq6Mp7dgxUThy9yQav",
+      "title": "Programa del Módulo Programador",
+      "description": "Programa enlazado por los índices de Programación I y Base de Datos. El nombre del archivo refiere a Base de Datos; se conserva la doble clasificación porque ambas fuentes lo comparten.",
+      "unit": "General",
+      "kind": "Programa",
+      "tags": [
+        "programa",
+        "módulo programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/13-DAAOT6yvMCVkeq6Mp7dgxUThy9yQav/view",
+      "originalName": "Programa del Módulo Programador",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1LMFfwlP-bGeVi6HxfKoFw2wOHKoX_Ej_",
+      "title": "Criterios de evaluación · Módulo Programador",
+      "description": "Criterios comunes enlazados por los índices de Programación I y Base de Datos.",
+      "unit": "General",
+      "kind": "Criterios",
+      "tags": [
+        "evaluación",
+        "módulo programador"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1LMFfwlP-bGeVi6HxfKoFw2wOHKoX_Ej_/view",
+      "originalName": "Criterios de evaluación · Módulo Programador",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "17cEeIQgZfV1rIO4XuNgn4lggCCpO6-Og",
+      "title": "Colección · Python secuencial",
+      "description": "Carpeta de materiales enlazada por el índice central de Programación I. El catálogo conserva además fichas para los documentos principales.",
+      "unit": "Eje 1",
+      "kind": "Colección",
+      "tags": [
+        "carpeta",
+        "bibliografía"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "LINK",
+      "url": "https://drive.google.com/drive/folders/17cEeIQgZfV1rIO4XuNgn4lggCCpO6-Og",
+      "originalName": "Colección · Python secuencial",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1bnPHeE9MMdzk-a9IHs8zlZOXUzsVlAhS",
+      "title": "Colección · Programación orientada a objetos",
+      "description": "Carpeta de materiales enlazada por el índice central de Programación I. El catálogo conserva además fichas para los documentos principales.",
+      "unit": "Eje 2",
+      "kind": "Colección",
+      "tags": [
+        "carpeta",
+        "bibliografía"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "LINK",
+      "url": "https://drive.google.com/drive/folders/1bnPHeE9MMdzk-a9IHs8zlZOXUzsVlAhS",
+      "originalName": "Colección · Programación orientada a objetos",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1rRaCgX_DfQ6bmc_L_B0YdaePQxX5nXD-",
+      "title": "Colección · Git",
+      "description": "Carpeta de materiales enlazada por el índice central de Programación I. El catálogo conserva además fichas para los documentos principales.",
+      "unit": "Eje 3",
+      "kind": "Colección",
+      "tags": [
+        "carpeta",
+        "bibliografía"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "LINK",
+      "url": "https://drive.google.com/drive/folders/1rRaCgX_DfQ6bmc_L_B0YdaePQxX5nXD-",
+      "originalName": "Colección · Git",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1P0lTOLVmlZ5sZiSOCY2vDnPmq96WxlzQxeYgP0E6eF4",
+      "title": "Bibliografía de Programación I",
+      "description": "Documento de bibliografía enlazado desde el índice central de Programación I.",
+      "unit": "General",
+      "kind": "Bibliografía",
+      "tags": [
+        "bibliografía"
+      ],
+      "subjects": [
+        "programacion"
+      ],
+      "format": "HTML",
+      "url": "https://docs.google.com/document/d/1P0lTOLVmlZ5sZiSOCY2vDnPmq96WxlzQxeYgP0E6eF4/edit",
+      "originalName": "Bibliografía de Programación I",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1BY1YvJSPyCL3XuadlSPupK48XwEOOdwT",
+      "title": "Material de Base de Datos · Eje 3",
+      "description": "Material obligatorio del Eje 3, según la planilla bibliográfica central del Módulo Programador.",
+      "unit": "Eje 3",
+      "kind": "Apunte",
+      "tags": [
+        "base de datos",
+        "eje 3"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1BY1YvJSPyCL3XuadlSPupK48XwEOOdwT/view",
+      "originalName": "Material de Base de Datos · Eje 3",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "18JPVDPDOzlkSb9q6pSZpcO61SS4Il0gJ",
+      "title": "Material de Base de Datos · Eje 4",
+      "description": "Material obligatorio del Eje 4, según la planilla bibliográfica central del Módulo Programador.",
+      "unit": "Eje 4",
+      "kind": "Apunte",
+      "tags": [
+        "base de datos",
+        "eje 4"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/18JPVDPDOzlkSb9q6pSZpcO61SS4Il0gJ/view",
+      "originalName": "Material de Base de Datos · Eje 4",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1m2Pi-lSa8oxjxh2kCkk3VGgKuf76Xspe",
+      "title": "Material de Base de Datos · Eje 5",
+      "description": "Material obligatorio del Eje 5, según la planilla bibliográfica central del Módulo Programador.",
+      "unit": "Eje 5",
+      "kind": "Apunte",
+      "tags": [
+        "base de datos",
+        "eje 5"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1m2Pi-lSa8oxjxh2kCkk3VGgKuf76Xspe/view",
+      "originalName": "Material de Base de Datos · Eje 5",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1U6FnCxgvJvMHH_5uGTkGqTMddNOJQnSx",
+      "title": "Base de Datos · Presentación de la clase 2",
+      "description": "Presentación directa de la clase 2 registrada en la planilla bibliográfica central.",
+      "unit": "Clases",
+      "kind": "Presentación",
+      "tags": [
+        "clase 2"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1U6FnCxgvJvMHH_5uGTkGqTMddNOJQnSx/view",
+      "originalName": "Base de Datos · Presentación de la clase 2",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1Y0qUIf5guGwU34okWojXiA-ckg-E-b5m",
+      "title": "Material de lectura · Unidad 1",
+      "description": "Material obligatorio de Unidad 1 enlazado en la planilla de Arquitectura, Comisión B.",
+      "unit": "Unidad 1",
+      "kind": "Apunte",
+      "tags": [
+        "arquitectura",
+        "material obligatorio"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1Y0qUIf5guGwU34okWojXiA-ckg-E-b5m/view",
+      "originalName": "Material de lectura · Unidad 1",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "14QjVbSQNaFY1KYTMg7XttC2wiBHdrdzi",
+      "title": "Material de lectura · Unidad 3",
+      "description": "Material obligatorio de Unidad 3 enlazado en la planilla de Arquitectura, Comisión B.",
+      "unit": "Unidad 3",
+      "kind": "Apunte",
+      "tags": [
+        "arquitectura",
+        "material obligatorio"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/14QjVbSQNaFY1KYTMg7XttC2wiBHdrdzi/view",
+      "originalName": "Material de lectura · Unidad 3",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1GtOZnSdyvfyr-e9NdOHdYaDQr61g19YR",
+      "title": "Material de lectura · Unidades 4 y 5",
+      "description": "Material obligatorio de Unidades 4 y 5 enlazado en la planilla de Arquitectura, Comisión B.",
+      "unit": "Unidades 4 y 5",
+      "kind": "Apunte",
+      "tags": [
+        "arquitectura",
+        "material obligatorio"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1GtOZnSdyvfyr-e9NdOHdYaDQr61g19YR/view",
+      "originalName": "Material de lectura · Unidades 4 y 5",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1_fByDbF0qKGORpEjkNIcUbmqX1VjlP1A",
+      "title": "Material de lectura · Unidades 6 y 7",
+      "description": "Material obligatorio de Unidades 6 y 7 enlazado en la planilla de Arquitectura, Comisión B.",
+      "unit": "Unidades 6 y 7",
+      "kind": "Apunte",
+      "tags": [
+        "arquitectura",
+        "material obligatorio"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1_fByDbF0qKGORpEjkNIcUbmqX1VjlP1A/view",
+      "originalName": "Material de lectura · Unidades 6 y 7",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1_YI5x7uQOPjC0PNO4Hw3ahtmu-3G3S9l",
+      "title": "Material de lectura · Unidad 8",
+      "description": "Material obligatorio de Unidad 8 enlazado en la planilla de Arquitectura, Comisión B.",
+      "unit": "Unidad 8",
+      "kind": "Apunte",
+      "tags": [
+        "arquitectura",
+        "material obligatorio"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1_YI5x7uQOPjC0PNO4Hw3ahtmu-3G3S9l/view",
+      "originalName": "Material de lectura · Unidad 8",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "10oQM3UFvWq17QB4lyRpoScM7EFsGIRe7",
+      "title": "Material de integración",
+      "description": "Material obligatorio de Integración enlazado en la planilla de Arquitectura, Comisión B.",
+      "unit": "Integración",
+      "kind": "Apunte",
+      "tags": [
+        "arquitectura",
+        "material obligatorio"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/10oQM3UFvWq17QB4lyRpoScM7EFsGIRe7/view",
+      "originalName": "Material de integración",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1U9GX4hWTp3-v0HkmeCBqQy7FdiWI5Kax",
+      "title": "Clase 7 · Presentación",
+      "description": "Presentación de clase enlazada en la planilla de Arquitectura, Comisión B.",
+      "unit": "Clases",
+      "kind": "Presentación",
+      "tags": [
+        "clase",
+        "comisión B"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1U9GX4hWTp3-v0HkmeCBqQy7FdiWI5Kax/view",
+      "originalName": "Clase 7 · Presentación",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1-GHOCe2m5cgwE46B-3wvNaL0kzJ_h_92",
+      "title": "Clase 8 · Presentación",
+      "description": "Presentación de clase enlazada en la planilla de Arquitectura, Comisión B.",
+      "unit": "Clases",
+      "kind": "Presentación",
+      "tags": [
+        "clase",
+        "comisión B"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1-GHOCe2m5cgwE46B-3wvNaL0kzJ_h_92/view",
+      "originalName": "Clase 8 · Presentación",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1Ggo10enAsR5sf5XoDKYKgBx7OuUenMYY",
+      "title": "Clase 9 · Presentación",
+      "description": "Presentación de clase enlazada en la planilla de Arquitectura, Comisión B.",
+      "unit": "Clases",
+      "kind": "Presentación",
+      "tags": [
+        "clase",
+        "comisión B"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1Ggo10enAsR5sf5XoDKYKgBx7OuUenMYY/view",
+      "originalName": "Clase 9 · Presentación",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "15zLhJbNXxZP8cvxZMGCLRCikHWGZG91z",
+      "title": "Programa 2026",
+      "description": "Programa 2026 de Competencias Comunicacionales II, enlazado desde el índice central de la materia.",
+      "unit": "General",
+      "kind": "Programa",
+      "tags": [
+        "comunicación",
+        "comisión B"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/15zLhJbNXxZP8cvxZMGCLRCikHWGZG91z/view",
+      "originalName": "Programa 2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1cPammaqRwfdhexaT6Wb7Cwy-JJnQPmOT",
+      "title": "Criterios de evaluación 2026",
+      "description": "Criterios de evaluación 2026 de Competencias Comunicacionales II, enlazado desde el índice central de la materia.",
+      "unit": "General",
+      "kind": "Criterios",
+      "tags": [
+        "comunicación",
+        "comisión B"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1cPammaqRwfdhexaT6Wb7Cwy-JJnQPmOT/view",
+      "originalName": "Criterios de evaluación 2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1WxjhiC6aN85j2xFcLOpqC5SYlftkIBP5",
+      "title": "Hoja de ruta · Comisión B",
+      "description": "Hoja de ruta · Comisión B de Competencias Comunicacionales II, enlazado desde el índice central de la materia.",
+      "unit": "General",
+      "kind": "Cronograma",
+      "tags": [
+        "comunicación",
+        "comisión B"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1WxjhiC6aN85j2xFcLOpqC5SYlftkIBP5/view",
+      "originalName": "Hoja de ruta · Comisión B",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1jMRK864m8Dw1HLW4G_eUfqmQGvTwMhXN",
+      "title": "Material de lectura · Unidad 1",
+      "description": "Material de lectura · Unidad 1 de Competencias Comunicacionales II, enlazado desde el índice central de la materia.",
+      "unit": "Unidad 1",
+      "kind": "Apunte",
+      "tags": [
+        "comunicación",
+        "comisión B"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1jMRK864m8Dw1HLW4G_eUfqmQGvTwMhXN/view",
+      "originalName": "Material de lectura · Unidad 1",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1pkwYU-f-lkPz19HKRcgA8lD-OlAtBRX5",
+      "title": "Material de lectura · Unidad 2",
+      "description": "Material de lectura · Unidad 2 de Competencias Comunicacionales II, enlazado desde el índice central de la materia.",
+      "unit": "Unidad 2",
+      "kind": "Apunte",
+      "tags": [
+        "comunicación",
+        "comisión B"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1pkwYU-f-lkPz19HKRcgA8lD-OlAtBRX5/view",
+      "originalName": "Material de lectura · Unidad 2",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1O2RJvC2ZceX7TRpI7TYdSqN0O1eCjjPB",
+      "title": "Material de lectura · Unidad 3",
+      "description": "Material de lectura · Unidad 3 de Competencias Comunicacionales II, enlazado desde el índice central de la materia.",
+      "unit": "Unidad 3",
+      "kind": "Apunte",
+      "tags": [
+        "comunicación",
+        "comisión B"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1O2RJvC2ZceX7TRpI7TYdSqN0O1eCjjPB/view",
+      "originalName": "Material de lectura · Unidad 3",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1L7pEt-G5gndkP6cyJuKihFLS1MLY3plW",
+      "title": "Material de lectura · Unidad 4",
+      "description": "Material de lectura · Unidad 4 de Competencias Comunicacionales II, enlazado desde el índice central de la materia.",
+      "unit": "Unidad 4",
+      "kind": "Apunte",
+      "tags": [
+        "comunicación",
+        "comisión B"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1L7pEt-G5gndkP6cyJuKihFLS1MLY3plW/view",
+      "originalName": "Material de lectura · Unidad 4",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1rii3LdjPQU6A-VoPF6MDeIAsZXa01pM8",
+      "title": "Programa · Segundo cuatrimestre 2026",
+      "description": "Programa · Segundo cuatrimestre 2026 de Aproximación al Mundo del Trabajo, enlazado desde la fuente central.",
+      "unit": "General",
+      "kind": "Programa",
+      "tags": [
+        "trabajo",
+        "comisión B"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1rii3LdjPQU6A-VoPF6MDeIAsZXa01pM8/view",
+      "originalName": "Programa · Segundo cuatrimestre 2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1MXwFVtKTRoHK-g8ftRTKfVER76vQAIaXDxMM66PJzZ8",
+      "title": "Hoja de ruta 2026",
+      "description": "Hoja de ruta 2026 de Aproximación al Mundo del Trabajo, enlazado desde la fuente central.",
+      "unit": "General",
+      "kind": "Cronograma",
+      "tags": [
+        "trabajo",
+        "comisión B"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "HTML",
+      "url": "https://docs.google.com/document/d/1MXwFVtKTRoHK-g8ftRTKfVER76vQAIaXDxMM66PJzZ8/edit",
+      "originalName": "Hoja de ruta 2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1o1DxH0-vraYv6uNMR9ykcO4m0N1vq77B",
+      "title": "Criterios de evaluación 2026",
+      "description": "Criterios de evaluación 2026 de Aproximación al Mundo del Trabajo, enlazado desde la fuente central.",
+      "unit": "General",
+      "kind": "Criterios",
+      "tags": [
+        "trabajo",
+        "comisión B"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1o1DxH0-vraYv6uNMR9ykcO4m0N1vq77B/view",
+      "originalName": "Criterios de evaluación 2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1ymTVno-6PUojmoD9w23TJJWIx0aU-Lhq",
+      "title": "Bibliografía · Comisión B",
+      "description": "Bibliografía · Comisión B de Aproximación al Mundo del Trabajo, enlazado desde la fuente central.",
+      "unit": "General",
+      "kind": "Bibliografía",
+      "tags": [
+        "trabajo",
+        "comisión B"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "LINK",
+      "url": "https://drive.google.com/drive/folders/1ymTVno-6PUojmoD9w23TJJWIx0aU-Lhq",
+      "originalName": "Bibliografía · Comisión B",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1yirSv-leMMvp19BQNbDJ0SqQVAXbXnhH",
+      "title": "Grabación · 09/04/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "LINK",
+      "url": "https://drive.google.com/drive/folders/1yirSv-leMMvp19BQNbDJ0SqQVAXbXnhH?q=type:video%20parent:1yirSv-leMMvp19BQNbDJ0SqQVAXbXnhH%20owner:me",
+      "originalName": "Grabación 2026-04-09",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1PzJiHth2gyW1Mxy7nuFb8d7pD8cp0Atd",
+      "title": "Grabación · 16/04/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1PzJiHth2gyW1Mxy7nuFb8d7pD8cp0Atd/view",
+      "originalName": "Grabación 2026-04-16",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1d3OxovXICtHmqEWleZ_mW7A1k2pmnHvM",
+      "title": "Grabación · 23/04/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1d3OxovXICtHmqEWleZ_mW7A1k2pmnHvM/view",
+      "originalName": "Grabación 2026-04-23",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1AyvyZ4eRwiv7V38juvcC8gnQELEI9Wt8",
+      "title": "Grabación · 30/04/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1AyvyZ4eRwiv7V38juvcC8gnQELEI9Wt8/view",
+      "originalName": "Grabación 2026-04-30",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1yuwC244E5F32JY-5iW_zW9Q7Ev4KUlWK",
+      "title": "Grabación · 07/05/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1yuwC244E5F32JY-5iW_zW9Q7Ev4KUlWK/view",
+      "originalName": "Grabación 2026-05-07",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "13Pkhc5F4fcGAGilejkn0HrUT4GODsB4u",
+      "title": "Grabación · 14/05/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/13Pkhc5F4fcGAGilejkn0HrUT4GODsB4u/view",
+      "originalName": "Grabación 2026-05-14",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1Ou-6YkpAh7FiE10JSSKDr4t4U_Dx-92O",
+      "title": "Grabación · 28/05/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1Ou-6YkpAh7FiE10JSSKDr4t4U_Dx-92O/view",
+      "originalName": "Grabación 2026-05-28",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1rBLbl__BHJ0UQf6kQKEx28ovKd8eRA-R",
+      "title": "Grabación · 06/08/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1rBLbl__BHJ0UQf6kQKEx28ovKd8eRA-R/view",
+      "originalName": "Grabación 2026-08-06",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1w6QHulYRIRdWhXo2LgL0qwPnbC4_lN22",
+      "title": "Grabación · 13/08/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1w6QHulYRIRdWhXo2LgL0qwPnbC4_lN22/view",
+      "originalName": "Grabación 2026-08-13",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1LBVluTkke6Ua2S-oDvK_yCepjyRzuSKJ",
+      "title": "Grabación · 20/08/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1LBVluTkke6Ua2S-oDvK_yCepjyRzuSKJ/view",
+      "originalName": "Grabación 2026-08-20",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1DJlEqMWAdua9ZGCIb1LbutYpL3sdIcpb",
+      "title": "Grabación · 27/08/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1DJlEqMWAdua9ZGCIb1LbutYpL3sdIcpb/view",
+      "originalName": "Grabación 2026-08-27",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "189BD485V-T01FgPTR6TzCg8UFi4Mzw_0",
+      "title": "Grabación · 03/09/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/189BD485V-T01FgPTR6TzCg8UFi4Mzw_0/view",
+      "originalName": "Grabación 2026-09-03",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1ipPy8e00vtMvSQq8BidHnoF909oWGoFN",
+      "title": "Grabación · 10/09/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1ipPy8e00vtMvSQq8BidHnoF909oWGoFN/view",
+      "originalName": "Grabación 2026-09-10",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "15jyar5D-dzezCaR0d5h33sP1OdRWmAE6",
+      "title": "Grabación · 17/09/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/15jyar5D-dzezCaR0d5h33sP1OdRWmAE6/view",
+      "originalName": "Grabación 2026-09-17",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "14nkCFeLH9XnCMgNw_vqIHc9_CwXkyj41",
+      "title": "Grabación · 24/09/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/14nkCFeLH9XnCMgNw_vqIHc9_CwXkyj41/view",
+      "originalName": "Grabación 2026-09-24",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "19t8HGLGafBql6YoqKk006VIyX_-MIHHe",
+      "title": "Grabación · 01/10/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/19t8HGLGafBql6YoqKk006VIyX_-MIHHe/view",
+      "originalName": "Grabación 2026-10-01",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1EaRozaNZ062QB-RlGXrSOd9hJBK_26qD",
+      "title": "Grabación · 08/10/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1EaRozaNZ062QB-RlGXrSOd9hJBK_26qD/view",
+      "originalName": "Grabación 2026-10-08",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1RcQENygHMy92nu6Xzu9nO9B-XTxLTzDe",
+      "title": "Grabación · 15/10/2026",
+      "description": "Encuentro sincrónico de Sistemas y Organizaciones, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "sistemas"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1RcQENygHMy92nu6Xzu9nO9B-XTxLTzDe/view",
+      "originalName": "Grabación 2026-10-15",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1Og1xP4HuQVoQmJgGbqM7_paE3DIKXrEj",
+      "title": "Grabación · 11/08/2026",
+      "description": "Encuentro sincrónico de Arquitectura de las Computadoras, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1Og1xP4HuQVoQmJgGbqM7_paE3DIKXrEj/view",
+      "originalName": "Grabación 2026-08-11",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1Q-JnRrN7_Wm2yv8DFMOLfpJvQvRkfoJN",
+      "title": "Grabación · 18/08/2026",
+      "description": "Encuentro sincrónico de Arquitectura de las Computadoras, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1Q-JnRrN7_Wm2yv8DFMOLfpJvQvRkfoJN/view",
+      "originalName": "Grabación 2026-08-18",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1rumjo_GLLRIN0aTASs-gTBU_2w8nyxpc",
+      "title": "Grabación · 25/08/2026",
+      "description": "Encuentro sincrónico de Arquitectura de las Computadoras, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1rumjo_GLLRIN0aTASs-gTBU_2w8nyxpc/view",
+      "originalName": "Grabación 2026-08-25",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "181q_9O0RrQ_e_KvKVxYxbjM3ITxwdm0O",
+      "title": "Grabación · 01/09/2026",
+      "description": "Encuentro sincrónico de Arquitectura de las Computadoras, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/181q_9O0RrQ_e_KvKVxYxbjM3ITxwdm0O/view",
+      "originalName": "Grabación 2026-09-01",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1AXbOkmex5K-ExCpFMr0w3tlJKr5asoIH",
+      "title": "Grabación · 08/09/2026",
+      "description": "Encuentro sincrónico de Arquitectura de las Computadoras, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1AXbOkmex5K-ExCpFMr0w3tlJKr5asoIH/view",
+      "originalName": "Grabación 2026-09-08",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1r1ZQzsDPMrkxa0cy2492DKBN4_NyDFpq",
+      "title": "Grabación · 15/09/2026",
+      "description": "Encuentro sincrónico de Arquitectura de las Computadoras, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1r1ZQzsDPMrkxa0cy2492DKBN4_NyDFpq/view",
+      "originalName": "Grabación 2026-09-15",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1pYNCV1r9Z-Lr7zv-LFufLy0aJFxcjszz",
+      "title": "Grabación · 29/09/2026",
+      "description": "Encuentro sincrónico de Arquitectura de las Computadoras, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1pYNCV1r9Z-Lr7zv-LFufLy0aJFxcjszz/view",
+      "originalName": "Grabación 2026-09-29",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1s117JN7ZEzXJspBLyGOJabwUxG6kmemG",
+      "title": "Grabación · 13/10/2026",
+      "description": "Encuentro sincrónico de Arquitectura de las Computadoras, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1s117JN7ZEzXJspBLyGOJabwUxG6kmemG/view",
+      "originalName": "Grabación 2026-10-13",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1GP5Zd223NbeDVqInUSc8wy6mxMyn6YK6",
+      "title": "Grabación · 20/10/2026",
+      "description": "Encuentro sincrónico de Arquitectura de las Computadoras, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "arquitectura"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1GP5Zd223NbeDVqInUSc8wy6mxMyn6YK6/view",
+      "originalName": "Grabación 2026-10-20",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1Zm9vBNkWfdJUNxzeuHeJfUGHwulLBF7H",
+      "title": "Grabación · 13/08/2026",
+      "description": "Encuentro sincrónico de Competencias Comunicacionales II, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1Zm9vBNkWfdJUNxzeuHeJfUGHwulLBF7H/view",
+      "originalName": "Grabación 2026-08-13",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1f7gHA6uQW2OFpxg53RbDXR0Ajn_FwNiQ",
+      "title": "Grabación · 20/08/2026",
+      "description": "Encuentro sincrónico de Competencias Comunicacionales II, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1f7gHA6uQW2OFpxg53RbDXR0Ajn_FwNiQ/view",
+      "originalName": "Grabación 2026-08-20",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1k1ALtvHEhPaR2pkuUaQe8iU76rur5pJ8",
+      "title": "Grabación · 27/08/2026",
+      "description": "Encuentro sincrónico de Competencias Comunicacionales II, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1k1ALtvHEhPaR2pkuUaQe8iU76rur5pJ8/view",
+      "originalName": "Grabación 2026-08-27",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1FpxIMzqmZLoG2UQDYZP7wBf2_6IM5i22",
+      "title": "Grabación · 03/09/2026",
+      "description": "Encuentro sincrónico de Competencias Comunicacionales II, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1FpxIMzqmZLoG2UQDYZP7wBf2_6IM5i22/view",
+      "originalName": "Grabación 2026-09-03",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1a0qU_1xggmarnvT0FSgiG2qU2jSJKbiq",
+      "title": "Grabación · 10/09/2026",
+      "description": "Encuentro sincrónico de Competencias Comunicacionales II, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "comunicacion2"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1a0qU_1xggmarnvT0FSgiG2qU2jSJKbiq/view",
+      "originalName": "Grabación 2026-09-10",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1DNsAil2wfVNZJwYQzzme7OSqbOKcb2zQ",
+      "title": "Grabación · 12/08/2026",
+      "description": "Encuentro sincrónico de Aproximación al Mundo del Trabajo, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1DNsAil2wfVNZJwYQzzme7OSqbOKcb2zQ/view",
+      "originalName": "Grabación 2026-08-12",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1vEdCdzunKdjfQYWe7DfBk36TiXTqYWN2",
+      "title": "Grabación · 19/08/2026",
+      "description": "Encuentro sincrónico de Aproximación al Mundo del Trabajo, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1vEdCdzunKdjfQYWe7DfBk36TiXTqYWN2/view",
+      "originalName": "Grabación 2026-08-19",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1YZbiHjotk01gYJ5m_V3GegS1wAlEplyq",
+      "title": "Grabación · 26/08/2026",
+      "description": "Encuentro sincrónico de Aproximación al Mundo del Trabajo, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1YZbiHjotk01gYJ5m_V3GegS1wAlEplyq/view",
+      "originalName": "Grabación 2026-08-26",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "16MlS3-cEcsMdavhxncbb-nII2Uiy2lLq",
+      "title": "Grabación · 02/09/2026",
+      "description": "Encuentro sincrónico de Aproximación al Mundo del Trabajo, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/16MlS3-cEcsMdavhxncbb-nII2Uiy2lLq/view",
+      "originalName": "Grabación 2026-09-02",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1x4zarg-Bis6HIrYR6BNmCRriUihNvgyt",
+      "title": "Grabación · 09/09/2026",
+      "description": "Encuentro sincrónico de Aproximación al Mundo del Trabajo, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1x4zarg-Bis6HIrYR6BNmCRriUihNvgyt/view",
+      "originalName": "Grabación 2026-09-09",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1sliR6ctgcEFRqyYYDGzqef0GPsPFO8RG",
+      "title": "Grabación · 16/09/2026",
+      "description": "Encuentro sincrónico de Aproximación al Mundo del Trabajo, comisión del sitio. Charla con profesional del área de ciencias económicas.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1sliR6ctgcEFRqyYYDGzqef0GPsPFO8RG/view",
+      "originalName": "Grabación 2026-09-16",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1vIwRdwCQVuqJIUQi5obbLYlELIyZA585",
+      "title": "Grabación · 23/09/2026",
+      "description": "Encuentro sincrónico de Aproximación al Mundo del Trabajo, comisión del sitio. Charla con profesional del área de psicología.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1vIwRdwCQVuqJIUQi5obbLYlELIyZA585/view",
+      "originalName": "Grabación 2026-09-23",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1R2G0OVenoKCj2Ib7WgTaIB5Qox9de3wI",
+      "title": "Grabación · 07/10/2026",
+      "description": "Encuentro sincrónico de Aproximación al Mundo del Trabajo, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1R2G0OVenoKCj2Ib7WgTaIB5Qox9de3wI/view",
+      "originalName": "Grabación 2026-10-07",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1fARk3eeDhdUAzJjisQkmRXrItyS04oip",
+      "title": "Grabación · 14/10/2026",
+      "description": "Encuentro sincrónico de Aproximación al Mundo del Trabajo, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1fARk3eeDhdUAzJjisQkmRXrItyS04oip/view",
+      "originalName": "Grabación 2026-10-14",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1HV0j3abrOEb-C8niIuJYR_W-7DrYNtqh",
+      "title": "Grabación · 21/10/2026",
+      "description": "Encuentro sincrónico de Aproximación al Mundo del Trabajo, comisión del sitio.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "clase sincrónica"
+      ],
+      "subjects": [
+        "trabajo"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1HV0j3abrOEb-C8niIuJYR_W-7DrYNtqh/view",
+      "originalName": "Grabación 2026-10-21",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1alMKIweeWGL9QP2hZqluLlM8JVs3Ryzl",
+      "title": "Grabación 21/09/2026",
+      "description": "Encuentro sincrónico del Módulo Programador, Comisión B.1. La planilla central distingue este enlace del correspondiente a Comisión A.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "B.1"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1alMKIweeWGL9QP2hZqluLlM8JVs3Ryzl/view",
+      "originalName": "Grabación 21/09/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1-ZSxHipjMJ2HNXGhLCABZ4V5dFjR63Fx",
+      "title": "Grabación 20/10/2026",
+      "description": "Encuentro sincrónico del Módulo Programador, Comisión B.1, incorporado en la planilla central.",
+      "unit": "Clases grabadas",
+      "kind": "Grabación",
+      "tags": [
+        "grabación",
+        "B.1"
+      ],
+      "subjects": [
+        "programacion",
+        "bases"
+      ],
+      "format": "VIDEO",
+      "url": "https://drive.google.com/file/d/1-ZSxHipjMJ2HNXGhLCABZ4V5dFjR63Fx/view",
+      "originalName": "Grabación 20/10/2026",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "inst-certificado-examen",
+      "title": "Constancia de asistencia a examen",
+      "description": "Formulario para solicitar la constancia de asistencia a una mesa de examen.",
+      "unit": "General",
+      "kind": "Formulario",
+      "tags": [
+        "institucional",
+        "trámite"
+      ],
+      "subjects": [
+        "institucional"
+      ],
+      "format": "LINK",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeQmSZtGXuMAAouWEK7li17vw7Y0CtjpfC6-SDdOiZc17afbg/viewform",
+      "originalName": "Constancia de asistencia a examen",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información importante TSDS"
+    },
+    {
+      "id": "inst-certificado-regular",
+      "title": "Certificado de estudiante regular",
+      "description": "Formulario institucional para solicitar el certificado de regularidad.",
+      "unit": "General",
+      "kind": "Formulario",
+      "tags": [
+        "institucional",
+        "trámite"
+      ],
+      "subjects": [
+        "institucional"
+      ],
+      "format": "LINK",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSe-kJWEElK5Duetlhzlga-PqAgJD7z_ULmHCdBbqXUv_Hgs-Q/viewform",
+      "originalName": "Certificado de estudiante regular",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información importante TSDS"
+    },
+    {
+      "id": "inst-actualizacion-cus",
+      "title": "Actualización de CUS",
+      "description": "Formulario institucional para presentar o actualizar el Certificado Único de Salud.",
+      "unit": "General",
+      "kind": "Formulario",
+      "tags": [
+        "institucional",
+        "trámite"
+      ],
+      "subjects": [
+        "institucional"
+      ],
+      "format": "LINK",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfqpaqhfvuWFzv6XgcdMfN4KnNo0zDvZw0jXLwObkY5WUmT6g/viewform",
+      "originalName": "Actualización de CUS",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información importante TSDS"
+    },
+    {
+      "id": "1BUR_P3jKcjVpMGTMt23sV_t4ReOW3Npk",
+      "title": "Plan de estudios",
+      "description": "Documento institucional con el plan de estudios de la carrera.",
+      "unit": "General",
+      "kind": "Documento institucional",
+      "tags": [
+        "institucional",
+        "trámite"
+      ],
+      "subjects": [
+        "institucional"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1BUR_P3jKcjVpMGTMt23sV_t4ReOW3Npk/view",
+      "originalName": "Plan de estudios",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información importante TSDS"
+    },
+    {
+      "id": "1w5FdtyE8tbM98uL2JmlLhvnV3okMMiTw",
+      "title": "Correlatividades",
+      "description": "Documento institucional con el régimen o cuadro de correlatividades.",
+      "unit": "General",
+      "kind": "Documento institucional",
+      "tags": [
+        "institucional",
+        "trámite"
+      ],
+      "subjects": [
+        "institucional"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1w5FdtyE8tbM98uL2JmlLhvnV3okMMiTw/view",
+      "originalName": "Correlatividades",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información importante TSDS"
+    },
+    {
+      "id": "inst-equivalencias",
+      "title": "Consulta del estado de equivalencias",
+      "description": "Aplicación institucional para consultar el estado de trámites de equivalencias.",
+      "unit": "General",
+      "kind": "Trámite",
+      "tags": [
+        "institucional",
+        "trámite"
+      ],
+      "subjects": [
+        "institucional"
+      ],
+      "format": "LINK",
+      "url": "https://script.google.com/a/macros/ispc.edu.ar/s/AKfycbw1TTsXUdQpujsYEI3vcEx2pCDO7g_r54z6XA4XMzB8fpQ46k9_BhZCXFiMePbJGBx4-w/exec",
+      "originalName": "Consulta del estado de equivalencias",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información importante TSDS"
+    },
+    {
+      "id": "1s5an5wiNLxLAVvgPzp95r64uyei4ehna",
+      "title": "Base de Datos · Actividad de la clase 2",
+      "description": "Actividad de la clase 2 registrada en la planilla bibliográfica central.",
+      "unit": "Clases",
+      "kind": "Actividad",
+      "tags": [
+        "clase 2",
+        "actividad"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PDF",
+      "url": "https://drive.google.com/file/d/1s5an5wiNLxLAVvgPzp95r64uyei4ehna/view",
+      "originalName": "Base de Datos · Actividad de la clase 2",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
+    },
+    {
+      "id": "1u8sufR4JSGAOqGvlF-Ovjzs944GpoRTG",
+      "title": "Base de Datos · Presentación de la clase 18",
+      "description": "Presentación de la clase 18 incorporada en la actualización del 24/10 de la planilla bibliográfica central.",
+      "unit": "Clases",
+      "kind": "Presentación",
+      "tags": [
+        "clase 18"
+      ],
+      "subjects": [
+        "bases"
+      ],
+      "format": "PPTX",
+      "url": "https://docs.google.com/presentation/d/1u8sufR4JSGAOqGvlF-Ovjzs944GpoRTG/edit",
+      "originalName": "Base de Datos · Presentación de la clase 18",
+      "edition": "2026",
+      "reviewedAt": "2026-10-24",
+      "access": "Fuente compartida por la institución o el equipo docente; su apertura depende de los permisos del archivo.",
+      "review": "Relevado desde la fuente central de cursadas; verificar novedades posteriores en el aula virtual.",
+      "sourcePath": "Información centralizada de cursadas"
     }
   ],
   "events": [
@@ -5296,6 +7420,46 @@
       "title": "Materiales compartidos por la docente",
       "description": "Carpeta de referencia de la materia. El catálogo selecciona documentos generales y excluye nóminas y entregas de estudiantes.",
       "url": "https://drive.google.com/drive/folders/1GTC7hQVYzyzW1pz1MJGIlhObKl7IwLLs"
+    },
+    {
+      "subjects": [
+        "arquitectura"
+      ],
+      "title": "Planilla de clases y grabaciones · Comisión B",
+      "description": "Fuente central relevada el 24/10/2026.",
+      "url": "https://docs.google.com/spreadsheets/d/1mDibn_OT-c8sZA_mfl_9urIYdPqO3L6B6zf6Y6tFkI4/edit"
+    },
+    {
+      "subjects": [
+        "comunicacion2"
+      ],
+      "title": "Índice central de grabaciones · Comisión B",
+      "description": "Fuente central relevada el 24/10/2026.",
+      "url": "https://docs.google.com/document/d/1RS9N54Itemn8uoTmzNZFpU1fOaxO6Ctk/edit"
+    },
+    {
+      "subjects": [
+        "trabajo"
+      ],
+      "title": "Índice central de grabaciones · Comisión B",
+      "description": "Fuente central relevada el 24/10/2026.",
+      "url": "https://docs.google.com/document/d/1fnaLEvlpHSqyBK3APubqsy3mCAy_qOeo/edit"
+    },
+    {
+      "subjects": [
+        "programacion"
+      ],
+      "title": "Planilla bibliográfica y de grabaciones · B.1",
+      "description": "Fuente central relevada el 24/10/2026.",
+      "url": "https://docs.google.com/spreadsheets/d/1_3mKqlLGvHIfy-Fwz3SGsapDyU7SFgHEe0Znb4sIolo/edit"
+    },
+    {
+      "subjects": [
+        "bases"
+      ],
+      "title": "Planilla bibliográfica y de grabaciones · B.1",
+      "description": "Fuente central relevada el 24/10/2026.",
+      "url": "https://docs.google.com/spreadsheets/d/1_3mKqlLGvHIfy-Fwz3SGsapDyU7SFgHEe0Znb4sIolo/edit"
     }
   ],
   "collection": {

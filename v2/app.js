@@ -97,7 +97,8 @@ function renderResources() {
 }
 function info(id) {
  const s=subject(id), r=resource(s.source);
- return `<article class="info"><h2>${esc(s.title)}</h2><p><strong>Período:</strong> ${esc(s.period)}<br><strong>Comisión:</strong> ${esc(s.commission)}<br><strong>Docencia:</strong> ${esc(s.teachers)}</p><p>${esc(s.notes)}</p>${r?`<p>Documento de referencia: ${link(r.url,r.title)}</p>`:''}${schedules(id,true)}<div class="actions">${(DATA.classes||[]).filter(c=>c.subjects.includes(id)).map(c=>link(c.url,c.title)).join('')}${correction('subject',id)}</div></article>`;
+ const contacts=(s.contacts||[]).map(c=>`<li><strong>${esc(c.name)}</strong> · ${esc(c.role)}<br><a href="mailto:${esc(c.email)}">${esc(c.email)}</a></li>`).join('');
+ return `<article class="info"><h2>${esc(s.title)}</h2><p><strong>Período:</strong> ${esc(s.period)}<br><strong>Comisión:</strong> ${esc(s.commission)}<br><strong>Docencia:</strong> ${esc(s.teachers)}</p>${contacts?`<h3>Contactos institucionales</h3><ul>${contacts}</ul>`:''}<p>${esc(s.notes)}</p>${r?`<p>Documento de referencia: ${link(r.url,r.title)}</p>`:''}${schedules(id,true)}<div class="actions">${(DATA.classes||[]).filter(c=>c.subjects.includes(id)).map(c=>link(c.url,c.title)).join('')}${correction('subject',id)}</div></article>`;
 }
 function render(focus=false) {
  const parts=location.hash.slice(1).split('/');
@@ -136,4 +137,5 @@ $('#subject').addEventListener('change',e=>{location.hash=route(current.section=
 window.addEventListener('hashchange',()=>{if(DATA&&location.hash!=='#main')render(true);});
 async function init(){try{const response=await fetch('../dist/catalog.json');if(!response.ok)throw new Error('Catálogo no disponible');DATA=await response.json();$('#subject').insertAdjacentHTML('beforeend',DATA.subjects.map(s=>`<option value="${esc(s.id)}">${esc(s.title)}</option>`).join(''));$('#review').textContent='Última actualización del catálogo: '+date(DATA.updated)+'.';render();}catch{$('#main').innerHTML='<h1>No pudimos cargar el catálogo</h1><p>Revisá tu conexión e intentá nuevamente.</p><button id="retry">Reintentar</button>';$('#retry').addEventListener('click',init);}}
 init();
+
 

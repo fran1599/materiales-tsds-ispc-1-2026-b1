@@ -8,16 +8,16 @@ for r in data['resources']:
  assert set(r['subjects'])<=ss and r['subjects']
  assert all(r.get(k) for k in ['title','description','unit','kind','originalName','reviewedAt'])
  u=urllib.parse.urlparse(r['url'])
- assert u.scheme=='https' and u.hostname in ['drive.google.com','docs.google.com','acceso.ispc.edu.ar','www.youtube.com','youtube.com','github.com']
+ assert u.scheme=='https' and u.hostname in ['drive.google.com','docs.google.com','acceso.ispc.edu.ar','www.youtube.com','youtube.com','github.com','script.google.com']
  if u.hostname in ['drive.google.com','docs.google.com']:
-  assert '/d/'+r['id']+'/' in u.path
+  assert ('/d/'+r['id']+'/' in u.path) or ('/folders/'+r['id'] in u.path) or ('/forms/' in u.path)
  assert r['format'] in ['PDF','DOCX','PPTX','HTML','VIDEO','LINK']
  for a in r.get('alternateLinks',[]):
   u=urllib.parse.urlparse(a['url'])
-  assert u.scheme=='https' and u.hostname in ['drive.google.com','docs.google.com','acceso.ispc.edu.ar','www.youtube.com','youtube.com','github.com']
+  assert u.scheme=='https' and u.hostname in ['drive.google.com','docs.google.com','acceso.ispc.edu.ar','www.youtube.com','youtube.com','github.com','script.google.com']
   assert a['label'] and a['note']
   if u.hostname in ['drive.google.com','docs.google.com']:
-   assert re.search(r'/d/[A-Za-z0-9_-]+/',u.path)
+   assert re.search(r'/(?:d|folders)/[A-Za-z0-9_-]+',u.path) or '/forms/' in u.path
  datetime.date.fromisoformat(r['reviewedAt'])
 for s in data['subjects']:
  assert s['source'] is None or s['source'] in ids

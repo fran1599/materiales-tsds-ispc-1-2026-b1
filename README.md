@@ -110,3 +110,13 @@ Se prioriza la carpeta compartida por la docente: los enlaces principales del pr
 ## Navegación experimental
 
 Probá la [versión v2](https://fran1599.github.io/materiales-tsds-ispc-1-2026-b1/v2/) con entregas, materiales e información de cursada separados. La versión anterior sigue disponible. Ambas leen el mismo catálogo. Consultá [desarrollo y criterios de v2](v2/README.md).
+
+## Relevamiento central de cursadas · 24/10/2026
+
+- Fuente: carpeta compartida de centralización de cursadas, con una planilla de docentes, horarios y enlaces, y un documento de información institucional.
+- El catálogo pasa a 265 fichas únicas. Se incorporan índices de fuente, datos docentes y contactos institucionales, materiales recientes de Arquitectura y Base de Datos, programas y unidades de Comunicación II y AMT, y grabaciones verificadas de las comisiones del sitio.
+- La planilla actualizada del Módulo Programador corrige la grabación B.1 del 21/09 y agrega la del 20/10.
+- Se excluyen planillas de grupos, carpetas de entregas, nóminas, datos bancarios, materiales de otras comisiones sin clasificación segura y el acceso a SIU Guaraní del documento institucional, porque apunta a un dominio ajeno al ISPC.
+- Los índices centrales se conservan como mapas de fuente. No sustituyen las fichas específicas ni convierten automáticamente en publicable cada enlace futuro.
+- La disponibilidad de cada archivo y grabación depende de sus permisos en Drive; la validación del repositorio no puede garantizar su reproducción.
+
