@@ -18,11 +18,12 @@ node('#search').value='unlikely-no-match';run('renderResources()');assert.match(
 assert.equal(run('safe("javascript:alert(1)")'),'');assert.equal(run('esc("<img>")'),'&lt;img&gt;');
 
 context.location.hash='#entregas';run('render()');
-assert.match(node('#main').innerHTML,/Entregas y defensas de ABP/);
-assert.match(node('#main').innerHTML,/Coloquios promocionales/);
-assert.match(node('#main').innerHTML,/Grupo G – libManager/);
-assert.match(node('#main').innerHTML,/Fecha no publicada/);
-assert.match(node('#main').innerHTML,/Inscripciones desde/);
+assert.match(node('#main').innerHTML,/Cómo querés ver las fechas/);
+assert.match(node('#delivery-content').innerHTML,/Entregas y defensas de ABP/);
+assert.match(node('#delivery-content').innerHTML,/Coloquios promocionales/);
+assert.match(node('#delivery-content').innerHTML,/Grupo G – libManager/);
+assert.match(node('#delivery-content').innerHTML,/Fecha no publicada/);
+assert.match(node('#delivery-content').innerHTML,/Inscripciones desde/);
 const defense=new URL(run("singleCalendarURL(DATA.importantDates.find(d=>d.id==='abp-module-day-1'))"));
 assert.equal(defense.searchParams.get('dates'),'20261026T212500Z/20261026T234000Z');
 run('openCorrection("important","abp-module-day-1")');assert.match(node('#proposal').value,/Fecha publicada: 2026-10-26/);
@@ -48,6 +49,14 @@ run("var sampleEvents=[{start:'2026-10-12',end:'2026-10-16',title:'Semana'},{sta
 assert.equal(run('segments[0].span'),5);assert.equal(run('segments[0].col'),0);assert.equal(run('segments[1].lane'),1);assert.equal(run('segments[2].span'),2);assert.equal(run('segments[2].continuesAfter'),true);
 assert.equal(run("weekSegments(sampleEvents,'2026-10-19')[0].span"),2);assert.equal(run("weekSegments(sampleEvents,'2026-10-19')[0].continuesBefore"),true);
 assert.equal(run("weekSegments(sampleEvents,'2026-10-26').length"),0);
-context.location.hash='#entregas';run("deliveryView='month';calendarAnchor='2026-10-12';render()");assert.match(node('#delivery-content').innerHTML,/calendar-event/);assert.match(node('#delivery-content').innerHTML,/data-event=/);
+context.location.hash='#entregas';run("deliveryView='list';render()");
+assert.ok(run("calendarItems().some(item=>item.calendarKind==='important'&&item.calendarId==='abp-module-day-1')"));
+assert.ok(run("calendarItems().some(item=>item.calendarType==='colloquium')"));
+assert.ok(run("calendarItems().some(item=>item.calendarType==='activity')"));
+assert.ok(run("calendarItems().every(item=>Boolean(item.start))"));
+assert.equal(run("calendarItems().filter(item=>item.start==='2026-10-26'&&item.end==='2026-11-06'&&item.subjects.includes('programacion')).length"),1);
+run("deliveryView='month';calendarAnchor='2026-10-12';render()");assert.match(node('#delivery-content').innerHTML,/calendar-event/);assert.match(node('#delivery-content').innerHTML,/data-calendar-kind="important"/);assert.match(node('#delivery-content').innerHTML,/calendar-abp/);assert.match(node('#delivery-content').innerHTML,/solamente en la vista de lista/);
+run("calendarAnchor='2026-11-12';renderDeliveryView()");assert.match(node('#delivery-content').innerHTML,/calendar-colloquium/);
 run("deliveryView='week';renderDeliveryView()");assert.match(node('#delivery-content').innerHTML,/Semana siguiente/);
-console.log('v2 calendar: inclusive ranges, crossing weeks/months/years, overlapping lanes and subject filters passed');
+assert.match(node('#delivery-content').innerHTML,/ABP y defensas/);
+console.log('v2 calendar: unified ABP, colloquia and activities; inclusive ranges, overlapping lanes and subject filters passed');
