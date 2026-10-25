@@ -38,3 +38,9 @@ Las planillas de defensa del Módulo Programador B.1 y Arquitectura B muestran l
 
 El cronograma institucional de coloquios de noviembre se mantiene separado de las mesas finales para estudiantes regulares y libres de diciembre. La inscripción a coloquios abre el 02/11/2026 y cierra 48 horas hábiles antes de cada horario, según la fuente institucional. Inglés I no se incorpora como evento confirmado porque el documento aclara que la fecha mostrada en SIU Guaraní es administrativa y remite a otro cronograma por comisión.
 
+
+## Calendario unificado de fechas académicas
+
+Las vistas Lista, Mes y Semana representan el mismo conjunto de fechas. Lista conserva la separación entre entregas y defensas de Aprendizaje Basado en Proyectos (ABP), coloquios promocionales y otras actividades; Mes y Semana las reúnen cronológicamente con una referencia visual por categoría.
+
+El calendario omite únicamente las fechas cuyo día todavía no fue publicado y lo informa explícitamente: esas entradas permanecen disponibles en Lista como pendientes de confirmación. Cuando una fecha general ya está representada por una ficha de ABP equivalente, el calendario evita duplicarla. Cada barra abre el detalle con materia, horario conocido, fuente, Meet, turnos y acciones disponibles.
