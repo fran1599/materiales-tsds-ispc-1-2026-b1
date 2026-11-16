@@ -6,6 +6,7 @@ const safe = url => { try { const u = new URL(url); return u.protocol === 'https
 const link = (url, label) => safe(url) ? `<a href="${esc(safe(url))}" target="_blank" rel="noopener noreferrer">${esc(label)} ↗</a>` : '';
 const subject = id => DATA.subjects.find(s => s.id === id);
 const resource = id => DATA.resources.find(r => r.id === id);
+const courseSubjects = () => DATA.subjects.filter(s => s.id !== 'institucional');
 const today = () => new Intl.DateTimeFormat('en-CA', {timeZone:'America/Argentina/Cordoba',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 const date = s => s ? new Intl.DateTimeFormat('es-AR',{day:'numeric',month:'short',year:'numeric',timeZone:'UTC'}).format(new Date(s+'T12:00:00Z')) : 'Sin fecha';
 const norm = s => String(s).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
@@ -127,20 +128,28 @@ function info(id) {
  const contacts=(s.contacts||[]).map(c=>`<li><strong>${esc(c.name)}</strong> · ${esc(c.role)}<br><a href="mailto:${esc(c.email)}">${esc(c.email)}</a></li>`).join('');
  return `<article class="info"><h2>${esc(s.title)}</h2><p><strong>Período:</strong> ${esc(s.period)}<br><strong>Comisión:</strong> ${esc(s.commission)}<br><strong>Docencia:</strong> ${esc(s.teachers)}</p>${contacts?`<h3>Contactos institucionales</h3><ul>${contacts}</ul>`:''}<p>${esc(s.notes)}</p>${r?`<p>Documento de referencia: ${link(r.url,r.title)}</p>`:''}${schedules(id,true)}<div class="actions">${(DATA.classes||[]).filter(c=>c.subjects.includes(id)).map(c=>link(c.url,c.title)).join('')}${correction('subject',id)}</div></article>`;
 }
+function institutional() {
+ const links=DATA.importantLinks||[];
+ const docs=DATA.resources.filter(r=>r.subjects?.includes('institucional'));
+ const accessCards=links.map(item=>`<article class="access-card"><div class="access-card-top"><span class="source-badge ${item.kind==='student'?'student':''}">${item.kind==='official'?'Fuente institucional':'Iniciativa estudiantil'}</span><h2>${esc(item.title)}</h2></div><p>${esc(item.description)}</p>${item.note?`<p class="meta">${esc(item.note)}</p>`:''}<div class="actions">${link(item.url,item.action||'Abrir acceso')}</div></article>`).join('');
+ const docCards=docs.map(r=>`<details class="resource institutional-resource"><summary><strong>${esc(r.title)}</strong><span class="meta">${esc(r.unit)} · ${esc(r.kind)} · ${esc(r.format)}</span></summary><p>${esc(r.description)}</p><p>${r.tags.map(t=>`<span class="badge">${esc(t)}</span>`).join(' ')}</p><p class="meta">${esc(r.review||'')}${r.reviewedAt?' · Revisado '+esc(date(r.reviewedAt)):''}</p><div class="actions">${link(r.url,'Abrir documento')}${(r.alternateLinks||[]).map(l=>link(l.url,l.label||'Enlace alternativo')).join('')}${correction('resource',r.id)}</div></details>`).join('');
+ return `<p class="lead">Documentación institucional, trámites y accesos de contingencia reunidos en un solo lugar. Los archivos siguen alojados en sus fuentes y pueden actualizarse allí.</p><div class="notice"><strong>Priorizá siempre la fuente institucional más reciente.</strong> Este sitio organiza accesos, pero no reemplaza las comunicaciones del ISPC, el aula virtual ni las indicaciones docentes.</div><section aria-labelledby="access-title"><div class="section-head"><div><p class="eyebrow">ACCESOS IMPORTANTES</p><h2 id="access-title">Fuentes rápidas y recursos de apoyo</h2></div></div><div class="access-grid">${accessCards}</div></section><section class="institutional-docs" aria-labelledby="docs-title"><div class="section-head"><div><p class="eyebrow">DOCUMENTACIÓN Y TRÁMITES</p><h2 id="docs-title">Documentos institucionales disponibles</h2></div><a href="${route('materiales','institucional')}">Ver en la biblioteca →</a></div><p class="muted">Incluye normativa, plan de estudios, correlatividades, formularios y cronogramas relevados. Desplegá cada ficha para ver su alcance y procedencia.</p><div class="list">${docCards||'<p class="empty">No hay documentos institucionales cargados.</p>'}</div></section>`;
+}
 function render(focus=false) {
  const parts=location.hash.slice(1).split('/');
  current=parts[0]==='materia'&&subject(parts[1])?{subject:parts[1],section:parts[2]}:{subject:'',section:parts[0]||'inicio'};
- if(!['inicio','entregas','materiales','informacion'].includes(current.section))current.section='inicio';
+ if(!['inicio','entregas','materiales','informacion','institucional'].includes(current.section))current.section='inicio';
  $('#subject').value=current.subject;
- document.querySelectorAll('[data-route]').forEach(a=>{a.href=route(a.dataset.route,a.dataset.route==='inicio'?'':current.subject);if(a.dataset.route===current.section)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
+ document.querySelectorAll('[data-route]').forEach(a=>{a.href=route(a.dataset.route,['inicio','institucional'].includes(a.dataset.route)?'':current.subject);if(a.dataset.route===current.section)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
  const s=subject(current.subject);
- let content=`<p class="eyebrow">${s?'Materia · '+esc(s.edition||'2026'):'ISPC · Desarrollo de Software · 2026'}</p><h1>${esc(s?.title||({inicio:'¿Qué necesitás consultar?',entregas:'Entregas y actividades',materiales:'Biblioteca de materiales',informacion:'Información de las materias'}[current.section]))}</h1>`;
+ let content=`<p class="eyebrow">${s?'Materia · '+esc(s.edition||'2026'):'ISPC · Desarrollo de Software · 2026'}</p><h1>${esc(s?.title||({inicio:'¿Qué necesitás consultar?',entregas:'Entregas y actividades',materiales:'Biblioteca de materiales',informacion:'Información de las materias',institucional:'Institución y accesos importantes'}[current.section]))}</h1>`;
  if(s)content+=schedules(s.id);
- content+=modes();
- if(current.section==='inicio')content+=deliveries(4)+`<h2>Elegí una materia</h2><div class="grid">${DATA.subjects.map(s=>`<a class="info" href="${route('entregas',s.id)}"><strong>${esc(s.title)}</strong><p class="muted">${esc(s.period)}</p><span>Ver entregas, materiales e información →</span></a>`).join('')}</div>`;
+ if(current.section!=='institucional')content+=modes();
+ if(current.section==='inicio')content+=`<a class="institutional-callout" href="#institucional"><span><strong>Institución y accesos importantes</strong><small>Documentación, trámites, fuentes de contingencia y recursos estudiantiles</small></span><span aria-hidden="true">Ver accesos →</span></a>`+deliveries(4)+`<h2>Elegí una materia</h2><div class="grid">${courseSubjects().map(s=>`<a class="info" href="${route('entregas',s.id)}"><strong>${esc(s.title)}</strong><p class="muted">${esc(s.period)}</p><span>Ver entregas, materiales e información →</span></a>`).join('')}</div>`;
  if(current.section==='entregas')content+=deliveries();
  if(current.section==='materiales')content+=materials();
- if(current.section==='informacion')content+=s?info(s.id):`<p class="lead">Docentes, comisión, período y enlaces de cursada. Elegí una materia para consultar sus datos.</p><div class="grid">${DATA.subjects.map(s=>`<a class="info" href="${route('informacion',s.id)}"><strong>${esc(s.title)}</strong><p>${esc(s.period)}</p></a>`).join('')}</div>`;
+ if(current.section==='informacion')content+=s?info(s.id):`<p class="lead">Docentes, comisión, período y enlaces de cursada. Elegí una materia para consultar sus datos.</p><div class="grid">${courseSubjects().map(s=>`<a class="info" href="${route('informacion',s.id)}"><strong>${esc(s.title)}</strong><p>${esc(s.period)}</p></a>`).join('')}</div>`;
+ if(current.section==='institucional')content+=institutional();
  $('#main').innerHTML=content;document.title=(s?.title||'Entre apuntes')+' · '+current.section+' · v2';
  if(current.section==='entregas')renderDeliveryView();
  if(current.section==='materiales'){renderResources();['search','unit','kind',...(!current.subject?['material-subject']:[])].forEach(id=>$('#'+id).addEventListener('input',renderResources));}
@@ -162,7 +171,7 @@ $('#proposal').addEventListener('input',updateIssue);
 $('#copy').addEventListener('click',async()=>{try{await navigator.clipboard.writeText($('#proposal').value);$('#copy-status').textContent='Sugerencia copiada. Podés enviarla por tu canal habitual.';}catch{$('#proposal').focus();$('#proposal').select();$('#copy-status').textContent='Seleccionamos el texto para que puedas copiarlo manualmente.';}});
 $('#subject').addEventListener('change',e=>{location.hash=route(current.section==='inicio'?'entregas':current.section,e.target.value);});
 window.addEventListener('hashchange',()=>{if(DATA&&location.hash!=='#main')render(true);});
-async function init(){try{const response=await fetch('../dist/catalog.json');if(!response.ok)throw new Error('Catálogo no disponible');DATA=await response.json();$('#subject').insertAdjacentHTML('beforeend',DATA.subjects.map(s=>`<option value="${esc(s.id)}">${esc(s.title)}</option>`).join(''));$('#review').textContent='Última actualización del catálogo: '+date(DATA.updated)+'.';render();}catch{$('#main').innerHTML='<h1>No pudimos cargar el catálogo</h1><p>Revisá tu conexión e intentá nuevamente.</p><button id="retry">Reintentar</button>';$('#retry').addEventListener('click',init);}}
+async function init(){try{const response=await fetch('../dist/catalog.json');if(!response.ok)throw new Error('Catálogo no disponible');DATA=await response.json();$('#subject').insertAdjacentHTML('beforeend',courseSubjects().map(s=>`<option value="${esc(s.id)}">${esc(s.title)}</option>`).join(''));$('#review').textContent='Última actualización del catálogo: '+date(DATA.updated)+'.';render();}catch{$('#main').innerHTML='<h1>No pudimos cargar el catálogo</h1><p>Revisá tu conexión e intentá nuevamente.</p><button id="retry">Reintentar</button>';$('#retry').addEventListener('click',init);}}
 init();
 
 
