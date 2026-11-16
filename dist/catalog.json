@@ -1,6 +1,6 @@
 {
   "title": "Entre apuntes",
-  "updated": "2026-10-24",
+  "updated": "2026-11-15",
   "subjects": [
     {
       "id": "programacion",
@@ -7560,6 +7560,44 @@
     "pendingFiles": 4,
     "note": "Catálogo acumulativo de materiales generales. La revisión del Módulo Programador del 16/10 incorpora fuentes verificadas de Programación I, Base de Datos y 17 grabaciones de B.1; los avisos de foro se mantienen fuera de la biblioteca y tres vínculos directos caídos se representan mediante su página de Moodle. Comunicación II incorpora siete clases de la carpeta docente revisada el 22/10. Los trabajos personales o grupales permanecen excluidos."
   },
+  "importantLinks": [
+    {
+      "id": "ispc-contingencia-moodle",
+      "kind": "official",
+      "title": "Carpeta de contingencia de TSDS",
+      "description": "Carpeta compartida por el ISPC durante la caída de Moodle. Reúne la información institucional y la planilla con datos de cursada por materia.",
+      "note": "Fuente central: si un dato cambia, priorizá la versión vigente dentro de la carpeta.",
+      "action": "Abrir carpeta en Drive",
+      "url": "https://drive.google.com/drive/folders/1x2dLNfQtDR3QInPgvv-NR5CUfJWbw_AS"
+    },
+    {
+      "id": "ispc-informacion-importante-tsds",
+      "kind": "official",
+      "title": "Información importante de TSDS",
+      "description": "Acceso directo a la planilla institucional con contactos, trámites, certificados, plan de estudios, correlatividades y otros enlaces útiles.",
+      "note": "Consultá la planilla para acceder a sus vínculos actualizados.",
+      "action": "Abrir información institucional",
+      "url": "https://docs.google.com/spreadsheets/d/1n_8sDlAcT37JAZuwFzC8WmqneV-Bak-S/edit"
+    },
+    {
+      "id": "ispc-docentes-enlaces",
+      "kind": "official",
+      "title": "Datos y enlaces por materia",
+      "description": "Planilla central con docentes, horarios, enlaces de Meet, grabaciones y materiales organizados por espacio curricular y comisión.",
+      "note": "Verificá la comisión antes de usar un enlace de clase.",
+      "action": "Abrir planilla de materias",
+      "url": "https://docs.google.com/spreadsheets/d/1f06V6LlRq5aX-_LVzqAaMnWSDGXnwxRcaG9hv9nwTeI/edit"
+    },
+    {
+      "id": "biblioteca-arcana",
+      "kind": "student",
+      "title": "Gran Salón Arcano",
+      "description": "Recurso realizado por un compañero para acompañar el seguimiento y el estudio mediante una experiencia gamificada.",
+      "note": "Es una iniciativa estudiantil independiente: usala como apoyo y contrastá contenidos, fechas e indicaciones con las fuentes oficiales.",
+      "action": "Explorar recurso gamificado",
+      "url": "https://marce32406735-coder.github.io/Biblioteca_Arcana/Gran-Salon-Arcano.html"
+    }
+  ],
   "schedules": [
     {
       "id": "modulo",
