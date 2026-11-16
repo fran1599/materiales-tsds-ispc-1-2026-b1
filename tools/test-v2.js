@@ -9,10 +9,18 @@ vm.runInContext(fs.readFileSync('v2/app.js','utf8'),context);
 vm.runInContext('DATA = '+fs.readFileSync('dist/catalog.json','utf8'),context);
 const run = code => vm.runInContext(code,context);
 const catalog = JSON.parse(fs.readFileSync('dist/catalog.json','utf8'));
-for(const section of ['inicio','entregas','materiales','informacion']) {
+for(const section of ['inicio','entregas','materiales','informacion','institucional']) {
  context.location.hash='#'+section;run('render()');assert.ok(node('#main').innerHTML.includes('<h1>'));
  for(const s of catalog.subjects){context.location.hash=`#materia/${s.id}/${section}`;run('render()');assert.ok(node('#main').innerHTML.includes(s.title.replaceAll('&','&amp;')));}
 }
+context.location.hash='#institucional';run('render()');
+assert.match(node('#main').innerHTML,/Institución y accesos importantes/);
+assert.match(node('#main').innerHTML,/Carpeta de contingencia de TSDS/);
+assert.match(node('#main').innerHTML,/Información importante de TSDS/);
+assert.match(node('#main').innerHTML,/Datos y enlaces por materia/);
+assert.match(node('#main').innerHTML,/Gran Salón Arcano/);
+assert.match(node('#main').innerHTML,/Iniciativa estudiantil/);
+assert.ok(!node('#main').innerHTML.includes('class="modes"'));
 context.location.hash='#materiales';run('render()');assert.equal(node('#count').textContent,catalog.resources.length+' materiales encontrados');
 node('#search').value='unlikely-no-match';run('renderResources()');assert.match(node('#count').textContent,/0 materiales/);
 assert.equal(run('safe("javascript:alert(1)")'),'');assert.equal(run('esc("<img>")'),'&lt;img&gt;');
